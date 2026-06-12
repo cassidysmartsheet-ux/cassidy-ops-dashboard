@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T22:28:25+00:00",
+  "generatedAt": "2026-06-12T00:04:42+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-06-11",
+    "today": "2026-06-12",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 19,
-      "completed": 5
+      "completed": 1
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-02-27",
-      "varianceDays": 104,
+      "varianceDays": 105,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-03-31",
-      "varianceDays": 72,
+      "varianceDays": 73,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Portsmouth",
       "endDate": "2026-04-27",
-      "varianceDays": 45,
+      "varianceDays": 46,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 17,
+      "varianceDays": 18,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-05-29",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-06-02",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-06-02",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-04",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-04",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Shrewsbury",
       "endDate": "2026-06-05",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     }
   ],
@@ -391,104 +391,86 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 1,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3948-26",
-          "company": "Nordblom - Blue Sky Drive",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3875-26",
-          "company": "Repro",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "",
-          "company": "town of tewksbury",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "3650-26",
           "company": "Simon Malls ( Liberty Tree Mall)",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 18,
+      "count": 15,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "FJ-0233-26",
-          "company": "Natick",
+          "jobNum": "3977-26",
+          "company": "Grasso construction co Llc",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "FJ-0234-26",
-          "company": "Natick",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0310-26",
+          "jobNum": "FJ-0313-26",
           "company": "Town of tewksbury",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "FJ-0318-26",
-          "company": "Town of tewksbury",
+          "jobNum": "FJ-0312-26",
+          "company": "Tewksbury Town of",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "3583-26",
-          "company": "BXP",
+          "jobNum": "3853-26",
+          "company": "Freeman Manzo",
           "amount": 0,
-          "ageDays": 14
+          "ageDays": 11
+        },
+        {
+          "jobNum": "FJ-0313-26",
+          "company": "Town of tewksbury",
+          "amount": 0,
+          "ageDays": 11
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 28,
+      "count": 30,
       "amount": 1528084,
       "jobs": [
         {
-          "jobNum": "3662-26",
-          "company": "KeyPoint Partners",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3582-26",
-          "company": "The Dartmouth Group  Fox Hunt",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3790-26",
-          "company": "Merrimack health",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0305-26",
-          "company": "ej power",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
           "jobNum": "3667-26",
           "company": "99 attleboro",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3170-25",
+          "company": "Hub",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "FJ-0231-26",
+          "company": "Natick",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "FJ-0299-26",
+          "company": "massport logan",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "FJ-0231-26",
+          "company": "Natick",
           "amount": 0,
           "ageDays": 29
         }
@@ -496,38 +478,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 88,
+      "count": 92,
       "amount": 882832,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 161
+          "ageDays": 162
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 161
+          "ageDays": 162
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 161
+          "ageDays": 162
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 161
+          "ageDays": 162
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 161
+          "ageDays": 162
         }
       ]
     }
