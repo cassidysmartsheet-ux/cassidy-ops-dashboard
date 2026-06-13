@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T18:51:55+00:00",
+  "generatedAt": "2026-06-13T20:13:35+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-13",
@@ -15,16 +15,16 @@
       "pct": 133.3
     },
     "tonsMTD": {
-      "value": 5593.0,
+      "value": 15324.0,
       "priorMonth": 22120.0
     },
     "syMTD": {
-      "value": 21963.0,
+      "value": 42638.0,
       "priorMonth": 145754.0
     },
     "slip7d": {
-      "scheduled": 16,
-      "completed": 0
+      "scheduled": 3,
+      "completed": 15
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 19349775
+      "amount": 18570877
     }
   },
   "crewUtilGrid": [
@@ -261,63 +261,63 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0317-26",
-      "company": "Town of tewksbury",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Tewksbury",
-      "endDate": "2026-06-02",
-      "varianceDays": 11,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "FJ-0318-26",
-      "company": "Town of tewksbury",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Tewksbury",
-      "endDate": "2026-06-02",
-      "varianceDays": 11,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "FJ-0312-26",
+      "jobNum": "FJ-0315-26",
       "company": "Tewksbury Town of",
-      "phase": "Paving",
+      "phase": "Milling",
       "pm": "",
       "city": "Tewskbury",
-      "endDate": "2026-06-04",
-      "varianceDays": 9,
+      "endDate": "2026-06-03",
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
-      "jobNum": "3789-26",
-      "company": "Shrewsbury Commons",
+      "jobNum": "3452-25",
+      "company": "Leewood realty",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-07-13",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3650-26",
+      "company": "Simon Malls ( Liberty Tree Mall)",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Danvers",
+      "endDate": "2026-06-17",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3476-25",
+      "company": "The Guild of human services",
       "phase": "Hand",
       "pm": "",
-      "city": "Shrewsbury",
-      "endDate": "2026-06-05",
-      "varianceDays": 8,
+      "city": "Billerica",
+      "endDate": "2026-06-23",
+      "varianceDays": 1,
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0314-26",
-      "company": "Tewksbury Town of",
-      "phase": "Paving",
+      "jobNum": "3641-26",
+      "company": "Evergreen Management Group",
+      "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "Tewskbury",
-      "endDate": "2026-06-08",
-      "varianceDays": 5,
+      "city": "Hudson",
+      "endDate": "2026-06-30",
+      "varianceDays": 1,
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0316-26",
-      "company": "Tewksbury Town of",
-      "phase": "Paving",
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
       "pm": "",
-      "city": "Tewskbury",
-      "endDate": "2026-06-08",
-      "varianceDays": 5,
+      "city": "Newington",
+      "endDate": "2026-07-26",
+      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -379,25 +379,56 @@
     },
     {
       "weekStart": "2026-06-01",
-      "tons": 5593.0,
+      "tons": 8901.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-06-08",
-      "tons": 0,
+      "tons": 6423.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 0,
+      "count": 9,
       "amount": 0,
-      "jobs": []
+      "jobs": [
+        {
+          "jobNum": "FJ-0314-26",
+          "company": "Tewksbury Town of",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "FJ-0316-26",
+          "company": "Tewksbury Town of",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "3789-26",
+          "company": "Shrewsbury Commons",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "3976-26",
+          "company": "Pure Lowell, Inc.",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "FJ-0313-26",
+          "company": "Town of tewksbury",
+          "amount": 0,
+          "ageDays": 3
+        }
+      ]
     },
     {
       "bucket": "8-14 days",
-      "count": 14,
+      "count": 18,
       "amount": 0,
       "jobs": [
         {
@@ -471,7 +502,7 @@
     },
     {
       "bucket": "30+ days",
-      "count": 94,
+      "count": 95,
       "amount": 882832,
       "jobs": [
         {
@@ -514,9 +545,9 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 161,
+    "Complete": 182,
     "Unscheduled": 19,
-    "Scheduled": 126,
+    "Scheduled": 105,
     "": 120,
     "Cancelled": 11
   }
