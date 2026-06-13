@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T23:48:36+00:00",
+  "generatedAt": "2026-06-13T03:23:11+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-06-12",
+    "today": "2026-06-13",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31",
@@ -23,8 +23,8 @@
       "priorMonth": 145754.0
     },
     "slip7d": {
-      "scheduled": 19,
-      "completed": 1
+      "scheduled": 16,
+      "completed": 0
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-02-27",
-      "varianceDays": 105,
+      "varianceDays": 106,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-03-31",
-      "varianceDays": 73,
+      "varianceDays": 74,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Portsmouth",
       "endDate": "2026-04-27",
-      "varianceDays": 46,
+      "varianceDays": 47,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 18,
+      "varianceDays": 19,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-05-29",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-06-02",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-06-02",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-04",
-      "varianceDays": 8,
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-04",
-      "varianceDays": 8,
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Shrewsbury",
       "endDate": "2026-06-05",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     }
   ],
@@ -391,49 +391,42 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 1,
+      "count": 0,
       "amount": 0,
-      "jobs": [
-        {
-          "jobNum": "3650-26",
-          "company": "Simon Malls ( Liberty Tree Mall)",
-          "amount": 0,
-          "ageDays": 7
-        }
-      ]
+      "jobs": []
     },
     {
       "bucket": "8-14 days",
-      "count": 15,
+      "count": 13,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3977-26",
-          "company": "Grasso construction co Llc",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0313-26",
-          "company": "Town of tewksbury",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0312-26",
-          "company": "Tewksbury Town of",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3853-26",
           "company": "Freeman Manzo",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 12
         },
         {
           "jobNum": "FJ-0313-26",
           "company": "Town of tewksbury",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "FJ-0316-26",
+          "company": "Tewksbury Town of",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "",
+          "company": "town of tewksbury",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "3853-26",
+          "company": "Freeman Manzo",
           "amount": 0,
           "ageDays": 11
         }
@@ -441,36 +434,36 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 30,
+      "count": 32,
       "amount": 1528084,
       "jobs": [
-        {
-          "jobNum": "3667-26",
-          "company": "99 attleboro",
-          "amount": 0,
-          "ageDays": 30
-        },
         {
           "jobNum": "3170-25",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "FJ-0231-26",
           "company": "Natick",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "FJ-0299-26",
           "company": "massport logan",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "FJ-0231-26",
           "company": "Natick",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3887-26",
+          "company": "Onyx Corporation",
           "amount": 0,
           "ageDays": 29
         }
@@ -478,38 +471,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 92,
+      "count": 93,
       "amount": 882832,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 162
+          "ageDays": 163
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 162
+          "ageDays": 163
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 162
+          "ageDays": 163
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 162
+          "ageDays": 163
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 162
+          "ageDays": 163
         }
       ]
     }
