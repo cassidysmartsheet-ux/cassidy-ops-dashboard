@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T17:23:25+00:00",
+  "generatedAt": "2026-06-13T18:51:55+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-13",
@@ -15,11 +15,11 @@
       "pct": 133.3
     },
     "tonsMTD": {
-      "value": 3271.0,
+      "value": 5593.0,
       "priorMonth": 22120.0
     },
     "syMTD": {
-      "value": 7606.0,
+      "value": 21963.0,
       "priorMonth": 145754.0
     },
     "slip7d": {
@@ -221,16 +221,6 @@
   ],
   "jobsBehind": [
     {
-      "jobNum": "FJ-0222-26",
-      "company": "Medford DPW",
-      "phase": "Hand",
-      "pm": "",
-      "city": "",
-      "endDate": "2026-02-27",
-      "varianceDays": 106,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0223-26",
       "company": "MAssport",
       "phase": "Hand",
@@ -291,16 +281,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "2994-25",
-      "company": "Berkley",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Stoughton",
-      "endDate": "2026-06-04",
-      "varianceDays": 9,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0312-26",
       "company": "Tewksbury Town of",
       "phase": "Paving",
@@ -319,6 +299,26 @@
       "endDate": "2026-06-05",
       "varianceDays": 8,
       "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0314-26",
+      "company": "Tewksbury Town of",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Tewskbury",
+      "endDate": "2026-06-08",
+      "varianceDays": 5,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0316-26",
+      "company": "Tewksbury Town of",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Tewskbury",
+      "endDate": "2026-06-08",
+      "varianceDays": 5,
+      "status": "Scheduled"
     }
   ],
   "tonsWeekly": [
@@ -329,7 +329,7 @@
     },
     {
       "weekStart": "2026-03-23",
-      "tons": 118.0,
+      "tons": 133.0,
       "tonsLY": 0
     },
     {
@@ -344,12 +344,12 @@
     },
     {
       "weekStart": "2026-04-13",
-      "tons": 2649.0,
+      "tons": 2664.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-04-20",
-      "tons": 4219.0,
+      "tons": 4249.0,
       "tonsLY": 0
     },
     {
@@ -379,7 +379,7 @@
     },
     {
       "weekStart": "2026-06-01",
-      "tons": 3271.0,
+      "tons": 5593.0,
       "tonsLY": 0
     },
     {
@@ -397,7 +397,7 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 14,
       "amount": 0,
       "jobs": [
         {
@@ -471,7 +471,7 @@
     },
     {
       "bucket": "30+ days",
-      "count": 93,
+      "count": 94,
       "amount": 882832,
       "jobs": [
         {
@@ -514,9 +514,9 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 155,
+    "Complete": 161,
     "Unscheduled": 19,
-    "Scheduled": 132,
+    "Scheduled": 126,
     "": 120,
     "Cancelled": 11
   }
