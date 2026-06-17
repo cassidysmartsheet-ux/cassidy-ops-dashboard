@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-16T23:21:49+00:00",
+  "generatedAt": "2026-06-17T02:00:23+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-06-16",
+    "today": "2026-06-17",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31",
@@ -23,8 +23,8 @@
       "priorMonth": 145754.0
     },
     "slip7d": {
-      "scheduled": 9,
-      "completed": 11
+      "scheduled": 10,
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-03-31",
-      "varianceDays": 77,
+      "varianceDays": 78,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Portsmouth",
       "endDate": "2026-04-27",
-      "varianceDays": 50,
+      "varianceDays": 51,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 22,
+      "varianceDays": 23,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-05-29",
-      "varianceDays": 18,
+      "varianceDays": 19,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-12",
-      "varianceDays": 4,
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -277,6 +277,16 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-07-13",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3936-26",
+      "company": "RP Saxon",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Derry",
+      "endDate": "2026-06-15",
       "varianceDays": 2,
       "status": "Scheduled"
     },
@@ -291,32 +301,22 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "3960-26",
+      "company": "American Asphalt Paving",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Hooksett",
+      "endDate": "2026-06-15",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "3476-25",
       "company": "The Guild of human services",
       "phase": "Hand",
       "pm": "",
       "city": "Billerica",
       "endDate": "2026-06-23",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3641-26",
-      "company": "Evergreen Management Group",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Hudson",
-      "endDate": "2026-06-30",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3467-25",
-      "company": "Delaware Valley",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Newington",
-      "endDate": "2026-07-26",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -391,36 +391,36 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 5,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3976-26",
-          "company": "Pure Lowell, Inc.",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "FJ-0313-26",
           "company": "Town of tewksbury",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3970-26",
           "company": "Ardent Group",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3931-26",
           "company": "Key point",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         },
         {
           "jobNum": "4040-26",
           "company": "Thayer Associates",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3650-26",
+          "company": "Simon Malls ( Liberty Tree Mall)",
           "amount": 0,
           "ageDays": 5
         }
@@ -428,36 +428,36 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 17,
+      "count": 15,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3853-26",
-          "company": "Freeman Manzo",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0314-26",
+          "jobNum": "FJ-0315-26",
           "company": "Tewksbury Town of",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "FJ-0317-26",
+          "jobNum": "3650-26",
+          "company": "Simon Malls ( Liberty Tree Mall)",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "",
+          "company": "town of tewksbury",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "FJ-0318-26",
           "company": "Town of tewksbury",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "FJ-0315-26",
-          "company": "Tewksbury Town of",
-          "amount": 0,
-          "ageDays": 13
-        },
-        {
-          "jobNum": "3650-26",
-          "company": "Simon Malls ( Liberty Tree Mall)",
+          "jobNum": "3948-26",
+          "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
           "ageDays": 13
         }
@@ -465,38 +465,38 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 28,
+      "count": 31,
       "amount": 1528084,
       "jobs": [
         {
           "jobNum": "2820-25",
           "company": "Davis commons",
           "amount": 476028,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "2994-25",
           "company": "Berkley",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3948-26",
           "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3730-26",
           "company": "Paramount Paving and Sealcoating",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "FJ-0292-26",
           "company": "massport",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         }
       ]
     },
@@ -509,31 +509,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 166
+          "ageDays": 167
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 166
+          "ageDays": 167
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 166
+          "ageDays": 167
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 166
+          "ageDays": 167
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 166
+          "ageDays": 167
         }
       ]
     }
