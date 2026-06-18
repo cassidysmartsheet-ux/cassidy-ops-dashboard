@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T18:40:47+00:00",
+  "generatedAt": "2026-06-18T21:13:22+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-18",
@@ -15,16 +15,16 @@
       "pct": 96.7
     },
     "tonsMTD": {
-      "value": 15324.0,
-      "priorMonth": 22120.0
+      "value": 17552.0,
+      "priorMonth": 12387.0
     },
     "syMTD": {
-      "value": 42638.0,
-      "priorMonth": 145754.0
+      "value": 53998.0,
+      "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 6
+      "scheduled": 10,
+      "completed": 8
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 19693806
+      "amount": 19282177
     }
   },
   "crewUtilGrid": [
@@ -74,7 +74,7 @@
         },
         {
           "weekStart": "2026-06-22",
-          "scheduled": 9,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -126,14 +126,14 @@
         },
         {
           "weekStart": "2026-06-22",
-          "scheduled": 6,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-06-29",
-          "scheduled": 6,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -221,26 +221,6 @@
   ],
   "jobsBehind": [
     {
-      "jobNum": "FJ-0223-26",
-      "company": "MAssport",
-      "phase": "Hand",
-      "pm": "",
-      "city": "",
-      "endDate": "2026-03-31",
-      "varianceDays": 79,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3224-25",
-      "company": "AAM15",
-      "phase": "Crackfill",
-      "pm": "",
-      "city": "Portsmouth",
-      "endDate": "2026-04-27",
-      "varianceDays": 52,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0268-26",
       "company": "Holiday",
       "phase": "Milling",
@@ -268,16 +248,6 @@
       "city": "Tewskbury",
       "endDate": "2026-06-12",
       "varianceDays": 6,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3936-26",
-      "company": "RP Saxon",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Derry",
-      "endDate": "2026-06-15",
-      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
@@ -316,7 +286,37 @@
       "phase": "Hand",
       "pm": "",
       "city": "Billerica",
-      "endDate": "2026-06-23",
+      "endDate": "2026-07-14",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3641-26",
+      "company": "Evergreen Management Group",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Hudson",
+      "endDate": "2026-06-30",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Newington",
+      "endDate": "2026-07-26",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Methuen",
+      "endDate": "2026-08-25",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -324,47 +324,47 @@
   "tonsWeekly": [
     {
       "weekStart": "2026-03-23",
-      "tons": 133.0,
+      "tons": 18.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-03-30",
-      "tons": 100.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-04-06",
-      "tons": 289.0,
+      "tons": 30.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-04-13",
-      "tons": 2664.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-04-20",
-      "tons": 4249.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-04-27",
-      "tons": 10230.0,
+      "tons": 5236.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-05-04",
-      "tons": 7485.0,
+      "tons": 3503.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-05-11",
-      "tons": 2983.0,
+      "tons": 2342.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-05-18",
-      "tons": 6410.0,
+      "tons": 2410.0,
       "tonsLY": 0
     },
     {
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-06-15",
-      "tons": 2618.0,
+      "tons": 4846.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 4,
       "amount": 0,
       "jobs": [
         {
@@ -411,12 +411,18 @@
           "company": "Simon Malls ( Liberty Tree Mall)",
           "amount": 0,
           "ageDays": 6
+        },
+        {
+          "jobNum": "3936-26",
+          "company": "RP Saxon",
+          "amount": 0,
+          "ageDays": 3
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 15,
       "amount": 0,
       "jobs": [
         {
@@ -533,10 +539,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 182,
-    "Unscheduled": 19,
-    "Scheduled": 119,
-    "Cancelled": 13,
-    "": 119
+    "Scheduled": 113,
+    "Complete": 88,
+    "Unscheduled": 9,
+    "Cancelled": 7,
+    "": 160
   }
 }
