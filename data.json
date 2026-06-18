@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-17T22:44:18+00:00",
+  "generatedAt": "2026-06-18T00:04:23+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-06-17",
+    "today": "2026-06-18",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31",
@@ -23,8 +23,8 @@
       "priorMonth": 145754.0
     },
     "slip7d": {
-      "scheduled": 10,
-      "completed": 10
+      "scheduled": 12,
+      "completed": 6
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-03-31",
-      "varianceDays": 78,
+      "varianceDays": 79,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Portsmouth",
       "endDate": "2026-04-27",
-      "varianceDays": 51,
+      "varianceDays": 52,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 23,
+      "varianceDays": 24,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Tewksbury",
       "endDate": "2026-05-29",
-      "varianceDays": 19,
+      "varianceDays": 20,
       "status": "Scheduled"
     },
     {
@@ -267,17 +267,7 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-12",
-      "varianceDays": 5,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3452-25",
-      "company": "Leewood realty",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "Haverhill",
-      "endDate": "2026-07-13",
-      "varianceDays": 2,
+      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
@@ -287,17 +277,17 @@
       "pm": "",
       "city": "Derry",
       "endDate": "2026-06-15",
-      "varianceDays": 2,
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
       "jobNum": "3650-26",
       "company": "Simon Malls ( Liberty Tree Mall)",
-      "phase": "Paving",
+      "phase": "Hand",
       "pm": "",
       "city": "Danvers",
-      "endDate": "2026-06-17",
-      "varianceDays": 2,
+      "endDate": "2026-06-15",
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
@@ -307,6 +297,16 @@
       "pm": "",
       "city": "Hooksett",
       "endDate": "2026-06-15",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3452-25",
+      "company": "Leewood realty",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-07-13",
       "varianceDays": 2,
       "status": "Scheduled"
     },
@@ -391,55 +391,43 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 5,
+      "count": 3,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "FJ-0313-26",
-          "company": "Town of tewksbury",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3970-26",
-          "company": "Ardent Group",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "3931-26",
           "company": "Key point",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4040-26",
           "company": "Thayer Associates",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3650-26",
           "company": "Simon Malls ( Liberty Tree Mall)",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 15,
+      "count": 13,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "FJ-0315-26",
-          "company": "Tewksbury Town of",
+          "jobNum": "3948-26",
+          "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "3650-26",
-          "company": "Simon Malls ( Liberty Tree Mall)",
+          "jobNum": "3875-26",
+          "company": "Repro",
           "amount": 0,
           "ageDays": 14
         },
@@ -450,33 +438,33 @@
           "ageDays": 14
         },
         {
-          "jobNum": "FJ-0318-26",
-          "company": "Town of tewksbury",
+          "jobNum": "2994-25",
+          "company": "Berkley",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "3948-26",
-          "company": "Nordblom - Blue Sky Drive",
+          "jobNum": "FJ-0312-26",
+          "company": "Tewksbury Town of",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 31,
-      "amount": 1528084,
+      "count": 32,
+      "amount": 1052056,
       "jobs": [
         {
-          "jobNum": "2820-25",
-          "company": "Davis commons",
-          "amount": 476028,
+          "jobNum": "3730-26",
+          "company": "Paramount Paving and Sealcoating",
+          "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "2994-25",
-          "company": "Berkley",
+          "jobNum": "FJ-0292-26",
+          "company": "massport",
           "amount": 0,
           "ageDays": 30
         },
@@ -487,53 +475,53 @@
           "ageDays": 30
         },
         {
-          "jobNum": "3730-26",
-          "company": "Paramount Paving and Sealcoating",
-          "amount": 0,
-          "ageDays": 29
+          "jobNum": "FJ-0223-26",
+          "company": "MAssport",
+          "amount": 100000,
+          "ageDays": 28
         },
         {
-          "jobNum": "FJ-0292-26",
-          "company": "massport",
-          "amount": 0,
-          "ageDays": 29
+          "jobNum": "2820-25",
+          "company": "Davis commons",
+          "amount": 476028,
+          "ageDays": 27
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 103,
-      "amount": 882832,
+      "count": 106,
+      "amount": 1358860,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 167
+          "ageDays": 168
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 167
+          "ageDays": 168
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 167
+          "ageDays": 168
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 167
+          "ageDays": 168
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 167
+          "ageDays": 168
         }
       ]
     }
