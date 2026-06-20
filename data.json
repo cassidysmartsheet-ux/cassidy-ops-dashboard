@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T13:12:13+00:00",
+  "generatedAt": "2026-06-20T15:14:51+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-20",
@@ -74,7 +74,7 @@
         },
         {
           "weekStart": "2026-06-22",
-          "scheduled": 7,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -126,14 +126,14 @@
         },
         {
           "weekStart": "2026-06-22",
-          "scheduled": 5,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-06-29",
-          "scheduled": 4,
+          "scheduled": 3,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
