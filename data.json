@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T15:14:51+00:00",
+  "generatedAt": "2026-06-20T16:53:33+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-20",
@@ -15,16 +15,16 @@
       "pct": 96.7
     },
     "tonsMTD": {
-      "value": 20170.0,
-      "priorMonth": 12387.0
+      "value": 24073.0,
+      "priorMonth": 13147.0
     },
     "syMTD": {
-      "value": 74078.0,
+      "value": 83549.0,
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 10,
-      "completed": 4
+      "scheduled": 5,
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 19282177
+      "amount": 19187873
     }
   },
   "crewUtilGrid": [
@@ -74,7 +74,7 @@
         },
         {
           "weekStart": "2026-06-22",
-          "scheduled": 6,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -126,7 +126,7 @@
         },
         {
           "weekStart": "2026-06-22",
-          "scheduled": 7,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -231,16 +231,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0310-26",
-      "company": "Town of tewksbury",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Tewksbury",
-      "endDate": "2026-05-29",
-      "varianceDays": 22,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0315-26",
       "company": "Tewksbury Town of",
       "phase": "Paving",
@@ -248,16 +238,6 @@
       "city": "Tewskbury",
       "endDate": "2026-06-12",
       "varianceDays": 8,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3650-26",
-      "company": "Simon Malls ( Liberty Tree Mall)",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Danvers",
-      "endDate": "2026-06-15",
-      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -271,32 +251,12 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3974-26",
-      "company": "Newbury court",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Concord",
-      "endDate": "2026-06-17",
-      "varianceDays": 3,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3452-25",
       "company": "Leewood realty",
       "phase": "Pulverizing",
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-07-13",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3875-26",
-      "company": "Repro",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Salem",
-      "endDate": "2026-06-18",
       "varianceDays": 2,
       "status": "Scheduled"
     },
@@ -317,6 +277,46 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-30",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3705-26",
+      "company": "Russo Brothers",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Hudson",
+      "endDate": "2026-06-19",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Newington",
+      "endDate": "2026-07-26",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Methuen",
+      "endDate": "2026-08-25",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3814-26",
+      "company": "OESL Automotive USA LLC",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Somersworth",
+      "endDate": "2026-07-07",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -369,7 +369,7 @@
     },
     {
       "weekStart": "2026-05-25",
-      "tons": 4132.0,
+      "tons": 4892.0,
       "tonsLY": 0
     },
     {
@@ -379,21 +379,27 @@
     },
     {
       "weekStart": "2026-06-08",
-      "tons": 6423.0,
+      "tons": 7943.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-06-15",
-      "tons": 4846.0,
+      "tons": 7229.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 2,
+      "count": 8,
       "amount": 0,
       "jobs": [
+        {
+          "jobNum": "FJ-0309-26",
+          "company": "Massachusetts Trial Court",
+          "amount": 0,
+          "ageDays": 7
+        },
         {
           "jobNum": "3936-26",
           "company": "RP Saxon",
@@ -401,16 +407,28 @@
           "ageDays": 5
         },
         {
-          "jobNum": "3705-26",
-          "company": "Russo Brothers",
+          "jobNum": "3650-26",
+          "company": "Simon Malls ( Liberty Tree Mall)",
           "amount": 0,
-          "ageDays": 1
+          "ageDays": 5
+        },
+        {
+          "jobNum": "3974-26",
+          "company": "Newbury court",
+          "amount": 0,
+          "ageDays": 3
+        },
+        {
+          "jobNum": "3650-26",
+          "company": "Simon Malls ( Liberty Tree Mall)",
+          "amount": 0,
+          "ageDays": 3
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 10,
+      "count": 11,
       "amount": 0,
       "jobs": [
         {
@@ -438,10 +456,10 @@
           "ageDays": 11
         },
         {
-          "jobNum": "FJ-0313-26",
+          "jobNum": "FJ-0310-26",
           "company": "Town of tewksbury",
           "amount": 0,
-          "ageDays": 10
+          "ageDays": 11
         }
       ]
     },
@@ -527,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 113,
-    "Complete": 88,
+    "Scheduled": 107,
+    "Complete": 97,
     "Unscheduled": 9,
     "Cancelled": 7,
-    "": 160
+    "": 157
   }
 }
