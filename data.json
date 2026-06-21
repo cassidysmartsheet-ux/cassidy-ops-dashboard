@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T13:25:05+00:00",
+  "generatedAt": "2026-06-21T15:24:10+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-21",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 29,
+      "scheduledDays": 30,
       "availableDays": 30,
-      "pct": 96.7
+      "pct": 100.0
     },
     "tonsMTD": {
-      "value": 24073.0,
-      "priorMonth": 13147.0
+      "value": 24613.0,
+      "priorMonth": 13907.0
     },
     "syMTD": {
-      "value": 83549.0,
+      "value": 89739.0,
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 5,
-      "completed": 9
+      "scheduled": 1,
+      "completed": 14
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 19199804
+      "amount": 18374338
     }
   },
   "crewUtilGrid": [
@@ -67,7 +67,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-15",
-          "scheduled": 14,
+          "scheduled": 15,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -241,16 +241,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3960-26",
-      "company": "American Asphalt Paving",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Hooksett",
-      "endDate": "2026-06-15",
-      "varianceDays": 6,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3452-25",
       "company": "Leewood realty",
       "phase": "Pulverizing",
@@ -319,6 +309,16 @@
       "endDate": "2026-07-07",
       "varianceDays": 1,
       "status": "Scheduled"
+    },
+    {
+      "jobNum": "3747-26",
+      "company": "Jewish Community Center",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Marblehead",
+      "endDate": "2026-08-28",
+      "varianceDays": 1,
+      "status": "Scheduled"
     }
   ],
   "tonsWeekly": [
@@ -369,12 +369,12 @@
     },
     {
       "weekStart": "2026-05-25",
-      "tons": 4892.0,
+      "tons": 5652.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-06-01",
-      "tons": 8901.0,
+      "tons": 8945.0,
       "tonsLY": 0
     },
     {
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-06-15",
-      "tons": 7229.0,
+      "tons": 7725.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 7,
+      "count": 12,
       "amount": 0,
       "jobs": [
         {
@@ -407,22 +407,22 @@
           "ageDays": 6
         },
         {
-          "jobNum": "3974-26",
-          "company": "Newbury court",
+          "jobNum": "3960-26",
+          "company": "American Asphalt Paving",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 6
         },
         {
-          "jobNum": "3650-26",
-          "company": "Simon Malls ( Liberty Tree Mall)",
+          "jobNum": "3932-26",
+          "company": "Key point",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
-          "jobNum": "3875-26",
-          "company": "Repro",
+          "jobNum": "3933-26",
+          "company": "KeyPoint Partners",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 5
         }
       ]
     },
@@ -465,7 +465,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 36,
+      "count": 38,
       "amount": 952056,
       "jobs": [
         {
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 110,
-    "Complete": 97,
-    "Unscheduled": 9,
+    "Scheduled": 105,
+    "Complete": 105,
+    "Unscheduled": 8,
     "Cancelled": 7,
-    "": 157
+    "": 155
   }
 }
