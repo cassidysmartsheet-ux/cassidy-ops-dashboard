@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:41:25+00:00",
+  "generatedAt": "2026-06-22T22:25:56+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-22",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 31,
+      "scheduledDays": 30,
       "availableDays": 30,
-      "pct": 103.3
+      "pct": 100.0
     },
     "tonsMTD": {
-      "value": 24613.0,
+      "value": 24763.0,
       "priorMonth": 13907.0
     },
     "syMTD": {
-      "value": 89739.0,
+      "value": 91339.0,
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 6,
-      "completed": 14
+      "scheduled": 5,
+      "completed": 15
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 19337190
+      "amount": 20774927
     }
   },
   "crewUtilGrid": [
@@ -41,7 +41,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-22",
-          "scheduled": 6,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -55,7 +55,7 @@
         },
         {
           "weekStart": "2026-07-06",
-          "scheduled": 3,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -67,21 +67,21 @@
       "weeks": [
         {
           "weekStart": "2026-06-22",
-          "scheduled": 8,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-06-29",
-          "scheduled": 8,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-07-06",
-          "scheduled": 8,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -119,14 +119,14 @@
       "weeks": [
         {
           "weekStart": "2026-06-22",
-          "scheduled": 10,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-06-29",
-          "scheduled": 4,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -145,7 +145,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-22",
-          "scheduled": 6,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -159,7 +159,7 @@
         },
         {
           "weekStart": "2026-07-06",
-          "scheduled": 6,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -241,6 +241,16 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "3814-26",
+      "company": "OESL Automotive USA LLC",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Somersworth",
+      "endDate": "2026-09-10",
+      "varianceDays": 5,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "3705-26",
       "company": "Russo Brothers",
       "phase": "Reclaim/Grading",
@@ -297,16 +307,6 @@
       "pm": "",
       "city": "Methuen",
       "endDate": "2026-08-25",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3814-26",
-      "company": "OESL Automotive USA LLC",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Somersworth",
-      "endDate": "2026-09-03",
       "varianceDays": 1,
       "status": "Scheduled"
     },
@@ -384,7 +384,7 @@
     },
     {
       "weekStart": "2026-06-22",
-      "tons": 2618.0,
+      "tons": 2768.0,
       "tonsLY": 0
     }
   ],
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 112,
-    "Complete": 105,
+    "Scheduled": 121,
+    "Complete": 106,
+    "Cancelled": 8,
     "Unscheduled": 7,
-    "Cancelled": 7,
-    "": 151
+    "": 147
   }
 }
