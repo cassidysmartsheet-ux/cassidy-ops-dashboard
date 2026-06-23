@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T23:49:50+00:00",
+  "generatedAt": "2026-06-23T02:52:10+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-06-22",
+    "today": "2026-06-23",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31",
@@ -23,8 +23,8 @@
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 4,
-      "completed": 15
+      "scheduled": 9,
+      "completed": 11
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 28,
+      "varianceDays": 29,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-12",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -391,38 +391,38 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 12,
+      "count": 10,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3936-26",
-          "company": "RP Saxon",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3650-26",
-          "company": "Simon Malls ( Liberty Tree Mall)",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3960-26",
-          "company": "American Asphalt Paving",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "3932-26",
           "company": "Key point",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3933-26",
           "company": "KeyPoint Partners",
           "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "3974-26",
+          "company": "Newbury court",
+          "amount": 0,
           "ageDays": 6
+        },
+        {
+          "jobNum": "3650-26",
+          "company": "Simon Malls ( Liberty Tree Mall)",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3875-26",
+          "company": "Repro",
+          "amount": 0,
+          "ageDays": 5
         }
       ]
     },
@@ -432,32 +432,32 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "FJ-0314-26",
-          "company": "Tewksbury Town of",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0316-26",
-          "company": "Tewksbury Town of",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3789-26",
-          "company": "Shrewsbury Commons",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
           "jobNum": "3976-26",
           "company": "Pure Lowell, Inc.",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "FJ-0310-26",
           "company": "Town of tewksbury",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "FJ-0313-26",
+          "company": "Town of tewksbury",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "3970-26",
+          "company": "Ardent Group",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "3936-26",
+          "company": "RP Saxon",
           "amount": 0,
           "ageDays": 13
         }
@@ -465,38 +465,38 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 36,
+      "count": 39,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "3802-26",
           "company": "Perth Road - M. Hallet",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "3947-26",
           "company": "Nordblom",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "FJ-0317-26",
           "company": "Town of tewksbury",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "3802-26",
           "company": "Perth Road - M. Hallet",
           "amount": 0,
-          "ageDays": 26
+          "ageDays": 27
         },
         {
           "jobNum": "FJ-0310-26",
           "company": "Town of tewksbury",
           "amount": 0,
-          "ageDays": 26
+          "ageDays": 27
         }
       ]
     },
@@ -509,31 +509,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 172
+          "ageDays": 173
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 172
+          "ageDays": 173
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 172
+          "ageDays": 173
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 172
+          "ageDays": 173
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 172
+          "ageDays": 173
         }
       ]
     }
