@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T23:07:31+00:00",
+  "generatedAt": "2026-06-24T00:11:08+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-06-23",
+    "today": "2026-06-24",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31",
@@ -15,16 +15,16 @@
       "pct": 96.7
     },
     "tonsMTD": {
-      "value": 24763.0,
+      "value": 27381.0,
       "priorMonth": 13907.0
     },
     "syMTD": {
-      "value": 91339.0,
+      "value": 111419.0,
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 9,
-      "completed": 11
+      "scheduled": 13,
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 20969193
+      "amount": 20774927
     }
   },
   "crewUtilGrid": [
@@ -126,14 +126,14 @@
         },
         {
           "weekStart": "2026-06-29",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-07-06",
-          "scheduled": 7,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -152,7 +152,7 @@
         },
         {
           "weekStart": "2026-06-29",
-          "scheduled": 4,
+          "scheduled": 3,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 29,
+      "varianceDays": 30,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,17 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-12",
-      "varianceDays": 11,
+      "varianceDays": 12,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3705-26",
+      "company": "Russo Brothers",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Hudson",
+      "endDate": "2026-06-19",
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -251,16 +261,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3705-26",
-      "company": "Russo Brothers",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Hudson",
-      "endDate": "2026-06-19",
-      "varianceDays": 4,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3452-25",
       "company": "Leewood realty",
       "phase": "Pulverizing",
@@ -271,12 +271,32 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "FJ-0349-26",
+      "company": "mass dot",
+      "phase": "Milling",
+      "pm": "",
+      "city": "tewksbury",
+      "endDate": "2026-06-22",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "3476-25",
       "company": "The Guild of human services",
       "phase": "Hand",
       "pm": "",
       "city": "Billerica",
       "endDate": "2026-07-14",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "RO-001",
+      "company": "RAINED OUT",
+      "phase": "Crackfill",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-06-23",
       "varianceDays": 1,
       "status": "Scheduled"
     },
@@ -297,26 +317,6 @@
       "pm": "",
       "city": "Newington",
       "endDate": "2026-07-26",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3695-26",
-      "company": "Notre Dame Cristo Ray",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Methuen",
-      "endDate": "2026-08-25",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3747-26",
-      "company": "Jewish Community Center",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Marblehead",
-      "endDate": "2026-08-28",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -391,36 +391,36 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 10,
+      "count": 8,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3932-26",
-          "company": "Key point",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3933-26",
-          "company": "KeyPoint Partners",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "3974-26",
           "company": "Newbury court",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3650-26",
           "company": "Simon Malls ( Liberty Tree Mall)",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3875-26",
           "company": "Repro",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3705-26",
+          "company": "Russo Brothers",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "FJ-0309-26",
+          "company": "Massachusetts Trial Court",
           "amount": 0,
           "ageDays": 5
         }
@@ -432,32 +432,32 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3976-26",
-          "company": "Pure Lowell, Inc.",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0310-26",
-          "company": "Town of tewksbury",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
           "jobNum": "FJ-0313-26",
           "company": "Town of tewksbury",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3970-26",
           "company": "Ardent Group",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3936-26",
           "company": "RP Saxon",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3931-26",
+          "company": "Key point",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "4040-26",
+          "company": "Thayer Associates",
           "amount": 0,
           "ageDays": 13
         }
@@ -465,75 +465,75 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 39,
+      "count": 41,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "3802-26",
           "company": "Perth Road - M. Hallet",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "3947-26",
           "company": "Nordblom",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "FJ-0317-26",
           "company": "Town of tewksbury",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "3802-26",
           "company": "Perth Road - M. Hallet",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "FJ-0310-26",
           "company": "Town of tewksbury",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 112,
+      "count": 113,
       "amount": 2410916,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 173
+          "ageDays": 174
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 173
+          "ageDays": 174
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 173
+          "ageDays": 174
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 173
+          "ageDays": 174
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 173
+          "ageDays": 174
         }
       ]
     }
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 124,
-    "Complete": 105,
-    "Cancelled": 8,
-    "Unscheduled": 7,
+    "Scheduled": 123,
+    "Complete": 107,
+    "Cancelled": 7,
+    "Unscheduled": 9,
     "": 145
   }
 }
