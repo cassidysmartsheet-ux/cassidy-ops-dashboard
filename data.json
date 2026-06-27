@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T20:42:17+00:00",
+  "generatedAt": "2026-06-27T21:44:41+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-27",
@@ -10,12 +10,12 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 29,
+      "scheduledDays": 30,
       "availableDays": 30,
-      "pct": 96.7
+      "pct": 100.0
     },
     "tonsMTD": {
-      "value": 27381.0,
+      "value": 34881.0,
       "priorMonth": 13907.0
     },
     "syMTD": {
@@ -23,8 +23,8 @@
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 20,
-      "completed": 2
+      "scheduled": 16,
+      "completed": 7
     },
     "holdsMTD": {
       "weather": 0,
@@ -67,14 +67,14 @@
       "weeks": [
         {
           "weekStart": "2026-06-22",
-          "scheduled": 7,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-06-29",
-          "scheduled": 3,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -261,16 +261,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0349-26",
-      "company": "mass dot",
-      "phase": "Milling",
-      "pm": "",
-      "city": "tewksbury",
-      "endDate": "2026-06-22",
-      "varianceDays": 5,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "RO-001",
       "company": "RAINED OUT",
       "phase": "Crackfill",
@@ -318,6 +308,16 @@
       "city": "pepperell",
       "endDate": "2026-06-25",
       "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3476-25",
+      "company": "The Guild of human services",
+      "phase": "Hand",
+      "pm": "",
+      "city": "Billerica",
+      "endDate": "2026-07-14",
+      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-06-22",
-      "tons": 2768.0,
+      "tons": 10268.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 2,
+      "count": 5,
       "amount": 0,
       "jobs": [
         {
@@ -405,6 +405,24 @@
           "company": "Russo Brothers",
           "amount": 0,
           "ageDays": 3
+        },
+        {
+          "jobNum": "FJ-0349-26",
+          "company": "mass dot",
+          "amount": 0,
+          "ageDays": 3
+        },
+        {
+          "jobNum": "FJ-0349-26",
+          "company": "mass dot",
+          "amount": 0,
+          "ageDays": 3
+        },
+        {
+          "jobNum": "FJ-0349-26",
+          "company": "mass dot",
+          "amount": 0,
+          "ageDays": 2
         }
       ]
     },
@@ -527,8 +545,8 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 124,
-    "Complete": 107,
+    "Scheduled": 121,
+    "Complete": 112,
     "Unscheduled": 9,
     "Cancelled": 6,
     "": 152
