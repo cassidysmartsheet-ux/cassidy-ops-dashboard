@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T22:44:57+00:00",
+  "generatedAt": "2026-06-27T23:43:58+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-27",
@@ -15,16 +15,16 @@
       "pct": 100.0
     },
     "tonsMTD": {
-      "value": 37499.0,
+      "value": 37574.0,
       "priorMonth": 13907.0
     },
     "syMTD": {
-      "value": 131499.0,
+      "value": 132107.0,
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 8
+      "scheduled": 12,
+      "completed": 11
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 20785787
+      "amount": 20544099
     }
   },
   "crewUtilGrid": [
@@ -301,22 +301,22 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0350-26",
-      "company": "pepperell",
-      "phase": "Milling",
-      "pm": "",
-      "city": "pepperell",
-      "endDate": "2026-06-25",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3476-25",
       "company": "The Guild of human services",
       "phase": "Hand",
       "pm": "",
       "city": "Billerica",
       "endDate": "2026-07-14",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3641-26",
+      "company": "Evergreen Management Group",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Hudson",
+      "endDate": "2026-06-30",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-06-22",
-      "tons": 12886.0,
+      "tons": 12961.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 5,
+      "count": 8,
       "amount": 0,
       "jobs": [
         {
@@ -399,6 +399,12 @@
           "company": "Trinity Lutheran",
           "amount": 0,
           "ageDays": 5
+        },
+        {
+          "jobNum": "3794-26",
+          "company": "Macleod Construction",
+          "amount": 0,
+          "ageDays": 4
         },
         {
           "jobNum": "3705-26",
@@ -417,12 +423,6 @@
           "company": "mass dot",
           "amount": 0,
           "ageDays": 3
-        },
-        {
-          "jobNum": "FJ-0349-26",
-          "company": "mass dot",
-          "amount": 0,
-          "ageDays": 2
         }
       ]
     },
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 121,
-    "Complete": 113,
-    "Unscheduled": 8,
-    "Cancelled": 5,
-    "": 151
+    "Scheduled": 117,
+    "Complete": 117,
+    "Unscheduled": 7,
+    "Cancelled": 4,
+    "": 142
   }
 }
