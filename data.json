@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T23:43:58+00:00",
+  "generatedAt": "2026-06-28T01:54:00+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-06-27",
+    "today": "2026-06-28",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31",
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 33,
+      "varianceDays": 34,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-12",
-      "varianceDays": 15,
+      "varianceDays": 16,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,17 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 8,
+      "varianceDays": 9,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "RO-001",
+      "company": "RAINED OUT",
+      "phase": "Crackfill",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-06-23",
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -261,23 +271,13 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "RO-001",
-      "company": "RAINED OUT",
-      "phase": "Crackfill",
-      "pm": "",
-      "city": "Haverhill",
-      "endDate": "2026-06-23",
-      "varianceDays": 4,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3395-25",
       "company": "Hilton Hotel",
       "phase": "Paving",
       "pm": "",
       "city": "East Boston",
       "endDate": "2026-06-24",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-25",
-      "varianceDays": 2,
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
@@ -398,142 +398,142 @@
           "jobNum": "3869-26",
           "company": "Trinity Lutheran",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         },
         {
           "jobNum": "3794-26",
           "company": "Macleod Construction",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
           "jobNum": "3705-26",
           "company": "Russo Brothers",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 4
         },
         {
           "jobNum": "FJ-0349-26",
           "company": "mass dot",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 4
         },
         {
           "jobNum": "FJ-0349-26",
           "company": "mass dot",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 4
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 12,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "FJ-0309-26",
-          "company": "Massachusetts Trial Court",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3936-26",
           "company": "RP Saxon",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "3650-26",
           "company": "Simon Malls ( Liberty Tree Mall)",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "3960-26",
           "company": "American Asphalt Paving",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "3932-26",
           "company": "Key point",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 12
+        },
+        {
+          "jobNum": "3933-26",
+          "company": "KeyPoint Partners",
+          "amount": 0,
+          "ageDays": 12
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 41,
+      "count": 35,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "FJ-0233-26",
-          "company": "Natick",
+          "jobNum": "3977-26",
+          "company": "Grasso construction co Llc",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "FJ-0234-26",
-          "company": "Natick",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0310-26",
+          "jobNum": "FJ-0313-26",
           "company": "Town of tewksbury",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "FJ-0318-26",
-          "company": "Town of tewksbury",
+          "jobNum": "FJ-0312-26",
+          "company": "Tewksbury Town of",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "3583-26",
-          "company": "BXP",
+          "jobNum": "3853-26",
+          "company": "Freeman Manzo",
           "amount": 0,
-          "ageDays": 30
+          "ageDays": 27
+        },
+        {
+          "jobNum": "FJ-0313-26",
+          "company": "Town of tewksbury",
+          "amount": 0,
+          "ageDays": 27
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 119,
+      "count": 126,
       "amount": 2410916,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 177
+          "ageDays": 178
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 177
+          "ageDays": 178
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 177
+          "ageDays": 178
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 177
+          "ageDays": 178
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 177
+          "ageDays": 178
         }
       ]
     }
