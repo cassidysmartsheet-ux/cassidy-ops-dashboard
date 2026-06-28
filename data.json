@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T20:10:28+00:00",
+  "generatedAt": "2026-06-28T21:19:14+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-28",
@@ -15,16 +15,16 @@
       "pct": 100.0
     },
     "tonsMTD": {
-      "value": 37574.0,
+      "value": 38005.0,
       "priorMonth": 13907.0
     },
     "syMTD": {
-      "value": 132107.0,
+      "value": 136862.0,
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 11
+      "scheduled": 9,
+      "completed": 14
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 20544099
+      "amount": 20411165
     }
   },
   "crewUtilGrid": [
@@ -271,16 +271,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3395-25",
-      "company": "Hilton Hotel",
-      "phase": "Paving",
-      "pm": "",
-      "city": "East Boston",
-      "endDate": "2026-06-24",
-      "varianceDays": 4,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "2994-25",
       "company": "Berkley",
       "phase": "Hand",
@@ -317,6 +307,16 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-30",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Newington",
+      "endDate": "2026-07-26",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-06-22",
-      "tons": 12961.0,
+      "tons": 13392.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 8,
+      "count": 11,
       "amount": 0,
       "jobs": [
         {
@@ -545,8 +545,8 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 117,
-    "Complete": 117,
+    "Scheduled": 114,
+    "Complete": 120,
     "Unscheduled": 7,
     "Cancelled": 4,
     "": 142
