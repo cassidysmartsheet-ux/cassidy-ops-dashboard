@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T12:48:36+00:00",
+  "generatedAt": "2026-06-29T16:37:09+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-29",
@@ -10,9 +10,9 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 24,
+      "scheduledDays": 25,
       "availableDays": 30,
-      "pct": 80.0
+      "pct": 83.3
     },
     "tonsMTD": {
       "value": 38080.0,
@@ -67,7 +67,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 7,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -133,7 +133,7 @@
         },
         {
           "weekStart": "2026-07-13",
-          "scheduled": 6,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3476-25",
-      "company": "The Guild of human services",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Billerica",
-      "endDate": "2026-07-14",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3641-26",
       "company": "Evergreen Management Group",
       "phase": "Reclaim/Grading",
@@ -317,6 +307,16 @@
       "pm": "",
       "city": "Newington",
       "endDate": "2026-07-26",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Methuen",
+      "endDate": "2026-08-25",
       "varianceDays": 1,
       "status": "Scheduled"
     }
