@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T16:37:09+00:00",
+  "generatedAt": "2026-06-29T18:33:10+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-29",
@@ -10,9 +10,9 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 25,
+      "scheduledDays": 26,
       "availableDays": 30,
-      "pct": 83.3
+      "pct": 86.7
     },
     "tonsMTD": {
       "value": 38080.0,
@@ -23,7 +23,7 @@
       "priorMonth": 55097.0
     },
     "slip7d": {
-      "scheduled": 13,
+      "scheduled": 12,
       "completed": 15
     },
     "holdsMTD": {
@@ -67,7 +67,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 8,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -126,14 +126,14 @@
         },
         {
           "weekStart": "2026-07-06",
-          "scheduled": 6,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-07-13",
-          "scheduled": 4,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -145,7 +145,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 3,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -296,8 +296,8 @@
       "phase": "Reclaim/Grading",
       "pm": "",
       "city": "Hudson",
-      "endDate": "2026-06-30",
-      "varianceDays": 1,
+      "endDate": "2026-07-01",
+      "varianceDays": 2,
       "status": "Scheduled"
     },
     {
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 114,
+    "Scheduled": 115,
     "Complete": 120,
     "Unscheduled": 7,
     "Cancelled": 4,
-    "": 142
+    "": 141
   }
 }
