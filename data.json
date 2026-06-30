@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T16:02:03+00:00",
+  "generatedAt": "2026-06-30T18:13:43+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-06-30",
@@ -126,7 +126,7 @@
         },
         {
           "weekStart": "2026-07-06",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -545,7 +545,7 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 117,
+    "Scheduled": 118,
     "Complete": 120,
     "Unscheduled": 7,
     "Cancelled": 4,
