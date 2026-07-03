@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-02T23:35:23+00:00",
+  "generatedAt": "2026-07-03T01:16:21+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-07-02",
+    "today": "2026-07-03",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30",
@@ -23,8 +23,8 @@
       "priorMonth": 137470.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 6
+      "scheduled": 18,
+      "completed": 4
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 38,
+      "varianceDays": 39,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Tewskbury",
       "endDate": "2026-06-12",
-      "varianceDays": 20,
+      "varianceDays": 21,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-25",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "pepperell",
       "endDate": "2026-06-29",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -297,6 +297,16 @@
       "pm": "",
       "city": "Lexington",
       "endDate": "2026-06-29",
+      "varianceDays": 4,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "",
+      "company": "Hawthorne brook middle school",
+      "phase": "Hand",
+      "pm": "",
+      "city": "townsend",
+      "endDate": "2026-06-30",
       "varianceDays": 3,
       "status": "Scheduled"
     },
@@ -307,16 +317,6 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-07-13",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3641-26",
-      "company": "Evergreen Management Group",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Hudson",
-      "endDate": "2026-07-01",
       "varianceDays": 2,
       "status": "Scheduled"
     }
@@ -391,110 +391,110 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 5,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "FJ-0349-26",
-          "company": "mass dot",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "FJ-0350-26",
-          "company": "pepperell",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "",
           "company": "Hawthorne brook middle school",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4086-26",
           "company": "FOXFIELD LLC",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4031-26",
           "company": "FOXFIELD LLC",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
+        },
+        {
+          "jobNum": "3794-26",
+          "company": "Macleod Construction",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "3655-26",
+          "company": "JJ Phelan & Son Co",
+          "amount": 0,
+          "ageDays": 1
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 11,
+      "count": 12,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3875-26",
-          "company": "Repro",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3705-26",
           "company": "Russo Brothers",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "FJ-0309-26",
           "company": "Massachusetts Trial Court",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3946-26",
           "company": "JJ Phelan",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "FJ-0309-26",
           "company": "Massachusetts Trial Court",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3869-26",
+          "company": "Trinity Lutheran",
+          "amount": 0,
+          "ageDays": 11
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 35,
+      "count": 32,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3853-26",
-          "company": "Freeman Manzo",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0314-26",
+          "jobNum": "FJ-0315-26",
           "company": "Tewksbury Town of",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "FJ-0317-26",
+          "jobNum": "3650-26",
+          "company": "Simon Malls ( Liberty Tree Mall)",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "",
+          "company": "town of tewksbury",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "FJ-0318-26",
           "company": "Town of tewksbury",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "3853-26",
-          "company": "Freeman Manzo",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0315-26",
-          "company": "Tewksbury Town of",
+          "jobNum": "3948-26",
+          "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
           "ageDays": 29
         }
@@ -502,38 +502,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 133,
+      "count": 137,
       "amount": 2410916,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 182
+          "ageDays": 183
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 182
+          "ageDays": 183
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 182
+          "ageDays": 183
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 182
+          "ageDays": 183
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 182
+          "ageDays": 183
         }
       ]
     }
