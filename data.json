@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T15:58:22+00:00",
+  "generatedAt": "2026-07-04T17:11:57+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-04",
@@ -10,9 +10,9 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 25,
+      "scheduledDays": 20,
       "availableDays": 30,
-      "pct": 83.3
+      "pct": 66.7
     },
     "tonsMTD": {
       "value": 0,
@@ -23,7 +23,7 @@
       "priorMonth": 137470.0
     },
     "slip7d": {
-      "scheduled": 17,
+      "scheduled": 12,
       "completed": 1
     },
     "holdsMTD": {
@@ -41,7 +41,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 5,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -67,7 +67,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 7,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -93,7 +93,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 1,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -119,7 +119,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 7,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -145,7 +145,7 @@
       "weeks": [
         {
           "weekStart": "2026-06-29",
-          "scheduled": 5,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
