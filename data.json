@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T14:10:11+00:00",
+  "generatedAt": "2026-07-05T15:37:35+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-05",
@@ -15,16 +15,16 @@
       "pct": 66.7
     },
     "tonsMTD": {
-      "value": 0,
-      "priorMonth": 38080.0
+      "value": 5389.0,
+      "priorMonth": 38300.0
     },
     "syMTD": {
-      "value": 0,
-      "priorMonth": 137470.0
+      "value": 19726.0,
+      "priorMonth": 138776.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 1
+      "scheduled": 3,
+      "completed": 11
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 23724576
+      "amount": 22551132
     }
   },
   "crewUtilGrid": [
@@ -271,26 +271,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0350-26",
-      "company": "pepperell",
-      "phase": "Paving",
-      "pm": "",
-      "city": "pepperell",
-      "endDate": "2026-06-29",
-      "varianceDays": 6,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3937-26",
-      "company": "BXP - 33 Hayden Ave",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Lexington",
-      "endDate": "2026-06-29",
-      "varianceDays": 6,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3814-26",
       "company": "OESL Automotive USA LLC",
       "phase": "Reclaim/Grading",
@@ -311,13 +291,33 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3641-26",
-      "company": "Evergreen Management Group",
+      "jobNum": "3452-25",
+      "company": "Leewood realty",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-07-13",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3476-25",
+      "company": "The Guild of human services",
       "phase": "Hand",
       "pm": "",
-      "city": "Hudson",
-      "endDate": "2026-07-01",
-      "varianceDays": 4,
+      "city": "Billerica",
+      "endDate": "2026-07-08",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Newington",
+      "endDate": "2026-07-26",
+      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-06-29",
-      "tons": 75.0,
+      "tons": 5684.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 2,
+      "count": 11,
       "amount": 0,
       "jobs": [
         {
@@ -401,10 +401,28 @@
           "ageDays": 6
         },
         {
-          "jobNum": "3655-26",
-          "company": "JJ Phelan & Son Co",
+          "jobNum": "FJ-0350-26",
+          "company": "pepperell",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3937-26",
+          "company": "BXP - 33 Hayden Ave",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3937-26",
+          "company": "BXP - 33 Hayden Ave",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "3641-26",
+          "company": "Evergreen Management Group",
+          "amount": 0,
+          "ageDays": 4
         }
       ]
     },
@@ -527,8 +545,8 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 134,
-    "Complete": 120,
+    "Scheduled": 124,
+    "Complete": 130,
     "Unscheduled": 6,
     "Cancelled": 4,
     "": 143
