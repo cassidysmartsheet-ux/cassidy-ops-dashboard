@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T11:44:45+00:00",
+  "generatedAt": "2026-07-07T13:54:09+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-07",
@@ -10,9 +10,9 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 25,
+      "scheduledDays": 28,
       "availableDays": 30,
-      "pct": 83.3
+      "pct": 93.3
     },
     "tonsMTD": {
       "value": 5389.0,
@@ -23,7 +23,7 @@
       "priorMonth": 138776.0
     },
     "slip7d": {
-      "scheduled": 9,
+      "scheduled": 12,
       "completed": 8
     },
     "holdsMTD": {
@@ -48,7 +48,7 @@
         },
         {
           "weekStart": "2026-07-13",
-          "scheduled": 4,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -67,7 +67,7 @@
       "weeks": [
         {
           "weekStart": "2026-07-06",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -119,14 +119,14 @@
       "weeks": [
         {
           "weekStart": "2026-07-06",
-          "scheduled": 6,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-07-13",
-          "scheduled": 8,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -145,7 +145,7 @@
       "weeks": [
         {
           "weekStart": "2026-07-06",
-          "scheduled": 8,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -231,16 +231,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0315-26",
-      "company": "Tewksbury Town of",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Tewskbury",
-      "endDate": "2026-06-12",
-      "varianceDays": 25,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3705-26",
       "company": "Russo Brothers",
       "phase": "Reclaim/Grading",
@@ -317,6 +307,16 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-07-06",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Newington",
+      "endDate": "2026-07-26",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -545,9 +545,9 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 130,
+    "Scheduled": 129,
     "Complete": 130,
-    "Unscheduled": 6,
+    "Unscheduled": 7,
     "Cancelled": 4,
     "": 147
   }
