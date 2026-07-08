@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T21:03:34+00:00",
+  "generatedAt": "2026-07-08T22:16:22+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-08",
@@ -15,16 +15,16 @@
       "pct": 93.3
     },
     "tonsMTD": {
-      "value": 5389.0,
+      "value": 6342.0,
       "priorMonth": 38300.0
     },
     "syMTD": {
-      "value": 19726.0,
+      "value": 24438.0,
       "priorMonth": 138776.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 7
+      "scheduled": 11,
+      "completed": 11
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 24176770
+      "amount": 24015075
     }
   },
   "crewUtilGrid": [
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3641-26",
-      "company": "Evergreen Management Group",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Hudson",
-      "endDate": "2026-07-06",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3476-25",
       "company": "The Guild of human services",
       "phase": "Hand",
@@ -317,6 +307,16 @@
       "pm": "",
       "city": "Newington",
       "endDate": "2026-07-26",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Methuen",
+      "endDate": "2026-08-25",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-07-06",
-      "tons": 0,
+      "tons": 953.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 7,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 131,
-    "Complete": 130,
+    "Scheduled": 129,
+    "Complete": 134,
     "Unscheduled": 7,
     "Cancelled": 4,
-    "": 145
+    "": 143
   }
 }
