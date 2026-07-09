@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T20:52:29+00:00",
+  "generatedAt": "2026-07-09T22:19:01+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-09",
@@ -15,16 +15,16 @@
       "pct": 93.3
     },
     "tonsMTD": {
-      "value": 6342.0,
+      "value": 6368.0,
       "priorMonth": 38300.0
     },
     "syMTD": {
-      "value": 24438.0,
+      "value": 24571.0,
       "priorMonth": 138776.0
     },
     "slip7d": {
-      "scheduled": 14,
-      "completed": 7
+      "scheduled": 13,
+      "completed": 8
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 24015075
+      "amount": 23840396
     }
   },
   "crewUtilGrid": [
@@ -48,7 +48,7 @@
         },
         {
           "weekStart": "2026-07-13",
-          "scheduled": 5,
+          "scheduled": 3,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -126,14 +126,14 @@
         },
         {
           "weekStart": "2026-07-13",
-          "scheduled": 7,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-07-20",
-          "scheduled": 10,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3476-25",
-      "company": "The Guild of human services",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Billerica",
-      "endDate": "2026-07-08",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0229-26",
       "company": "Natick",
       "phase": "Hand",
@@ -317,6 +307,16 @@
       "pm": "",
       "city": "Newington",
       "endDate": "2026-07-26",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Methuen",
+      "endDate": "2026-08-25",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-07-06",
-      "tons": 953.0,
+      "tons": 979.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 8,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -546,9 +546,9 @@
   },
   "statusCounts": {
     "Scheduled": 129,
-    "Complete": 134,
-    "Unscheduled": 7,
+    "Complete": 135,
+    "Unscheduled": 8,
     "Cancelled": 4,
-    "": 158
+    "": 157
   }
 }
