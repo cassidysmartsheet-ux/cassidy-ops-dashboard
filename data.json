@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T11:30:09+00:00",
+  "generatedAt": "2026-07-13T13:48:16+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-13",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 20,
+      "scheduledDays": 22,
       "availableDays": 30,
-      "pct": 66.7
+      "pct": 73.3
     },
     "tonsMTD": {
-      "value": 6368.0,
+      "value": 17145.0,
       "priorMonth": 38300.0
     },
     "syMTD": {
-      "value": 24571.0,
+      "value": 65799.0,
       "priorMonth": 138776.0
     },
     "slip7d": {
-      "scheduled": 20,
-      "completed": 5
+      "scheduled": 12,
+      "completed": 12
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 25579913
+      "amount": 23544578
     }
   },
   "crewUtilGrid": [
@@ -119,14 +119,14 @@
       "weeks": [
         {
           "weekStart": "2026-07-13",
-          "scheduled": 7,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-07-20",
-          "scheduled": 8,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -145,7 +145,7 @@
       "weeks": [
         {
           "weekStart": "2026-07-13",
-          "scheduled": 6,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -159,7 +159,7 @@
         },
         {
           "weekStart": "2026-07-27",
-          "scheduled": 2,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -271,16 +271,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3452-25",
-      "company": "Leewood realty",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Haverhill",
-      "endDate": "2026-07-06",
-      "varianceDays": 7,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0229-26",
       "company": "Natick",
       "phase": "Hand",
@@ -301,23 +291,33 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3918-26",
-      "company": "Silva Associates poroperty Management",
-      "phase": "Paving",
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
       "pm": "",
-      "city": "Tewksbury",
-      "endDate": "2026-07-09",
-      "varianceDays": 4,
+      "city": "Newington",
+      "endDate": "2026-07-26",
+      "varianceDays": 1,
       "status": "Scheduled"
     },
     {
-      "jobNum": "3701-26",
-      "company": "Kadima",
-      "phase": "Hand",
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "Woburn",
-      "endDate": "2026-07-11",
-      "varianceDays": 2,
+      "city": "Methuen",
+      "endDate": "2026-08-25",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3747-26",
+      "company": "Jewish Community Center",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Marblehead",
+      "endDate": "2026-08-28",
+      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -379,25 +379,31 @@
     },
     {
       "weekStart": "2026-07-06",
-      "tons": 979.0,
+      "tons": 11756.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-07-13",
-      "tons": 0,
+      "tons": 4451.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 5,
-      "amount": 0,
+      "count": 11,
+      "amount": 337705,
       "jobs": [
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "3452-25",
+          "company": "Leewood realty",
+          "amount": 337705,
           "ageDays": 7
         },
         {
@@ -415,12 +421,6 @@
         {
           "jobNum": "3964-26",
           "company": "PMA - Stone castle",
-          "amount": 0,
-          "ageDays": 5
-        },
-        {
-          "jobNum": "3476-25",
-          "company": "The Guild of human services",
           "amount": 0,
           "ageDays": 5
         }
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 132,
-    "Complete": 135,
+    "Scheduled": 126,
+    "Complete": 143,
     "Unscheduled": 8,
     "Cancelled": 4,
-    "": 160
+    "": 158
   }
 }
