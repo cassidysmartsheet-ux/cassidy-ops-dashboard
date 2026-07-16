@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T23:39:47+00:00",
+  "generatedAt": "2026-07-16T01:06:46+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-07-15",
+    "today": "2026-07-16",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30",
@@ -23,8 +23,8 @@
       "priorMonth": 138776.0
     },
     "slip7d": {
-      "scheduled": 8,
-      "completed": 10
+      "scheduled": 12,
+      "completed": 7
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 51,
+      "varianceDays": 52,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 26,
+      "varianceDays": 27,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 22,
+      "varianceDays": 23,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-25",
-      "varianceDays": 20,
+      "varianceDays": 21,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "townsend",
       "endDate": "2026-06-30",
-      "varianceDays": 15,
+      "varianceDays": 16,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Natick",
       "endDate": "2026-07-08",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-07-14",
-      "varianceDays": 1,
+      "varianceDays": 2,
       "status": "Scheduled"
     },
     {
@@ -391,38 +391,38 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 9,
+      "count": 6,
       "amount": 337705,
       "jobs": [
-        {
-          "jobNum": "3918-26",
-          "company": "Silva Associates poroperty Management",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3964-26",
-          "company": "PMA - Stone castle",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3476-25",
-          "company": "The Guild of human services",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "FJ-0229-26",
           "company": "Natick",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3918-26",
           "company": "Silva Associates poroperty Management",
           "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4028-26",
+          "company": "",
+          "amount": 0,
           "ageDays": 6
+        },
+        {
+          "jobNum": "4030-26",
+          "company": "Gold Properties",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3701-26",
+          "company": "Kadima",
+          "amount": 0,
+          "ageDays": 5
         }
       ]
     },
@@ -432,34 +432,34 @@
       "amount": 337705,
       "jobs": [
         {
-          "jobNum": "3641-26",
-          "company": "Evergreen Management Group",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3641-26",
-          "company": "Evergreen Management Group",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0349-26",
-          "company": "mass dot",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
           "jobNum": "3655-26",
           "company": "JJ Phelan & Son Co",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3701-26",
           "company": "Kadima",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
+        },
+        {
+          "jobNum": "4087-26",
+          "company": "RMP Emory rd LLC",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3965-26",
+          "company": "JLL - Community Health Center",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3641-26",
+          "company": "Evergreen Management Group",
+          "amount": 0,
+          "ageDays": 10
         }
       ]
     },
@@ -469,71 +469,71 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3936-26",
-          "company": "RP Saxon",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3650-26",
-          "company": "Simon Malls ( Liberty Tree Mall)",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3960-26",
-          "company": "American Asphalt Paving",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
           "jobNum": "3932-26",
           "company": "Key point",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3933-26",
           "company": "KeyPoint Partners",
           "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3974-26",
+          "company": "Newbury court",
+          "amount": 0,
           "ageDays": 29
+        },
+        {
+          "jobNum": "3650-26",
+          "company": "Simon Malls ( Liberty Tree Mall)",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "3875-26",
+          "company": "Repro",
+          "amount": 0,
+          "ageDays": 28
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 161,
+      "count": 164,
       "amount": 2410916,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 195
+          "ageDays": 196
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 195
+          "ageDays": 196
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 195
+          "ageDays": 196
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 195
+          "ageDays": 196
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 195
+          "ageDays": 196
         }
       ]
     }
