@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T12:50:48+00:00",
+  "generatedAt": "2026-07-16T14:57:49+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-16",
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 24486042
+      "amount": 25861016
     }
   },
   "crewUtilGrid": [
@@ -301,22 +301,22 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "3194-25",
+      "company": "Gemini - Greenbriar",
+      "phase": "Paving",
+      "pm": "",
+      "city": "North Reading",
+      "endDate": "2026-08-07",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "3467-25",
       "company": "Delaware Valley",
       "phase": "Milling",
       "pm": "",
       "city": "Newington",
       "endDate": "2026-07-26",
-      "varianceDays": 1,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3695-26",
-      "company": "Notre Dame Cristo Ray",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Methuen",
-      "endDate": "2026-08-25",
       "varianceDays": 1,
       "status": "Scheduled"
     }
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 137,
+    "Scheduled": 140,
     "Complete": 143,
     "Unscheduled": 8,
     "Cancelled": 4,
-    "": 153
+    "": 151
   }
 }
