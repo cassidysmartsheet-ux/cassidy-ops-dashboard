@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T16:53:12+00:00",
+  "generatedAt": "2026-07-20T18:50:38+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-20",
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 26954904
+      "amount": 27577779
     }
   },
   "crewUtilGrid": [
@@ -286,8 +286,8 @@
       "phase": "Reclaim/Grading",
       "pm": "",
       "city": "Somersworth",
-      "endDate": "2026-09-10",
-      "varianceDays": 5,
+      "endDate": "2026-09-22",
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 146,
+    "Scheduled": 149,
     "Complete": 151,
     "Unscheduled": 8,
     "Cancelled": 4,
-    "": 150
+    "": 148
   }
 }
