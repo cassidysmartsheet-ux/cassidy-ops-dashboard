@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T20:20:52+00:00",
+  "generatedAt": "2026-07-22T21:35:47+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-22",
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 29793555
+      "amount": 30663494
     }
   },
   "crewUtilGrid": [
@@ -159,7 +159,7 @@
         },
         {
           "weekStart": "2026-08-03",
-          "scheduled": 2,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 158,
+    "Scheduled": 162,
     "Complete": 151,
     "Unscheduled": 10,
     "Cancelled": 4,
-    "": 148
+    "": 147
   }
 }
