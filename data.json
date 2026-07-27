@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:27:58+00:00",
+  "generatedAt": "2026-07-27T20:50:51+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-07-27",
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 34612147
+      "amount": 39518489
     }
   },
   "crewUtilGrid": [
@@ -281,16 +281,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3981-26",
-      "company": "City Sealcoating",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Leominster",
-      "endDate": "2026-07-16",
-      "varianceDays": 11,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3814-26",
       "company": "OESL Automotive USA LLC",
       "phase": "Reclaim/Grading",
@@ -306,6 +296,16 @@
       "phase": "Milling",
       "pm": "",
       "city": "Newington",
+      "endDate": "2026-07-24",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3981-26",
+      "company": "City Sealcoating",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Leominster",
       "endDate": "2026-07-24",
       "varianceDays": 3,
       "status": "Scheduled"
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 160,
+    "Scheduled": 167,
     "Complete": 167,
     "Unscheduled": 12,
     "Cancelled": 4,
-    "": 140
+    "": 145
   }
 }
