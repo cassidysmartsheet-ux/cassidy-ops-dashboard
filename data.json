@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-31T23:41:18+00:00",
+  "generatedAt": "2026-08-01T01:14:23+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-07-31",
-    "mtdStart": "2026-07-01",
-    "priorMtdStart": "2026-06-01",
-    "priorMtdEnd": "2026-06-30",
+    "today": "2026-08-01",
+    "mtdStart": "2026-08-01",
+    "priorMtdStart": "2026-07-01",
+    "priorMtdEnd": "2026-07-31",
     "thisWeekStart": "2026-07-27"
   },
   "kpis": {
@@ -15,16 +15,16 @@
       "pct": 86.7
     },
     "tonsMTD": {
-      "value": 38285.0,
-      "priorMonth": 38300.0
+      "value": 0,
+      "priorMonth": 38285.0
     },
     "syMTD": {
-      "value": 133409.0,
-      "priorMonth": 138776.0
+      "value": 0,
+      "priorMonth": 133409.0
     },
     "slip7d": {
-      "scheduled": 16,
-      "completed": 4
+      "scheduled": 18,
+      "completed": 0
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 67,
+      "varianceDays": 68,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 42,
+      "varianceDays": 43,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 38,
+      "varianceDays": 39,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-25",
-      "varianceDays": 36,
+      "varianceDays": 37,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Natick",
       "endDate": "2026-07-08",
-      "varianceDays": 23,
+      "varianceDays": 24,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,17 @@
       "pm": "",
       "city": "groveland",
       "endDate": "2026-07-15",
-      "varianceDays": 16,
+      "varianceDays": 17,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3467-25",
+      "company": "Delaware Valley",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Newington",
+      "endDate": "2026-07-24",
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -291,23 +301,13 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3467-25",
-      "company": "Delaware Valley",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Newington",
-      "endDate": "2026-07-24",
-      "varianceDays": 7,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3981-26",
       "company": "City Sealcoating",
       "phase": "Reclaim/Grading",
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-07-24",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Woburn",
       "endDate": "2026-07-25",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     }
   ],
@@ -391,137 +391,118 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 0,
       "amount": 0,
-      "jobs": [
-        {
-          "jobNum": "4011-26",
-          "company": "Hub",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4006-26",
-          "company": "",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4136-26",
-          "company": "Lonevale Gardens",
-          "amount": 0,
-          "ageDays": 7
-        }
-      ]
+      "jobs": []
     },
     {
       "bucket": "8-14 days",
-      "count": 10,
+      "count": 9,
       "amount": 0,
       "jobs": [
+        {
+          "jobNum": "4064-26",
+          "company": "Current Path Consulting",
+          "amount": 0,
+          "ageDays": 11
+        },
+        {
+          "jobNum": "4180-26",
+          "company": "Golini Brothers",
+          "amount": 0,
+          "ageDays": 11
+        },
         {
           "jobNum": "FJ-0315-26",
           "company": "Tewksbury Town of",
           "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3918-26",
-          "company": "Silva Associates poroperty Management",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4115-26",
-          "company": "EQT- 27 Otis Street",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4064-26",
-          "company": "Current Path Consulting",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4064-26",
-          "company": "Current Path Consulting",
-          "amount": 0,
           "ageDays": 10
+        },
+        {
+          "jobNum": "4013-26",
+          "company": "Hub",
+          "amount": 0,
+          "ageDays": 9
+        },
+        {
+          "jobNum": "4012-26",
+          "company": "Hub",
+          "amount": 0,
+          "ageDays": 9
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 27,
+      "count": 28,
       "amount": 1350820,
       "jobs": [
-        {
-          "jobNum": "3641-26",
-          "company": "Evergreen Management Group",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3641-26",
-          "company": "Evergreen Management Group",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0349-26",
-          "company": "mass dot",
-          "amount": 0,
-          "ageDays": 30
-        },
         {
           "jobNum": "3655-26",
           "company": "JJ Phelan & Son Co",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3701-26",
           "company": "Kadima",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4087-26",
+          "company": "RMP Emory rd LLC",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3965-26",
+          "company": "JLL - Community Health Center",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3641-26",
+          "company": "Evergreen Management Group",
+          "amount": 0,
+          "ageDays": 26
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 188,
+      "count": 191,
       "amount": 2410916,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 211
+          "ageDays": 212
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 211
+          "ageDays": 212
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 211
+          "ageDays": 212
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 211
+          "ageDays": 212
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 211
+          "ageDays": 212
         }
       ]
     }
