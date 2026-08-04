@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:56:38+00:00",
+  "generatedAt": "2026-08-04T23:03:11+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-04",
@@ -15,16 +15,16 @@
       "pct": 93.3
     },
     "tonsMTD": {
-      "value": 0,
-      "priorMonth": 38285.0
+      "value": 1087.0,
+      "priorMonth": 66324.0
     },
     "syMTD": {
-      "value": 0,
-      "priorMonth": 133409.0
+      "value": 4955.0,
+      "priorMonth": 377061.0
     },
     "slip7d": {
-      "scheduled": 19,
-      "completed": 0
+      "scheduled": 14,
+      "completed": 6
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 42129920
+      "amount": 36874583
     }
   },
   "crewUtilGrid": [
@@ -281,16 +281,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3467-25",
-      "company": "Delaware Valley",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Newington",
-      "endDate": "2026-07-24",
-      "varianceDays": 11,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3981-26",
       "company": "City Sealcoating",
       "phase": "Reclaim/Grading",
@@ -318,6 +308,16 @@
       "city": "Somersworth",
       "endDate": "2026-09-22",
       "varianceDays": 8,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3712-26",
+      "company": "Intergrated Site & Development",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Sunapee",
+      "endDate": "2026-07-31",
+      "varianceDays": 4,
       "status": "Scheduled"
     }
   ],
@@ -374,30 +374,55 @@
     },
     {
       "weekStart": "2026-07-20",
-      "tons": 601.0,
+      "tons": 18245.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-07-27",
-      "tons": 0,
+      "tons": 11297.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-03",
-      "tons": 0,
+      "tons": 185.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 0,
+      "count": 4,
       "amount": 0,
-      "jobs": []
+      "jobs": [
+        {
+          "jobNum": "3880-26",
+          "company": "Bridges by EPOCH",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "3112-25",
+          "company": "CW Contracting",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "3792-26",
+          "company": "Rapiscan",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "3792-26",
+          "company": "Rapiscan",
+          "amount": 0,
+          "ageDays": 3
+        }
+      ]
     },
     {
       "bucket": "8-14 days",
-      "count": 9,
+      "count": 11,
       "amount": 0,
       "jobs": [
         {
@@ -514,8 +539,8 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 190,
-    "Complete": 167,
+    "Complete": 179,
+    "Scheduled": 178,
     "Unscheduled": 11,
     "Cancelled": 4,
     "": 147
