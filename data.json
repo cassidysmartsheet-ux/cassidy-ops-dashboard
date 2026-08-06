@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T23:40:29+00:00",
+  "generatedAt": "2026-08-06T01:04:29+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-05",
+    "today": "2026-08-06",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 15,
-      "completed": 6
+      "completed": 5
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 72,
+      "varianceDays": 73,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 47,
+      "varianceDays": 48,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 43,
+      "varianceDays": 44,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-25",
-      "varianceDays": 41,
+      "varianceDays": 42,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Natick",
       "endDate": "2026-07-08",
-      "varianceDays": 28,
+      "varianceDays": 29,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "groveland",
       "endDate": "2026-07-15",
-      "varianceDays": 21,
+      "varianceDays": 22,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-07-24",
-      "varianceDays": 12,
+      "varianceDays": 13,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Woburn",
       "endDate": "2026-07-25",
-      "varianceDays": 11,
+      "varianceDays": 12,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Plymouth",
       "endDate": "2026-07-31",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     }
   ],
@@ -391,18 +391,24 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 5,
+      "count": 4,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4064-26",
-          "company": "Current Path Consulting",
+          "jobNum": "3112-25",
+          "company": "CW Contracting",
           "amount": 0,
           "ageDays": 7
         },
         {
-          "jobNum": "3112-25",
-          "company": "CW Contracting",
+          "jobNum": "3792-26",
+          "company": "Rapiscan",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3589-26",
+          "company": "Uni-cast llc",
           "amount": 0,
           "ageDays": 6
         },
@@ -411,18 +417,6 @@
           "company": "Rapiscan",
           "amount": 0,
           "ageDays": 5
-        },
-        {
-          "jobNum": "3589-26",
-          "company": "Uni-cast llc",
-          "amount": 0,
-          "ageDays": 5
-        },
-        {
-          "jobNum": "3792-26",
-          "company": "Rapiscan",
-          "amount": 0,
-          "ageDays": 4
         }
       ]
     },
@@ -432,108 +426,108 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "FJ-0315-26",
-          "company": "Tewksbury Town of",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
           "jobNum": "4013-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "4012-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "4182-26",
           "company": "Certified Safe Electric Inc",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "4011-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
+        },
+        {
+          "jobNum": "4006-26",
+          "company": "",
+          "amount": 0,
+          "ageDays": 13
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 26,
-      "amount": 1350820,
+      "count": 25,
+      "amount": 1013115,
       "jobs": [
-        {
-          "jobNum": "3641-26",
-          "company": "Evergreen Management Group",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3452-25",
-          "company": "Leewood realty",
-          "amount": 337705,
-          "ageDays": 30
-        },
         {
           "jobNum": "3918-26",
           "company": "Silva Associates poroperty Management",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "",
           "company": "town of tewksbury",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3918-26",
           "company": "Silva Associates poroperty Management",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
+        },
+        {
+          "jobNum": "3964-26",
+          "company": "PMA - Stone castle",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "3476-25",
+          "company": "The Guild of human services",
+          "amount": 0,
+          "ageDays": 29
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 195,
-      "amount": 2410916,
+      "count": 197,
+      "amount": 2748621,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 216
+          "ageDays": 217
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 216
+          "ageDays": 217
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 216
+          "ageDays": 217
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 216
+          "ageDays": 217
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 216
+          "ageDays": 217
         }
       ]
     }
