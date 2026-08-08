@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T23:57:08+00:00",
+  "generatedAt": "2026-08-08T01:42:37+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-07",
+    "today": "2026-08-08",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -23,8 +23,8 @@
       "priorMonth": 377082.0
     },
     "slip7d": {
-      "scheduled": 18,
-      "completed": 4
+      "scheduled": 19,
+      "completed": 2
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 74,
+      "varianceDays": 75,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 49,
+      "varianceDays": 50,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 45,
+      "varianceDays": 46,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Stoughton",
       "endDate": "2026-06-25",
-      "varianceDays": 43,
+      "varianceDays": 44,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Natick",
       "endDate": "2026-07-08",
-      "varianceDays": 30,
+      "varianceDays": 31,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "groveland",
       "endDate": "2026-07-15",
-      "varianceDays": 23,
+      "varianceDays": 24,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-07-24",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Woburn",
       "endDate": "2026-07-25",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Plymouth",
       "endDate": "2026-07-31",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     }
   ],
@@ -391,7 +391,7 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 1,
       "amount": 0,
       "jobs": [
         {
@@ -399,43 +399,19 @@
           "company": "Rapiscan",
           "amount": 0,
           "ageDays": 7
-        },
-        {
-          "jobNum": "3589-26",
-          "company": "Uni-cast llc",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3792-26",
-          "company": "Rapiscan",
-          "amount": 0,
-          "ageDays": 6
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 8,
+      "count": 7,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4011-26",
-          "company": "Hub",
+          "jobNum": "3467-25",
+          "company": "Delaware Valley",
           "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4006-26",
-          "company": "",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4136-26",
-          "company": "Lonevale Gardens",
-          "amount": 0,
-          "ageDays": 14
+          "ageDays": 13
         },
         {
           "jobNum": "3467-25",
@@ -444,10 +420,22 @@
           "ageDays": 12
         },
         {
-          "jobNum": "3467-25",
-          "company": "Delaware Valley",
+          "jobNum": "3880-26",
+          "company": "Bridges by EPOCH",
           "amount": 0,
           "ageDays": 11
+        },
+        {
+          "jobNum": "4064-26",
+          "company": "Current Path Consulting",
+          "amount": 0,
+          "ageDays": 10
+        },
+        {
+          "jobNum": "3112-25",
+          "company": "CW Contracting",
+          "amount": 0,
+          "ageDays": 9
         }
       ]
     },
@@ -457,32 +445,32 @@
       "amount": 1013115,
       "jobs": [
         {
+          "jobNum": "FJ-0229-26",
+          "company": "Natick",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
           "jobNum": "3918-26",
           "company": "Silva Associates poroperty Management",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "3964-26",
-          "company": "PMA - Stone castle",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3476-25",
-          "company": "The Guild of human services",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0229-26",
-          "company": "Natick",
+          "jobNum": "4028-26",
+          "company": "",
           "amount": 0,
           "ageDays": 29
         },
         {
-          "jobNum": "3918-26",
-          "company": "Silva Associates poroperty Management",
+          "jobNum": "4030-26",
+          "company": "Gold Properties",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "",
+          "company": "mass dot",
           "amount": 0,
           "ageDays": 29
         }
@@ -490,38 +478,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 199,
+      "count": 202,
       "amount": 2748621,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 218
+          "ageDays": 219
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 218
+          "ageDays": 219
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 218
+          "ageDays": 219
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 218
+          "ageDays": 219
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 218
+          "ageDays": 219
         }
       ]
     }
