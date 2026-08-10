@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-09T23:37:08+00:00",
+  "generatedAt": "2026-08-10T00:03:40+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-09",
+    "today": "2026-08-10",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
-    "thisWeekStart": "2026-08-03"
+    "thisWeekStart": "2026-08-10"
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 30,
+      "scheduledDays": 27,
       "availableDays": 30,
-      "pct": 100.0
+      "pct": 90.0
     },
     "tonsMTD": {
       "value": 10358.0,
@@ -23,7 +23,7 @@
       "priorMonth": 404989.0
     },
     "slip7d": {
-      "scheduled": 16,
+      "scheduled": 20,
       "completed": 5
     },
     "holdsMTD": {
@@ -40,13 +40,6 @@
       "crew": "Milling",
       "weeks": [
         {
-          "weekStart": "2026-08-03",
-          "scheduled": 5,
-          "weatherLost": 0,
-          "materialLost": 0,
-          "capacity": 5
-        },
-        {
           "weekStart": "2026-08-10",
           "scheduled": 5,
           "weatherLost": 0,
@@ -59,19 +52,19 @@
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
+        },
+        {
+          "weekStart": "2026-08-24",
+          "scheduled": 5,
+          "weatherLost": 0,
+          "materialLost": 0,
+          "capacity": 5
         }
       ]
     },
     {
       "crew": "Paving",
       "weeks": [
-        {
-          "weekStart": "2026-08-03",
-          "scheduled": 11,
-          "weatherLost": 0,
-          "materialLost": 0,
-          "capacity": 5
-        },
         {
           "weekStart": "2026-08-10",
           "scheduled": 11,
@@ -85,19 +78,19 @@
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
+        },
+        {
+          "weekStart": "2026-08-24",
+          "scheduled": 5,
+          "weatherLost": 0,
+          "materialLost": 0,
+          "capacity": 5
         }
       ]
     },
     {
       "crew": "Crackfill",
       "weeks": [
-        {
-          "weekStart": "2026-08-03",
-          "scheduled": 0,
-          "weatherLost": 0,
-          "materialLost": 0,
-          "capacity": 5
-        },
         {
           "weekStart": "2026-08-10",
           "scheduled": 0,
@@ -107,6 +100,13 @@
         },
         {
           "weekStart": "2026-08-17",
+          "scheduled": 0,
+          "weatherLost": 0,
+          "materialLost": 0,
+          "capacity": 5
+        },
+        {
+          "weekStart": "2026-08-24",
           "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
@@ -118,13 +118,6 @@
       "crew": "Hand",
       "weeks": [
         {
-          "weekStart": "2026-08-03",
-          "scheduled": 7,
-          "weatherLost": 0,
-          "materialLost": 0,
-          "capacity": 5
-        },
-        {
           "weekStart": "2026-08-10",
           "scheduled": 6,
           "weatherLost": 0,
@@ -137,19 +130,19 @@
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
+        },
+        {
+          "weekStart": "2026-08-24",
+          "scheduled": 7,
+          "weatherLost": 0,
+          "materialLost": 0,
+          "capacity": 5
         }
       ]
     },
     {
       "crew": "Reclaim/Grading",
       "weeks": [
-        {
-          "weekStart": "2026-08-03",
-          "scheduled": 7,
-          "weatherLost": 0,
-          "materialLost": 0,
-          "capacity": 5
-        },
         {
           "weekStart": "2026-08-10",
           "scheduled": 5,
@@ -163,19 +156,19 @@
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
+        },
+        {
+          "weekStart": "2026-08-24",
+          "scheduled": 7,
+          "weatherLost": 0,
+          "materialLost": 0,
+          "capacity": 5
         }
       ]
     },
     {
       "crew": "Pulverizing",
       "weeks": [
-        {
-          "weekStart": "2026-08-03",
-          "scheduled": 0,
-          "weatherLost": 0,
-          "materialLost": 0,
-          "capacity": 5
-        },
         {
           "weekStart": "2026-08-10",
           "scheduled": 0,
@@ -185,6 +178,13 @@
         },
         {
           "weekStart": "2026-08-17",
+          "scheduled": 0,
+          "weatherLost": 0,
+          "materialLost": 0,
+          "capacity": 5
+        },
+        {
+          "weekStart": "2026-08-24",
           "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
@@ -196,13 +196,6 @@
       "crew": "Subcontractor",
       "weeks": [
         {
-          "weekStart": "2026-08-03",
-          "scheduled": 0,
-          "weatherLost": 0,
-          "materialLost": 0,
-          "capacity": 5
-        },
-        {
           "weekStart": "2026-08-10",
           "scheduled": 0,
           "weatherLost": 0,
@@ -211,6 +204,13 @@
         },
         {
           "weekStart": "2026-08-17",
+          "scheduled": 0,
+          "weatherLost": 0,
+          "materialLost": 0,
+          "capacity": 5
+        },
+        {
+          "weekStart": "2026-08-24",
           "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 76,
+      "varianceDays": 77,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 51,
+      "varianceDays": 52,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 47,
+      "varianceDays": 48,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Natick",
       "endDate": "2026-07-14",
-      "varianceDays": 26,
+      "varianceDays": 27,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "groveland",
       "endDate": "2026-07-15",
-      "varianceDays": 25,
+      "varianceDays": 26,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-07-24",
-      "varianceDays": 16,
+      "varianceDays": 17,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Plymouth",
       "endDate": "2026-07-31",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Holliston",
       "endDate": "2026-08-03",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -317,16 +317,11 @@
       "pm": "",
       "city": "North Reading",
       "endDate": "2026-08-04",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     }
   ],
   "tonsWeekly": [
-    {
-      "weekStart": "2026-05-11",
-      "tons": 2342.0,
-      "tonsLY": 0
-    },
     {
       "weekStart": "2026-05-18",
       "tons": 2410.0,
@@ -386,6 +381,11 @@
       "weekStart": "2026-08-03",
       "tons": 4812.0,
       "tonsLY": 0
+    },
+    {
+      "weekStart": "2026-08-10",
+      "tons": 0,
+      "tonsLY": 0
     }
   ],
   "completedNotBilled": [
@@ -398,25 +398,25 @@
           "jobNum": "3792-26",
           "company": "Rapiscan",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4079-26",
           "company": "K&r Construction",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         },
         {
           "jobNum": "3701-26",
           "company": "Kadima",
           "amount": 0,
-          "ageDays": 1
+          "ageDays": 2
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 10,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -426,26 +426,26 @@
           "ageDays": 14
         },
         {
-          "jobNum": "3467-25",
-          "company": "Delaware Valley",
-          "amount": 0,
-          "ageDays": 13
-        },
-        {
           "jobNum": "3880-26",
           "company": "Bridges by EPOCH",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "2994-25",
           "company": "Berkley",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "4064-26",
           "company": "Current Path Consulting",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "3112-25",
+          "company": "CW Contracting",
           "amount": 0,
           "ageDays": 11
         }
@@ -453,75 +453,75 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 27,
+      "count": 24,
       "amount": 1013115,
       "jobs": [
         {
-          "jobNum": "4028-26",
-          "company": "",
+          "jobNum": "3701-26",
+          "company": "Kadima",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "4030-26",
-          "company": "Gold Properties",
-          "amount": 0,
-          "ageDays": 30
+          "jobNum": "3452-25",
+          "company": "Leewood realty",
+          "amount": 337705,
+          "ageDays": 27
         },
         {
           "jobNum": "",
           "company": "mass dot",
           "amount": 0,
-          "ageDays": 30
+          "ageDays": 27
         },
         {
-          "jobNum": "FJ-0229-26",
-          "company": "Natick",
-          "amount": 0,
-          "ageDays": 30
+          "jobNum": "3452-25",
+          "company": "Leewood realty",
+          "amount": 337705,
+          "ageDays": 26
         },
         {
-          "jobNum": "3701-26",
-          "company": "Kadima",
-          "amount": 0,
-          "ageDays": 29
+          "jobNum": "3452-25",
+          "company": "Leewood realty",
+          "amount": 337705,
+          "ageDays": 25
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 208,
+      "count": 212,
       "amount": 2748621,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 220
+          "ageDays": 221
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 220
+          "ageDays": 221
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 220
+          "ageDays": 221
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 220
+          "ageDays": 221
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 220
+          "ageDays": 221
         }
       ]
     }
