@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T23:59:19+00:00",
+  "generatedAt": "2026-08-11T02:13:26+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-10",
+    "today": "2026-08-11",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -23,8 +23,8 @@
       "priorMonth": 404989.0
     },
     "slip7d": {
-      "scheduled": 20,
-      "completed": 5
+      "scheduled": 19,
+      "completed": 3
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 77,
+      "varianceDays": 78,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Hudson",
       "endDate": "2026-06-19",
-      "varianceDays": 52,
+      "varianceDays": 53,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 48,
+      "varianceDays": 49,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Natick",
       "endDate": "2026-07-14",
-      "varianceDays": 27,
+      "varianceDays": 28,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "groveland",
       "endDate": "2026-07-15",
-      "varianceDays": 26,
+      "varianceDays": 27,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-07-24",
-      "varianceDays": 17,
+      "varianceDays": 18,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Plymouth",
       "endDate": "2026-07-31",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Holliston",
       "endDate": "2026-08-03",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "North Reading",
       "endDate": "2026-08-04",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     }
   ],
@@ -391,26 +391,20 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 2,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3792-26",
-          "company": "Rapiscan",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "4079-26",
           "company": "K&r Construction",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3701-26",
           "company": "Kadima",
           "amount": 0,
-          "ageDays": 2
+          "ageDays": 3
         }
       ]
     },
@@ -420,32 +414,32 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3467-25",
-          "company": "Delaware Valley",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
           "jobNum": "3880-26",
           "company": "Bridges by EPOCH",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "2994-25",
           "company": "Berkley",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "4064-26",
           "company": "Current Path Consulting",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "3112-25",
           "company": "CW Contracting",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "3792-26",
+          "company": "Rapiscan",
           "amount": 0,
           "ageDays": 11
         }
@@ -457,21 +451,21 @@
       "amount": 1013115,
       "jobs": [
         {
-          "jobNum": "3701-26",
-          "company": "Kadima",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
           "jobNum": "3452-25",
           "company": "Leewood realty",
           "amount": 337705,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "",
           "company": "mass dot",
           "amount": 0,
+          "ageDays": 28
+        },
+        {
+          "jobNum": "3452-25",
+          "company": "Leewood realty",
+          "amount": 337705,
           "ageDays": 27
         },
         {
@@ -481,47 +475,47 @@
           "ageDays": 26
         },
         {
-          "jobNum": "3452-25",
-          "company": "Leewood realty",
-          "amount": 337705,
-          "ageDays": 25
+          "jobNum": "4197-26",
+          "company": "JT Lynch Construction",
+          "amount": 0,
+          "ageDays": 26
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 212,
+      "count": 213,
       "amount": 2748621,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 221
+          "ageDays": 222
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 221
+          "ageDays": 222
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 221
+          "ageDays": 222
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 221
+          "ageDays": 222
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 221
+          "ageDays": 222
         }
       ]
     }
