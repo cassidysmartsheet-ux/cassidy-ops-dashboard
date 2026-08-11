@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T19:07:37+00:00",
+  "generatedAt": "2026-08-11T20:04:06+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-11",
@@ -261,7 +261,7 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "",
+      "jobNum": "FJ-0482-26",
       "company": "Groveland school",
       "phase": "Milling",
       "pm": "",
@@ -291,6 +291,16 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "FJ-0489-26",
+      "company": "Salem bentley school",
+      "phase": "Milling",
+      "pm": "",
+      "city": "salem",
+      "endDate": "2026-08-01",
+      "varianceDays": 10,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "3814-26",
       "company": "OESL Automotive USA LLC",
       "phase": "Reclaim/Grading",
@@ -308,16 +318,6 @@
       "city": "Holliston",
       "endDate": "2026-08-03",
       "varianceDays": 8,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3194-25",
-      "company": "Gemini - Greenbriar",
-      "phase": "Milling",
-      "pm": "",
-      "city": "North Reading",
-      "endDate": "2026-08-04",
-      "varianceDays": 7,
       "status": "Scheduled"
     }
   ],
@@ -457,7 +457,7 @@
           "ageDays": 28
         },
         {
-          "jobNum": "",
+          "jobNum": "FJ-0337-26",
           "company": "mass dot",
           "amount": 0,
           "ageDays": 28
