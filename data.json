@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:36:35+00:00",
+  "generatedAt": "2026-08-13T19:42:59+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-13",
@@ -15,16 +15,16 @@
       "pct": 90.0
     },
     "tonsMTD": {
-      "value": 10358.0,
-      "priorMonth": 70206.0
+      "value": 23239.0,
+      "priorMonth": 76071.0
     },
     "syMTD": {
-      "value": 67896.0,
-      "priorMonth": 404989.0
+      "value": 174498.0,
+      "priorMonth": 445631.0
     },
     "slip7d": {
-      "scheduled": 19,
-      "completed": 2
+      "scheduled": 7,
+      "completed": 17
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 39781227
+      "amount": 26296738
     }
   },
   "crewUtilGrid": [
@@ -231,16 +231,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3705-26",
-      "company": "Russo Brothers",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Hudson",
-      "endDate": "2026-06-19",
-      "varianceDays": 55,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "RO-001",
       "company": "RAINED OUT",
       "phase": "Crackfill",
@@ -251,73 +241,83 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0229-26",
-      "company": "Natick",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Natick",
-      "endDate": "2026-07-14",
-      "varianceDays": 30,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "FJ-0482-26",
-      "company": "Groveland school",
-      "phase": "Milling",
-      "pm": "",
-      "city": "groveland",
-      "endDate": "2026-07-15",
-      "varianceDays": 29,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3981-26",
-      "company": "City Sealcoating",
+      "jobNum": "3814-26",
+      "company": "OESL Automotive USA LLC",
       "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "Leominster",
-      "endDate": "2026-07-24",
-      "varianceDays": 20,
+      "city": "Somersworth",
+      "endDate": "2026-09-22",
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
-      "jobNum": "4080-26",
-      "company": "Great Island - the Pinehills",
-      "phase": "Milling",
+      "jobNum": "3710-26",
+      "company": "Grasso construction",
+      "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "Plymouth",
-      "endDate": "2026-07-31",
-      "varianceDays": 13,
+      "city": "Burlington",
+      "endDate": "2026-08-07",
+      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0489-26",
-      "company": "Salem bentley school",
-      "phase": "Milling",
+      "jobNum": "3944-26",
+      "company": "JJ Phelan",
+      "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "salem",
-      "endDate": "2026-08-01",
-      "varianceDays": 12,
+      "city": "Dorchester",
+      "endDate": "2026-08-10",
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
-      "jobNum": "4216-26",
-      "company": "Dandel Construction",
-      "phase": "Milling",
+      "jobNum": "3779-26",
+      "company": "Russo Brothers",
+      "phase": "Paving",
       "pm": "",
-      "city": "Holliston",
-      "endDate": "2026-08-03",
-      "varianceDays": 10,
+      "city": "",
+      "endDate": "2026-08-19",
+      "varianceDays": 2,
       "status": "Scheduled"
     },
     {
-      "jobNum": "3194-25",
-      "company": "Gemini - Greenbriar",
-      "phase": "Milling",
+      "jobNum": "4186-26",
+      "company": "Quirk Construction Corp",
+      "phase": "Pulverizing",
       "pm": "",
-      "city": "North Reading",
-      "endDate": "2026-08-04",
-      "varianceDays": 9,
+      "city": "Arlington",
+      "endDate": "2026-08-11",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3840-26",
+      "company": "JLL - FRANKLIN",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Franklin",
+      "endDate": "2026-10-15",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3279-25",
+      "company": "Growth companies",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Waltham",
+      "endDate": "2026-10-10",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Methuen",
+      "endDate": "2026-11-20",
+      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -344,7 +344,7 @@
     },
     {
       "weekStart": "2026-06-15",
-      "tons": 7725.0,
+      "tons": 10343.0,
       "tonsLY": 0
     },
     {
@@ -369,42 +369,66 @@
     },
     {
       "weekStart": "2026-07-20",
-      "tons": 19801.0,
+      "tons": 23321.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-07-27",
-      "tons": 18267.0,
+      "tons": 21012.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-03",
-      "tons": 4812.0,
+      "tons": 13460.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-10",
-      "tons": 0,
+      "tons": 3833.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 1,
+      "count": 13,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3701-26",
-          "company": "Kadima",
+          "jobNum": "3628-26",
+          "company": "Mount Auburn Cemetery",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4080-26",
+          "company": "Great Island - the Pinehills",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "3194-25",
+          "company": "Gemini - Greenbriar",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3264-25",
+          "company": "JLL-Wilmington",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4102-26",
+          "company": "The Dartmouth group",
+          "amount": 0,
+          "ageDays": 6
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 7,
+      "count": 12,
       "amount": 0,
       "jobs": [
         {
@@ -426,14 +450,14 @@
           "ageDays": 13
         },
         {
-          "jobNum": "3792-26",
-          "company": "Rapiscan",
+          "jobNum": "4080-26",
+          "company": "Great Island - the Pinehills",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
-          "jobNum": "2994-25",
-          "company": "Berkley",
+          "jobNum": "3792-26",
+          "company": "Rapiscan",
           "amount": 0,
           "ageDays": 12
         }
@@ -441,7 +465,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 27,
+      "count": 31,
       "amount": 1013115,
       "jobs": [
         {
@@ -457,22 +481,22 @@
           "ageDays": 30
         },
         {
+          "jobNum": "FJ-0229-26",
+          "company": "Natick",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
           "jobNum": "3452-25",
           "company": "Leewood realty",
           "amount": 337705,
           "ageDays": 29
         },
         {
-          "jobNum": "3452-25",
-          "company": "Leewood realty",
-          "amount": 337705,
-          "ageDays": 28
-        },
-        {
-          "jobNum": "4197-26",
-          "company": "JT Lynch Construction",
+          "jobNum": "FJ-0482-26",
+          "company": "Groveland school",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         }
       ]
     },
@@ -521,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 195,
+    "Complete": 221,
     "Unscheduled": 11,
     "Cancelled": 4,
-    "Scheduled": 178,
-    "": 147
+    "": 147,
+    "Scheduled": 152
   }
 }
