@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:30:48+00:00",
+  "generatedAt": "2026-08-14T17:37:17+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-14",
@@ -540,7 +540,7 @@
   ],
   "billingTotals": {
     "readyToInvoice": 0,
-    "invoiced": 882832,
+    "invoiced": 1220537,
     "paidInFull": 0,
     "overdueBalance": 0
   },
