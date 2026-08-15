@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T23:45:34+00:00",
+  "generatedAt": "2026-08-15T00:59:57+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-14",
+    "today": "2026-08-15",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 9,
-      "completed": 15
+      "completed": 11
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 81,
+      "varianceDays": 82,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 52,
+      "varianceDays": 53,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-07",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-08-10",
-      "varianceDays": 4,
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-08-11",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Arlington",
       "endDate": "2026-08-11",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -391,38 +391,38 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 12,
+      "count": 9,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3194-25",
-          "company": "Gemini - Greenbriar",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3264-25",
-          "company": "JLL-Wilmington",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4102-26",
-          "company": "The Dartmouth group",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "3701-26",
           "company": "Kadima",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3779-26",
           "company": "Russo Brothers",
           "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4263-26",
+          "company": "JT Lynch Construction",
+          "amount": 0,
           "ageDays": 6
+        },
+        {
+          "jobNum": "3628-26",
+          "company": "Mount Auburn Cemetery",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "3264-25",
+          "company": "JLL-Wilmington",
+          "amount": 0,
+          "ageDays": 5
         }
       ]
     },
@@ -438,14 +438,14 @@
           "ageDays": 14
         },
         {
-          "jobNum": "3589-26",
-          "company": "Uni-cast llc",
+          "jobNum": "2994-25",
+          "company": "Berkley",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "4080-26",
-          "company": "Great Island - the Pinehills",
+          "jobNum": "FJ-0489-26",
+          "company": "Salem bentley school",
           "amount": 0,
           "ageDays": 14
         },
@@ -453,87 +453,87 @@
           "jobNum": "3792-26",
           "company": "Rapiscan",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 12
         },
         {
-          "jobNum": "2994-25",
-          "company": "Berkley",
+          "jobNum": "4216-26",
+          "company": "Dandel Construction",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 12
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 29,
-      "amount": 675410,
+      "count": 30,
+      "amount": 337705,
       "jobs": [
         {
           "jobNum": "3452-25",
           "company": "Leewood realty",
           "amount": 337705,
           "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0482-26",
-          "company": "Groveland school",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3452-25",
-          "company": "Leewood realty",
-          "amount": 337705,
-          "ageDays": 29
         },
         {
           "jobNum": "4197-26",
           "company": "JT Lynch Construction",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4194-26",
           "company": "Greener Group LLC",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4124-26",
+          "company": "Keypoint Partners",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "FJ-0229-26",
+          "company": "Natick",
+          "amount": 0,
+          "ageDays": 30
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 216,
-      "amount": 3086326,
+      "count": 218,
+      "amount": 3424031,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 225
+          "ageDays": 226
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 225
+          "ageDays": 226
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 225
+          "ageDays": 226
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 225
+          "ageDays": 226
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 225
+          "ageDays": 226
         }
       ]
     }
