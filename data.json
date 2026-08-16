@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T23:57:26+00:00",
+  "generatedAt": "2026-08-16T01:25:39+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-15",
+    "today": "2026-08-16",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 8,
-      "completed": 11
+      "completed": 8
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 82,
+      "varianceDays": 83,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,17 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 53,
+      "varianceDays": 54,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3710-26",
+      "company": "Grasso construction",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Burlington",
+      "endDate": "2026-08-07",
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -251,23 +261,13 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3710-26",
-      "company": "Grasso construction",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Burlington",
-      "endDate": "2026-08-07",
-      "varianceDays": 8,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3944-26",
       "company": "JJ Phelan",
       "phase": "Reclaim/Grading",
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-08-10",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-08-11",
-      "varianceDays": 4,
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,27 @@
       "pm": "",
       "city": "Arlington",
       "endDate": "2026-08-11",
-      "varianceDays": 4,
+      "varianceDays": 5,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3262-25",
+      "company": "JLL- Wilmington",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Wilmington",
+      "endDate": "2026-08-14",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "4130-26",
+      "company": "JLL",
+      "phase": "Hand",
+      "pm": "",
+      "city": "Canton",
+      "endDate": "2026-08-14",
+      "varianceDays": 2,
       "status": "Scheduled"
     },
     {
@@ -298,26 +318,6 @@
       "city": "Franklin",
       "endDate": "2026-10-15",
       "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3279-25",
-      "company": "Growth companies",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "Waltham",
-      "endDate": "2026-10-10",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3695-26",
-      "company": "Notre Dame Cristo Ray",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Methuen",
-      "endDate": "2026-11-20",
-      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -391,36 +391,36 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 9,
+      "count": 7,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3701-26",
-          "company": "Kadima",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3779-26",
-          "company": "Russo Brothers",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "4263-26",
           "company": "JT Lynch Construction",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3628-26",
           "company": "Mount Auburn Cemetery",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         },
         {
           "jobNum": "3264-25",
           "company": "JLL-Wilmington",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "FJ-0482-26",
+          "company": "Groveland school",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4079-26",
+          "company": "K&r Construction",
           "amount": 0,
           "ageDays": 5
         }
@@ -428,36 +428,36 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 12,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "3792-26",
           "company": "Rapiscan",
           "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "2994-25",
-          "company": "Berkley",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0489-26",
-          "company": "Salem bentley school",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3792-26",
-          "company": "Rapiscan",
-          "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "4216-26",
           "company": "Dandel Construction",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "4079-26",
+          "company": "K&r Construction",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "3194-25",
+          "company": "Gemini - Greenbriar",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "3870-26",
+          "company": "-Town Of holliston ( Pinecrest Golf Course)",
           "amount": 0,
           "ageDays": 12
         }
@@ -465,30 +465,30 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 30,
-      "amount": 337705,
+      "count": 28,
+      "amount": 0,
       "jobs": [
         {
-          "jobNum": "3452-25",
-          "company": "Leewood realty",
-          "amount": 337705,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "4197-26",
-          "company": "JT Lynch Construction",
+          "jobNum": "FJ-0315-26",
+          "company": "Tewksbury Town of",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "4194-26",
-          "company": "Greener Group LLC",
+          "jobNum": "3918-26",
+          "company": "Silva Associates poroperty Management",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "4124-26",
-          "company": "Keypoint Partners",
+          "jobNum": "4115-26",
+          "company": "EQT- 27 Otis Street",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4064-26",
+          "company": "Current Path Consulting",
           "amount": 0,
           "ageDays": 30
         },
@@ -496,44 +496,44 @@
           "jobNum": "FJ-0229-26",
           "company": "Natick",
           "amount": 0,
-          "ageDays": 30
+          "ageDays": 27
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 218,
-      "amount": 3424031,
+      "count": 223,
+      "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 226
+          "ageDays": 227
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 226
+          "ageDays": 227
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 226
+          "ageDays": 227
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 226
+          "ageDays": 227
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 226
+          "ageDays": 227
         }
       ]
     }
