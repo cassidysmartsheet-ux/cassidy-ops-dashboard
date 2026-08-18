@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T23:45:15+00:00",
+  "generatedAt": "2026-08-18T00:59:23+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-17",
+    "today": "2026-08-18",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -15,16 +15,16 @@
       "pct": 86.7
     },
     "tonsMTD": {
-      "value": 23239.0,
+      "value": 25584.0,
       "priorMonth": 76071.0
     },
     "syMTD": {
-      "value": 174498.0,
+      "value": 195435.0,
       "priorMonth": 445631.0
     },
     "slip7d": {
-      "scheduled": 10,
-      "completed": 7
+      "scheduled": 12,
+      "completed": 4
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 84,
+      "varianceDays": 85,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 55,
+      "varianceDays": 56,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-07",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-08-10",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-08-11",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Arlington",
       "endDate": "2026-08-11",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Wilmington",
       "endDate": "2026-08-14",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Canton",
       "endDate": "2026-08-14",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -391,36 +391,24 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 3,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3628-26",
-          "company": "Mount Auburn Cemetery",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3264-25",
-          "company": "JLL-Wilmington",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "FJ-0482-26",
-          "company": "Groveland school",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "4079-26",
           "company": "K&r Construction",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "FJ-0489-26",
           "company": "Salem bentley school",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "FJ-0482-26",
+          "company": "Groveland school",
           "amount": 0,
           "ageDays": 5
         }
@@ -428,75 +416,75 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 14,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3792-26",
-          "company": "Rapiscan",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4216-26",
-          "company": "Dandel Construction",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "4079-26",
           "company": "K&r Construction",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3194-25",
           "company": "Gemini - Greenbriar",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3870-26",
           "company": "-Town Of holliston ( Pinecrest Golf Course)",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3628-26",
+          "company": "Mount Auburn Cemetery",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "4080-26",
+          "company": "Great Island - the Pinehills",
+          "amount": 0,
+          "ageDays": 12
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 24,
+      "count": 26,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "FJ-0229-26",
           "company": "Natick",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "4064-26",
           "company": "Current Path Consulting",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "4180-26",
           "company": "Golini Brothers",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "FJ-0315-26",
           "company": "Tewksbury Town of",
           "amount": 0,
-          "ageDays": 26
+          "ageDays": 27
         },
         {
           "jobNum": "4013-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 25
+          "ageDays": 26
         }
       ]
     },
@@ -509,31 +497,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 228
+          "ageDays": 229
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 228
+          "ageDays": 229
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 228
+          "ageDays": 229
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 228
+          "ageDays": 229
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 228
+          "ageDays": 229
         }
       ]
     }
