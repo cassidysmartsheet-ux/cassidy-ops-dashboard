@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-20T23:59:04+00:00",
+  "generatedAt": "2026-08-21T01:45:29+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-20",
+    "today": "2026-08-21",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -15,15 +15,15 @@
       "pct": 96.7
     },
     "tonsMTD": {
-      "value": 25584.0,
+      "value": 30684.0,
       "priorMonth": 76071.0
     },
     "syMTD": {
-      "value": 195435.0,
+      "value": 220635.0,
       "priorMonth": 445631.0
     },
     "slip7d": {
-      "scheduled": 12,
+      "scheduled": 15,
       "completed": 2
     },
     "holdsMTD": {
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 87,
+      "varianceDays": 88,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 58,
+      "varianceDays": 59,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-07",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-08-10",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-08-11",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Arlington",
       "endDate": "2026-08-11",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Wilmington",
       "endDate": "2026-08-14",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Canton",
       "endDate": "2026-08-14",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "billerica",
       "endDate": "2026-08-17",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     }
   ],
@@ -391,49 +391,42 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 1,
+      "count": 0,
       "amount": 0,
-      "jobs": [
-        {
-          "jobNum": "FJ-0482-26",
-          "company": "Groveland school",
-          "amount": 0,
-          "ageDays": 7
-        }
-      ]
+      "jobs": []
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 12,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3628-26",
-          "company": "Mount Auburn Cemetery",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4080-26",
-          "company": "Great Island - the Pinehills",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3194-25",
           "company": "Gemini - Greenbriar",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3264-25",
           "company": "JLL-Wilmington",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "4102-26",
           "company": "The Dartmouth group",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3701-26",
+          "company": "Kadima",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "3779-26",
+          "company": "Russo Brothers",
           "amount": 0,
           "ageDays": 13
         }
@@ -445,31 +438,31 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4064-26",
-          "company": "Current Path Consulting",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "4180-26",
-          "company": "Golini Brothers",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
           "jobNum": "FJ-0315-26",
           "company": "Tewksbury Town of",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4013-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "4012-26",
+          "company": "Hub",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "4182-26",
+          "company": "Certified Safe Electric Inc",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "4011-26",
           "company": "Hub",
           "amount": 0,
           "ageDays": 28
@@ -478,38 +471,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 228,
+      "count": 230,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 231
+          "ageDays": 232
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 231
+          "ageDays": 232
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 231
+          "ageDays": 232
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 231
+          "ageDays": 232
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 231
+          "ageDays": 232
         }
       ]
     }
