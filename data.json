@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T12:51:34+00:00",
+  "generatedAt": "2026-08-22T13:27:44+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-22",
@@ -15,16 +15,16 @@
       "pct": 96.7
     },
     "tonsMTD": {
-      "value": 30684.0,
+      "value": 43702.0,
       "priorMonth": 76071.0
     },
     "syMTD": {
-      "value": 220635.0,
+      "value": 284569.0,
       "priorMonth": 445631.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 2
+      "scheduled": 8,
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 26844984
+      "amount": 25323855
     }
   },
   "crewUtilGrid": [
@@ -241,16 +241,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3710-26",
-      "company": "Grasso construction",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Burlington",
-      "endDate": "2026-08-07",
-      "varianceDays": 15,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3944-26",
       "company": "JJ Phelan",
       "phase": "Reclaim/Grading",
@@ -258,26 +248,6 @@
       "city": "Dorchester",
       "endDate": "2026-08-10",
       "varianceDays": 12,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3779-26",
-      "company": "Russo Brothers",
-      "phase": "Hand",
-      "pm": "",
-      "city": "",
-      "endDate": "2026-08-11",
-      "varianceDays": 11,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "4186-26",
-      "company": "Quirk Construction Corp",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "Arlington",
-      "endDate": "2026-08-11",
-      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -301,23 +271,53 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4130-26",
+      "jobNum": "3445-25",
       "company": "JLL",
-      "phase": "Hand",
+      "phase": "Milling",
       "pm": "",
-      "city": "Canton",
-      "endDate": "2026-08-14",
-      "varianceDays": 8,
+      "city": "Wilmington",
+      "endDate": "2026-08-19",
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0512-26",
-      "company": "city of billerica",
-      "phase": "Hand",
+      "jobNum": "4083-26",
+      "company": "South Shore Plaza",
+      "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "billerica",
-      "endDate": "2026-08-17",
-      "varianceDays": 5,
+      "city": "Braintree",
+      "endDate": "2026-10-16",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3840-26",
+      "company": "JLL - FRANKLIN",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Franklin",
+      "endDate": "2026-10-22",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3279-25",
+      "company": "Growth companies",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Waltham",
+      "endDate": "2026-10-10",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "4312-26",
+      "company": "Quirk Construction Corp",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Concord",
+      "endDate": "2026-11-04",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -374,30 +374,55 @@
     },
     {
       "weekStart": "2026-08-03",
-      "tons": 13460.0,
+      "tons": 15333.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-10",
-      "tons": 3833.0,
+      "tons": 7318.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-17",
-      "tons": 7445.0,
+      "tons": 15105.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 0,
+      "count": 4,
       "amount": 0,
-      "jobs": []
+      "jobs": [
+        {
+          "jobNum": "FJ-0512-26",
+          "company": "city of billerica",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "3779-26",
+          "company": "Russo Brothers",
+          "amount": 0,
+          "ageDays": 3
+        },
+        {
+          "jobNum": "3264-25",
+          "company": "JLL-Wilmington",
+          "amount": 0,
+          "ageDays": 3
+        },
+        {
+          "jobNum": "FJ-0502-26",
+          "company": "Wenham, Town of",
+          "amount": 0,
+          "ageDays": 2
+        }
+      ]
     },
     {
       "bucket": "8-14 days",
-      "count": 9,
+      "count": 14,
       "amount": 0,
       "jobs": [
         {
@@ -434,7 +459,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 30,
+      "count": 31,
       "amount": 0,
       "jobs": [
         {
@@ -514,11 +539,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 221,
+    "Complete": 235,
     "Unscheduled": 17,
     "Cancelled": 4,
     "": 152,
-    "Scheduled": 160,
+    "Scheduled": 146,
     "hub": 1
   }
 }
