@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-21T23:47:11+00:00",
+  "generatedAt": "2026-08-22T00:59:38+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-21",
+    "today": "2026-08-22",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 88,
+      "varianceDays": 89,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 59,
+      "varianceDays": 60,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-07",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-08-10",
-      "varianceDays": 11,
+      "varianceDays": 12,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-08-11",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Arlington",
       "endDate": "2026-08-11",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Wilmington",
       "endDate": "2026-08-14",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Canton",
       "endDate": "2026-08-14",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "billerica",
       "endDate": "2026-08-17",
-      "varianceDays": 4,
+      "varianceDays": 5,
       "status": "Scheduled"
     }
   ],
@@ -397,112 +397,112 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 12,
+      "count": 9,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3194-25",
-          "company": "Gemini - Greenbriar",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3264-25",
-          "company": "JLL-Wilmington",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4102-26",
-          "company": "The Dartmouth group",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3701-26",
           "company": "Kadima",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3779-26",
           "company": "Russo Brothers",
           "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "4263-26",
+          "company": "JT Lynch Construction",
+          "amount": 0,
           "ageDays": 13
+        },
+        {
+          "jobNum": "3628-26",
+          "company": "Mount Auburn Cemetery",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
+          "jobNum": "3264-25",
+          "company": "JLL-Wilmington",
+          "amount": 0,
+          "ageDays": 12
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 28,
+      "count": 30,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "FJ-0315-26",
-          "company": "Tewksbury Town of",
-          "amount": 0,
-          "ageDays": 30
-        },
         {
           "jobNum": "4013-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4012-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4182-26",
           "company": "Certified Safe Electric Inc",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4011-26",
           "company": "Hub",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
+        },
+        {
+          "jobNum": "4006-26",
+          "company": "",
+          "amount": 0,
+          "ageDays": 29
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 230,
+      "count": 231,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 232
+          "ageDays": 233
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 232
+          "ageDays": 233
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 232
+          "ageDays": 233
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 232
+          "ageDays": 233
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 232
+          "ageDays": 233
         }
       ]
     }
