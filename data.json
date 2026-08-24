@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:16:45+00:00",
+  "generatedAt": "2026-08-24T19:54:10+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-24",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 24,
+      "scheduledDays": 0,
       "availableDays": 30,
-      "pct": 80.0
+      "pct": 0.0
     },
     "tonsMTD": {
-      "value": 41357.0,
-      "priorMonth": 76071.0
+      "value": 0,
+      "priorMonth": 0
     },
     "syMTD": {
-      "value": 263632.0,
-      "priorMonth": 445631.0
+      "value": 0,
+      "priorMonth": 0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 9
+      "scheduled": 0,
+      "completed": 0
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 25169989
+      "amount": 0
     }
   },
   "crewUtilGrid": [
@@ -41,21 +41,21 @@
       "weeks": [
         {
           "weekStart": "2026-08-24",
-          "scheduled": 5,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-08-31",
-          "scheduled": 5,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 6,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -67,21 +67,21 @@
       "weeks": [
         {
           "weekStart": "2026-08-24",
-          "scheduled": 4,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-08-31",
-          "scheduled": 8,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 7,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -107,7 +107,7 @@
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 1,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -119,21 +119,21 @@
       "weeks": [
         {
           "weekStart": "2026-08-24",
-          "scheduled": 8,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-08-31",
-          "scheduled": 7,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 3,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -145,21 +145,21 @@
       "weeks": [
         {
           "weekStart": "2026-08-24",
-          "scheduled": 7,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-08-31",
-          "scheduled": 11,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 10,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -219,167 +219,66 @@
       ]
     }
   ],
-  "jobsBehind": [
-    {
-      "jobNum": "FJ-0268-26",
-      "company": "Holiday",
-      "phase": "Milling",
-      "pm": "",
-      "city": "haverhill",
-      "endDate": "2026-05-25",
-      "varianceDays": 91,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "RO-001",
-      "company": "RAINED OUT",
-      "phase": "Crackfill",
-      "pm": "",
-      "city": "Haverhill",
-      "endDate": "2026-06-23",
-      "varianceDays": 62,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3944-26",
-      "company": "JJ Phelan",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Dorchester",
-      "endDate": "2026-08-10",
-      "varianceDays": 14,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3262-25",
-      "company": "JLL- Wilmington",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Wilmington",
-      "endDate": "2026-08-14",
-      "varianceDays": 10,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3814-26",
-      "company": "OESL Automotive USA LLC",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Somersworth",
-      "endDate": "2026-09-22",
-      "varianceDays": 8,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3445-25",
-      "company": "JLL",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Wilmington",
-      "endDate": "2026-08-19",
-      "varianceDays": 5,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "4094-26",
-      "company": "Prime Group - Shetland Park",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Salem",
-      "endDate": "2026-08-21",
-      "varianceDays": 3,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "FJ-0501-26",
-      "company": "Norblom",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Burlington",
-      "endDate": "2026-08-21",
-      "varianceDays": 3,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "FJ-0513-26",
-      "company": "city of billerica",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "billerica",
-      "endDate": "2026-08-21",
-      "varianceDays": 3,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "4083-26",
-      "company": "South Shore Plaza",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Braintree",
-      "endDate": "2026-10-16",
-      "varianceDays": 3,
-      "status": "Scheduled"
-    }
-  ],
+  "jobsBehind": [],
   "tonsWeekly": [
     {
       "weekStart": "2026-06-01",
-      "tons": 8945.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-06-08",
-      "tons": 7943.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-06-15",
-      "tons": 10343.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-06-22",
-      "tons": 18036.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-06-29",
-      "tons": 8006.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-07-06",
-      "tons": 12706.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-07-13",
-      "tons": 19589.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-07-20",
-      "tons": 23321.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-07-27",
-      "tons": 21012.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-03",
-      "tons": 15333.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-10",
-      "tons": 7318.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-17",
-      "tons": 12760.0,
+      "tons": 0,
       "tonsLY": 0
     },
     {
@@ -544,12 +443,5 @@
     "paidInFull": 0,
     "overdueBalance": 0
   },
-  "statusCounts": {
-    "Complete": 234,
-    "Unscheduled": 18,
-    "Cancelled": 4,
-    "": 151,
-    "Scheduled": 147,
-    "hub": 1
-  }
+  "statusCounts": {}
 }
