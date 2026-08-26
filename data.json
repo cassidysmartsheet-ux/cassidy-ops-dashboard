@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:43:26+00:00",
+  "generatedAt": "2026-08-26T13:32:24+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-26",
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 25169989
+      "amount": 32028431
     }
   },
   "crewUtilGrid": [
@@ -391,159 +391,41 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 0,
       "amount": 0,
-      "jobs": [
-        {
-          "jobNum": "3779-26",
-          "company": "Russo Brothers",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3264-25",
-          "company": "JLL-Wilmington",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "FJ-0502-26",
-          "company": "Wenham, Town of",
-          "amount": 0,
-          "ageDays": 6
-        },
-        {
-          "jobNum": "FJ-0512-26",
-          "company": "city of billerica",
-          "amount": 0,
-          "ageDays": 5
-        }
-      ]
+      "jobs": []
     },
     {
       "bucket": "8-14 days",
-      "count": 6,
+      "count": 0,
       "amount": 0,
-      "jobs": [
-        {
-          "jobNum": "FJ-0489-26",
-          "company": "Salem bentley school",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0482-26",
-          "company": "Groveland school",
-          "amount": 0,
-          "ageDays": 13
-        },
-        {
-          "jobNum": "3779-26",
-          "company": "Russo Brothers",
-          "amount": 0,
-          "ageDays": 12
-        },
-        {
-          "jobNum": "FJ-0488-26",
-          "company": "Town of lexington",
-          "amount": 0,
-          "ageDays": 12
-        },
-        {
-          "jobNum": "4130-26",
-          "company": "JLL",
-          "amount": 0,
-          "ageDays": 12
-        }
-      ]
+      "jobs": []
     },
     {
       "bucket": "15-30 days",
-      "count": 32,
+      "count": 0,
       "amount": 0,
-      "jobs": [
-        {
-          "jobNum": "3467-25",
-          "company": "Delaware Valley",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3880-26",
-          "company": "Bridges by EPOCH",
-          "amount": 0,
-          "ageDays": 29
-        },
-        {
-          "jobNum": "2994-25",
-          "company": "Berkley",
-          "amount": 0,
-          "ageDays": 29
-        },
-        {
-          "jobNum": "4064-26",
-          "company": "Current Path Consulting",
-          "amount": 0,
-          "ageDays": 28
-        },
-        {
-          "jobNum": "FJ-0229-26",
-          "company": "Natick",
-          "amount": 0,
-          "ageDays": 28
-        }
-      ]
+      "jobs": []
     },
     {
       "bucket": "30+ days",
-      "count": 239,
-      "amount": 3761736,
-      "jobs": [
-        {
-          "jobNum": "3344-25",
-          "company": "Boston Scientific",
-          "amount": 0,
-          "ageDays": 237
-        },
-        {
-          "jobNum": "3344-25",
-          "company": "Boston Scientific",
-          "amount": 0,
-          "ageDays": 237
-        },
-        {
-          "jobNum": "3344-25",
-          "company": "Boston Scientific",
-          "amount": 0,
-          "ageDays": 237
-        },
-        {
-          "jobNum": "3641-26",
-          "company": "Evergreen Management Group",
-          "amount": 0,
-          "ageDays": 237
-        },
-        {
-          "jobNum": "3330-25",
-          "company": "PMA - Brickett Hill",
-          "amount": 0,
-          "ageDays": 237
-        }
-      ]
+      "count": 0,
+      "amount": 0,
+      "jobs": []
     }
   ],
   "billingTotals": {
     "readyToInvoice": 0,
-    "invoiced": 1220537,
+    "invoiced": 0,
     "paidInFull": 0,
     "overdueBalance": 0
   },
   "statusCounts": {
     "Complete": 234,
-    "Unscheduled": 18,
+    "Unscheduled": 20,
     "Cancelled": 4,
     "": 158,
-    "Scheduled": 147,
+    "Scheduled": 145,
     "hub": 1
   }
 }
