@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T11:10:53+00:00",
+  "generatedAt": "2026-08-27T21:01:22+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-27",
@@ -15,16 +15,16 @@
       "pct": 80.0
     },
     "tonsMTD": {
-      "value": 53646.0,
+      "value": 62674.0,
       "priorMonth": 76071.0
     },
     "syMTD": {
-      "value": 398253.0,
+      "value": 480390.0,
       "priorMonth": 445631.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 6
+      "scheduled": 8,
+      "completed": 13
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 24571108
+      "amount": 22612072
     }
   },
   "crewUtilGrid": [
@@ -74,7 +74,7 @@
         },
         {
           "weekStart": "2026-08-31",
-          "scheduled": 7,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -133,7 +133,7 @@
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 6,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -241,6 +241,16 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "3842-26",
+      "company": "JLL - Marlborough",
+      "phase": "Paving",
+      "pm": "",
+      "city": "marlborouggh",
+      "endDate": "2026-08-06",
+      "varianceDays": 21,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "3944-26",
       "company": "JJ Phelan",
       "phase": "Reclaim/Grading",
@@ -268,16 +278,6 @@
       "city": "Wilmington",
       "endDate": "2026-08-19",
       "varianceDays": 8,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "4094-26",
-      "company": "Prime Group - Shetland Park",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Salem",
-      "endDate": "2026-08-21",
-      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-08-17",
-      "tons": 15246.0,
+      "tons": 20870.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-24",
-      "tons": 4831.0,
+      "tons": 8235.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 5,
+      "count": 11,
       "amount": 0,
       "jobs": [
         {
@@ -413,16 +413,16 @@
           "ageDays": 6
         },
         {
-          "jobNum": "3262-25",
-          "company": "JLL- Wilmington",
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 6
         },
         {
-          "jobNum": "4080-26",
-          "company": "Great Island - the Pinehills",
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 5
         }
       ]
     },
@@ -545,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 239,
+    "Complete": 246,
     "Unscheduled": 22,
     "Cancelled": 4,
-    "": 158,
-    "Scheduled": 144,
+    "": 152,
+    "Scheduled": 149,
     "hub": 1
   }
 }
