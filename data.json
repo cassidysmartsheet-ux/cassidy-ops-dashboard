@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-28T17:34:09+00:00",
+  "generatedAt": "2026-08-29T01:09:19+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-28",
+    "today": "2026-08-29",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -23,8 +23,8 @@
       "priorMonth": 445631.0
     },
     "slip7d": {
-      "scheduled": 11,
-      "completed": 12
+      "scheduled": 10,
+      "completed": 8
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 95,
+      "varianceDays": 96,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 66,
+      "varianceDays": 67,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "marlborouggh",
       "endDate": "2026-08-06",
-      "varianceDays": 22,
+      "varianceDays": 23,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-08-10",
-      "varianceDays": 18,
+      "varianceDays": 19,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Wilmington",
       "endDate": "2026-08-19",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "billerica",
       "endDate": "2026-08-21",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Westborough",
       "endDate": "2026-08-24",
-      "varianceDays": 4,
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -391,12 +391,12 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 11,
+      "count": 8,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "FJ-0512-26",
-          "company": "city of billerica",
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
           "ageDays": 7
         },
@@ -404,23 +404,23 @@
           "jobNum": "3262-25",
           "company": "JLL- Wilmington",
           "amount": 0,
-          "ageDays": 7
+          "ageDays": 5
+        },
+        {
+          "jobNum": "4080-26",
+          "company": "Great Island - the Pinehills",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "4035-26",
+          "company": "Alfred Taney PE",
+          "amount": 0,
+          "ageDays": 5
         },
         {
           "jobNum": "4094-26",
           "company": "Prime Group - Shetland Park",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4094-26",
-          "company": "Prime Group - Shetland Park",
-          "amount": 0,
-          "ageDays": 6
-        },
-        {
-          "jobNum": "3262-25",
-          "company": "JLL- Wilmington",
           "amount": 0,
           "ageDays": 4
         }
@@ -428,61 +428,67 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 9,
+      "count": 8,
       "amount": 0,
       "jobs": [
+        {
+          "jobNum": "3262-25",
+          "company": "JLL- Wilmington",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "FJ-0512-26",
+          "company": "city of billerica",
+          "amount": 0,
+          "ageDays": 12
+        },
         {
           "jobNum": "3779-26",
           "company": "Russo Brothers",
           "amount": 0,
-          "ageDays": 14
+          "ageDays": 10
         },
         {
-          "jobNum": "FJ-0488-26",
-          "company": "Town of lexington",
+          "jobNum": "3264-25",
+          "company": "JLL-Wilmington",
           "amount": 0,
-          "ageDays": 14
+          "ageDays": 10
         },
         {
-          "jobNum": "4130-26",
-          "company": "JLL",
+          "jobNum": "FJ-0502-26",
+          "company": "Wenham, Town of",
           "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3262-25",
-          "company": "JLL- Wilmington",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3262-25",
-          "company": "JLL- Wilmington",
-          "amount": 0,
-          "ageDays": 12
+          "ageDays": 9
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 31,
+      "count": 33,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4064-26",
-          "company": "Current Path Consulting",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "FJ-0229-26",
-          "company": "Natick",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
           "jobNum": "3112-25",
           "company": "CW Contracting",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3792-26",
+          "company": "Rapiscan",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "3589-26",
+          "company": "Uni-cast llc",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "4080-26",
+          "company": "Great Island - the Pinehills",
           "amount": 0,
           "ageDays": 29
         },
@@ -491,49 +497,43 @@
           "company": "Rapiscan",
           "amount": 0,
           "ageDays": 28
-        },
-        {
-          "jobNum": "3589-26",
-          "company": "Uni-cast llc",
-          "amount": 0,
-          "ageDays": 28
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 242,
+      "count": 244,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 239
+          "ageDays": 240
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 239
+          "ageDays": 240
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 239
+          "ageDays": 240
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 239
+          "ageDays": 240
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 239
+          "ageDays": 240
         }
       ]
     }
