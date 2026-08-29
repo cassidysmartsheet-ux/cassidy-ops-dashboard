@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T13:34:07+00:00",
+  "generatedAt": "2026-08-29T17:22:17+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-08-29",
@@ -15,16 +15,16 @@
       "pct": 80.0
     },
     "tonsMTD": {
-      "value": 62674.0,
+      "value": 68030.0,
       "priorMonth": 76071.0
     },
     "syMTD": {
-      "value": 480390.0,
+      "value": 507722.0,
       "priorMonth": 445631.0
     },
     "slip7d": {
-      "scheduled": 10,
-      "completed": 8
+      "scheduled": 8,
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 22612072
+      "amount": 24114422
     }
   },
   "crewUtilGrid": [
@@ -126,14 +126,14 @@
         },
         {
           "weekStart": "2026-08-31",
-          "scheduled": 7,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 4,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -384,7 +384,7 @@
     },
     {
       "weekStart": "2026-08-24",
-      "tons": 8235.0,
+      "tons": 13591.0,
       "tonsLY": 0
     }
   ],
@@ -545,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 246,
+    "Complete": 248,
     "Unscheduled": 22,
     "Cancelled": 4,
-    "": 162,
-    "Scheduled": 149,
+    "": 155,
+    "Scheduled": 157,
     "hub": 1
   }
 }
