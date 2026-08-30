@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T22:16:19+00:00",
+  "generatedAt": "2026-08-30T00:31:20+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-08-29",
+    "today": "2026-08-30",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 7,
-      "completed": 11
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 96,
+      "varianceDays": 97,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 67,
+      "varianceDays": 68,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "marlborouggh",
       "endDate": "2026-08-06",
-      "varianceDays": 23,
+      "varianceDays": 24,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-08-10",
-      "varianceDays": 19,
+      "varianceDays": 20,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,27 @@
       "pm": "",
       "city": "Wilmington",
       "endDate": "2026-08-19",
-      "varianceDays": 10,
+      "varianceDays": 11,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0501-26",
+      "company": "Norblom",
+      "phase": "Hand",
+      "pm": "",
+      "city": "Burlington",
+      "endDate": "2026-08-21",
+      "varianceDays": 9,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0513-26",
+      "company": "city of billerica",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "billerica",
+      "endDate": "2026-08-21",
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -281,42 +301,22 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0501-26",
-      "company": "Norblom",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Burlington",
-      "endDate": "2026-08-21",
-      "varianceDays": 8,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "FJ-0513-26",
-      "company": "city of billerica",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "billerica",
-      "endDate": "2026-08-21",
-      "varianceDays": 8,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3729-26",
       "company": "Russo Bros",
       "phase": "Paving",
       "pm": "",
       "city": "Westborough",
       "endDate": "2026-08-24",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
-      "jobNum": "4083-26",
-      "company": "South Shore Plaza",
-      "phase": "Reclaim/Grading",
+      "jobNum": "4017-26",
+      "company": "Wilder co",
+      "phase": "Milling",
       "pm": "",
-      "city": "Braintree",
-      "endDate": "2026-10-16",
+      "city": "Newton",
+      "endDate": "2026-08-27",
       "varianceDays": 3,
       "status": "Scheduled"
     }
@@ -391,43 +391,6 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 9,
-      "amount": 0,
-      "jobs": [
-        {
-          "jobNum": "4094-26",
-          "company": "Prime Group - Shetland Park",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3262-25",
-          "company": "JLL- Wilmington",
-          "amount": 0,
-          "ageDays": 5
-        },
-        {
-          "jobNum": "4080-26",
-          "company": "Great Island - the Pinehills",
-          "amount": 0,
-          "ageDays": 5
-        },
-        {
-          "jobNum": "4035-26",
-          "company": "Alfred Taney PE",
-          "amount": 0,
-          "ageDays": 5
-        },
-        {
-          "jobNum": "4094-26",
-          "company": "Prime Group - Shetland Park",
-          "amount": 0,
-          "ageDays": 4
-        }
-      ]
-    },
-    {
-      "bucket": "8-14 days",
       "count": 8,
       "amount": 0,
       "jobs": [
@@ -435,42 +398,91 @@
           "jobNum": "3262-25",
           "company": "JLL- Wilmington",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4080-26",
+          "company": "Great Island - the Pinehills",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4035-26",
+          "company": "Alfred Taney PE",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "2765-25",
+          "company": "Gemini",
+          "amount": 0,
+          "ageDays": 5
+        }
+      ]
+    },
+    {
+      "bucket": "8-14 days",
+      "count": 9,
+      "amount": 0,
+      "jobs": [
+        {
+          "jobNum": "3262-25",
+          "company": "JLL- Wilmington",
+          "amount": 0,
+          "ageDays": 14
         },
         {
           "jobNum": "FJ-0512-26",
           "company": "city of billerica",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "3779-26",
           "company": "Russo Brothers",
           "amount": 0,
-          "ageDays": 10
+          "ageDays": 11
         },
         {
           "jobNum": "3264-25",
           "company": "JLL-Wilmington",
           "amount": 0,
-          "ageDays": 10
+          "ageDays": 11
         },
         {
           "jobNum": "FJ-0502-26",
           "company": "Wenham, Town of",
           "amount": 0,
-          "ageDays": 9
+          "ageDays": 10
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 33,
+      "count": 32,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3112-25",
-          "company": "CW Contracting",
+          "jobNum": "3792-26",
+          "company": "Rapiscan",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3589-26",
+          "company": "Uni-cast llc",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4080-26",
+          "company": "Great Island - the Pinehills",
           "amount": 0,
           "ageDays": 30
         },
@@ -481,59 +493,47 @@
           "ageDays": 29
         },
         {
-          "jobNum": "3589-26",
-          "company": "Uni-cast llc",
+          "jobNum": "2994-25",
+          "company": "Berkley",
           "amount": 0,
           "ageDays": 29
-        },
-        {
-          "jobNum": "4080-26",
-          "company": "Great Island - the Pinehills",
-          "amount": 0,
-          "ageDays": 29
-        },
-        {
-          "jobNum": "3792-26",
-          "company": "Rapiscan",
-          "amount": 0,
-          "ageDays": 28
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 244,
+      "count": 245,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 240
+          "ageDays": 241
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 240
+          "ageDays": 241
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 240
+          "ageDays": 241
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 240
+          "ageDays": 241
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 240
+          "ageDays": 241
         }
       ]
     }
