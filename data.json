@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T15:11:43+00:00",
+  "generatedAt": "2026-09-02T18:42:43+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-02",
@@ -10,20 +10,20 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 30,
+      "scheduledDays": 28,
       "availableDays": 30,
-      "pct": 100.0
+      "pct": 93.3
     },
     "tonsMTD": {
       "value": 0,
-      "priorMonth": 68035.0
+      "priorMonth": 73135.0
     },
     "syMTD": {
       "value": 0,
-      "priorMonth": 507749.0
+      "priorMonth": 532949.0
     },
     "slip7d": {
-      "scheduled": 18,
+      "scheduled": 17,
       "completed": 5
     },
     "holdsMTD": {
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 24107887
+      "amount": 22535441
     }
   },
   "crewUtilGrid": [
@@ -67,21 +67,21 @@
       "weeks": [
         {
           "weekStart": "2026-08-31",
-          "scheduled": 8,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 6,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-14",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -119,14 +119,14 @@
       "weeks": [
         {
           "weekStart": "2026-08-31",
-          "scheduled": 6,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -291,23 +291,13 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3729-26",
-      "company": "Russo Bros",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Westborough",
-      "endDate": "2026-08-24",
-      "varianceDays": 9,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3814-26",
       "company": "OESL Automotive USA LLC",
       "phase": "Reclaim/Grading",
       "pm": "",
       "city": "Somersworth",
       "endDate": "2026-09-22",
-      "varianceDays": 8,
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -318,6 +308,16 @@
       "city": "Newton",
       "endDate": "2026-08-27",
       "varianceDays": 6,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "2848-25",
+      "company": "Berkeley Partners",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Billericca",
+      "endDate": "2026-08-28",
+      "varianceDays": 5,
       "status": "Scheduled"
     }
   ],
@@ -379,7 +379,7 @@
     },
     {
       "weekStart": "2026-08-24",
-      "tons": 13596.0,
+      "tons": 18696.0,
       "tonsLY": 0
     },
     {
@@ -416,7 +416,7 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 12,
+      "count": 14,
       "amount": 0,
       "jobs": [
         {
@@ -533,11 +533,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 249,
+    "Complete": 251,
     "Unscheduled": 22,
     "Cancelled": 4,
-    "": 158,
-    "Scheduled": 156,
+    "": 157,
+    "Scheduled": 157,
     "hub": 1
   }
 }
