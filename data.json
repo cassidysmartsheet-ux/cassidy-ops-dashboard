@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:37:07+00:00",
+  "generatedAt": "2026-09-03T21:20:12+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-03",
@@ -15,16 +15,16 @@
       "pct": 93.3
     },
     "tonsMTD": {
-      "value": 0,
-      "priorMonth": 73135.0
+      "value": 5363.0,
+      "priorMonth": 85925.0
     },
     "syMTD": {
-      "value": 0,
-      "priorMonth": 532949.0
+      "value": 26270.0,
+      "priorMonth": 637613.0
     },
     "slip7d": {
-      "scheduled": 20,
-      "completed": 4
+      "scheduled": 6,
+      "completed": 18
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 22535441
+      "amount": 18634500
     }
   },
   "crewUtilGrid": [
@@ -251,26 +251,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3944-26",
-      "company": "JJ Phelan",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Dorchester",
-      "endDate": "2026-08-10",
-      "varianceDays": 24,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3445-25",
-      "company": "JLL",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Wilmington",
-      "endDate": "2026-08-19",
-      "varianceDays": 15,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0501-26",
       "company": "Norblom",
       "phase": "Hand",
@@ -281,43 +261,63 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0513-26",
-      "company": "city of billerica",
+      "jobNum": "4083-26",
+      "company": "South Shore Plaza",
       "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "billerica",
-      "endDate": "2026-08-21",
-      "varianceDays": 13,
+      "city": "Braintree",
+      "endDate": "2026-10-16",
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
-      "jobNum": "3814-26",
-      "company": "OESL Automotive USA LLC",
+      "jobNum": "3840-26",
+      "company": "JLL - FRANKLIN",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Franklin",
+      "endDate": "2026-10-23",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3279-25",
+      "company": "Growth companies",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Waltham",
+      "endDate": "2026-10-10",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "4312-26",
+      "company": "Quirk Construction Corp",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Concord",
+      "endDate": "2026-11-04",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
       "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "Somersworth",
-      "endDate": "2026-09-22",
-      "varianceDays": 9,
+      "city": "Methuen",
+      "endDate": "2026-11-20",
+      "varianceDays": 1,
       "status": "Scheduled"
     },
     {
-      "jobNum": "4017-26",
-      "company": "Wilder co",
+      "jobNum": "3258-25",
+      "company": "JLL- north Billerica",
       "phase": "Milling",
       "pm": "",
-      "city": "Newton",
-      "endDate": "2026-08-27",
-      "varianceDays": 7,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "2848-25",
-      "company": "Berkeley Partners",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Billericca",
-      "endDate": "2026-08-28",
-      "varianceDays": 6,
+      "city": "North Billerica",
+      "endDate": "2026-09-11",
+      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -369,29 +369,29 @@
     },
     {
       "weekStart": "2026-08-10",
-      "tons": 12290.0,
+      "tons": 12985.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-17",
-      "tons": 20870.0,
+      "tons": 24466.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-24",
-      "tons": 18696.0,
+      "tons": 22393.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-31",
-      "tons": 0,
+      "tons": 10165.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 2,
+      "count": 7,
       "amount": 0,
       "jobs": [
         {
@@ -401,10 +401,28 @@
           "ageDays": 7
         },
         {
+          "jobNum": "4017-26",
+          "company": "Wilder co",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "FJ-0513-26",
+          "company": "city of billerica",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
           "jobNum": "3619-26",
           "company": "Heritage House",
           "amount": 0,
           "ageDays": 6
+        },
+        {
+          "jobNum": "4017-26",
+          "company": "Wilder co",
+          "amount": 0,
+          "ageDays": 3
         }
       ]
     },
@@ -527,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 251,
+    "Complete": 270,
     "Unscheduled": 22,
     "Cancelled": 4,
     "": 157,
-    "Scheduled": 157,
+    "Scheduled": 138,
     "hub": 1
   }
 }
