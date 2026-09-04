@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T20:12:38+00:00",
+  "generatedAt": "2026-09-04T22:21:26+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-04",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 28,
+      "scheduledDays": 25,
       "availableDays": 30,
-      "pct": 93.3
+      "pct": 83.3
     },
     "tonsMTD": {
-      "value": 5363.0,
-      "priorMonth": 85925.0
+      "value": 9030.0,
+      "priorMonth": 91025.0
     },
     "syMTD": {
-      "value": 26270.0,
-      "priorMonth": 637613.0
+      "value": 66280.0,
+      "priorMonth": 662813.0
     },
     "slip7d": {
-      "scheduled": 11,
-      "completed": 15
+      "scheduled": 4,
+      "completed": 19
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 18634500
+      "amount": 17456900
     }
   },
   "crewUtilGrid": [
@@ -67,7 +67,7 @@
       "weeks": [
         {
           "weekStart": "2026-08-31",
-          "scheduled": 7,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -81,7 +81,7 @@
         },
         {
           "weekStart": "2026-09-14",
-          "scheduled": 6,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -119,7 +119,7 @@
       "weeks": [
         {
           "weekStart": "2026-08-31",
-          "scheduled": 5,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -133,7 +133,7 @@
         },
         {
           "weekStart": "2026-09-14",
-          "scheduled": 6,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -145,7 +145,7 @@
       "weeks": [
         {
           "weekStart": "2026-08-31",
-          "scheduled": 11,
+          "scheduled": 10,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -159,7 +159,7 @@
         },
         {
           "weekStart": "2026-09-14",
-          "scheduled": 9,
+          "scheduled": 10,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -271,26 +271,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3445-25",
-      "company": "JLL",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Wilmington",
-      "endDate": "2026-09-02",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3944-26",
-      "company": "JJ Phelan",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Dorchester",
-      "endDate": "2026-09-02",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3840-26",
       "company": "JLL - FRANKLIN",
       "phase": "Pulverizing",
@@ -318,6 +298,26 @@
       "city": "Concord",
       "endDate": "2026-11-04",
       "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3695-26",
+      "company": "Notre Dame Cristo Ray",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Methuen",
+      "endDate": "2026-11-20",
+      "varianceDays": 1,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3260-25",
+      "company": "JLL- north Billerica",
+      "phase": "Milling",
+      "pm": "",
+      "city": "North Billerica",
+      "endDate": "2026-09-03",
+      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-08-24",
-      "tons": 22393.0,
+      "tons": 27493.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-08-31",
-      "tons": 10165.0,
+      "tons": 13832.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 7,
       "amount": 0,
       "jobs": [
         {
@@ -417,12 +417,18 @@
           "company": "",
           "amount": 0,
           "ageDays": 3
+        },
+        {
+          "jobNum": "3445-25",
+          "company": "JLL",
+          "amount": 0,
+          "ageDays": 2
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 15,
+      "count": 16,
       "amount": 0,
       "jobs": [
         {
@@ -459,7 +465,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 26,
+      "count": 28,
       "amount": 0,
       "jobs": [
         {
@@ -539,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 270,
-    "Unscheduled": 22,
+    "Complete": 274,
+    "Unscheduled": 23,
     "Cancelled": 4,
     "": 158,
-    "Scheduled": 138,
+    "Scheduled": 133,
     "hub": 1
   }
 }
