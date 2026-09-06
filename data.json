@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-05T23:04:49+00:00",
+  "generatedAt": "2026-09-06T00:55:49+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-09-05",
+    "today": "2026-09-06",
     "mtdStart": "2026-09-01",
     "priorMtdStart": "2026-08-01",
     "priorMtdEnd": "2026-08-31",
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 103,
+      "varianceDays": 104,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 74,
+      "varianceDays": 75,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "marlborouggh",
       "endDate": "2026-08-06",
-      "varianceDays": 30,
+      "varianceDays": 31,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,17 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 15,
+      "varianceDays": 16,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3260-25",
+      "company": "JLL- north Billerica",
+      "phase": "Milling",
+      "pm": "",
+      "city": "North Billerica",
+      "endDate": "2026-09-03",
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
@@ -271,12 +281,12 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3260-25",
-      "company": "JLL- north Billerica",
-      "phase": "Milling",
+      "jobNum": "3592-26",
+      "company": "Rl Construction",
+      "phase": "Hand",
       "pm": "",
-      "city": "North Billerica",
-      "endDate": "2026-09-03",
+      "city": "Waltham",
+      "endDate": "2026-09-04",
       "varianceDays": 2,
       "status": "Scheduled"
     },
@@ -308,16 +318,6 @@
       "city": "Concord",
       "endDate": "2026-11-04",
       "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3695-26",
-      "company": "Notre Dame Cristo Ray",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Methuen",
-      "endDate": "2026-11-20",
-      "varianceDays": 1,
       "status": "Scheduled"
     }
   ],
@@ -398,66 +398,66 @@
           "jobNum": "4017-26",
           "company": "Wilder co",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         },
         {
           "jobNum": "4174-26",
           "company": "New England Development",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
           "jobNum": "4003-26",
           "company": "",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
           "jobNum": "3445-25",
           "company": "JLL",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 4
         },
         {
           "jobNum": "4174-26",
           "company": "New England Development",
           "amount": 0,
-          "ageDays": 2
+          "ageDays": 3
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 12,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "4094-26",
-          "company": "Prime Group - Shetland Park",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3262-25",
           "company": "JLL- Wilmington",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "4080-26",
           "company": "Great Island - the Pinehills",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "4035-26",
           "company": "Alfred Taney PE",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "3729-26",
           "company": "Russo Bros",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
           "ageDays": 12
         }
@@ -465,36 +465,36 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 32,
+      "count": 31,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3628-26",
-          "company": "Mount Auburn Cemetery",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "4080-26",
-          "company": "Great Island - the Pinehills",
-          "amount": 0,
-          "ageDays": 30
-        },
         {
           "jobNum": "3194-25",
           "company": "Gemini - Greenbriar",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3264-25",
           "company": "JLL-Wilmington",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4102-26",
           "company": "The Dartmouth group",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3710-26",
+          "company": "Grasso construction",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "3701-26",
+          "company": "Kadima",
           "amount": 0,
           "ageDays": 29
         }
@@ -502,38 +502,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 256,
+      "count": 258,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 247
+          "ageDays": 248
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 247
+          "ageDays": 248
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 247
+          "ageDays": 248
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 247
+          "ageDays": 248
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 247
+          "ageDays": 248
         }
       ]
     }
