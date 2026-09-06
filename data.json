@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T13:07:23+00:00",
+  "generatedAt": "2026-09-06T16:15:19+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-06",
@@ -48,7 +48,7 @@
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 6,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -74,7 +74,7 @@
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 8,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -100,7 +100,7 @@
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 1,
+          "scheduled": 0,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -126,7 +126,7 @@
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 6,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -152,7 +152,7 @@
         },
         {
           "weekStart": "2026-09-07",
-          "scheduled": 10,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -291,6 +291,16 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "3840-26",
       "company": "JLL - FRANKLIN",
       "phase": "Pulverizing",
@@ -307,16 +317,6 @@
       "pm": "",
       "city": "Waltham",
       "endDate": "2026-10-10",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "4312-26",
-      "company": "Quirk Construction Corp",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "Concord",
-      "endDate": "2026-11-04",
       "varianceDays": 2,
       "status": "Scheduled"
     }
