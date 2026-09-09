@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:04:18+00:00",
+  "generatedAt": "2026-09-09T18:34:48+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-09",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 27,
+      "scheduledDays": 28,
       "availableDays": 30,
-      "pct": 90.0
+      "pct": 93.3
     },
     "tonsMTD": {
-      "value": 9030.0,
+      "value": 9697.0,
       "priorMonth": 91025.0
     },
     "syMTD": {
-      "value": 66280.0,
+      "value": 73985.0,
       "priorMonth": 662813.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 6
+      "scheduled": 9,
+      "completed": 9
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 18097100
+      "amount": 17478463
     }
   },
   "crewUtilGrid": [
@@ -119,14 +119,14 @@
       "weeks": [
         {
           "weekStart": "2026-09-07",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-09-14",
-          "scheduled": 6,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-09-07",
-      "tons": 0,
+      "tons": 667.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 7,
       "amount": 0,
       "jobs": [
         {
@@ -417,12 +417,18 @@
           "company": "JLL",
           "amount": 0,
           "ageDays": 5
+        },
+        {
+          "jobNum": "4152-26",
+          "company": "JLL",
+          "amount": 0,
+          "ageDays": 1
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 8,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -539,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 274,
-    "Unscheduled": 27,
+    "Complete": 277,
+    "Unscheduled": 28,
     "Cancelled": 4,
-    "": 162,
-    "Scheduled": 134,
+    "": 161,
+    "Scheduled": 132,
     "hub": 1
   }
 }
