@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T22:54:53+00:00",
+  "generatedAt": "2026-09-11T00:48:12+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-09-10",
+    "today": "2026-09-11",
     "mtdStart": "2026-09-01",
     "priorMtdStart": "2026-08-01",
     "priorMtdEnd": "2026-08-31",
@@ -23,8 +23,8 @@
       "priorMonth": 662813.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 7
+      "scheduled": 14,
+      "completed": 4
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 108,
+      "varianceDays": 109,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 79,
+      "varianceDays": 80,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "marlborouggh",
       "endDate": "2026-08-06",
-      "varianceDays": 35,
+      "varianceDays": 36,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 20,
+      "varianceDays": 21,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "North Billerica",
       "endDate": "2026-09-03",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Waltham",
       "endDate": "2026-09-04",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -291,6 +291,16 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "3814-26",
+      "company": "OESL Automotive USA LLC",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Somersworth",
+      "endDate": "2026-09-09",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "FJ-0303-26",
       "company": "Cassidy Corp",
       "phase": "Paving",
@@ -301,22 +311,12 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3840-26",
-      "company": "JLL - FRANKLIN",
-      "phase": "Pulverizing",
+      "jobNum": "2848-25",
+      "company": "Berkeley Partners",
+      "phase": "Paving",
       "pm": "",
-      "city": "Franklin",
-      "endDate": "2026-10-23",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3279-25",
-      "company": "Growth companies",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "Waltham",
-      "endDate": "2026-10-10",
+      "city": "Billericca",
+      "endDate": "2026-09-09",
       "varianceDays": 2,
       "status": "Scheduled"
     }
@@ -391,73 +391,67 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 4,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "4174-26",
-          "company": "New England Development",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4218-26",
-          "company": "BXP",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "3445-25",
           "company": "JLL",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4152-26",
           "company": "JLL",
           "amount": 0,
-          "ageDays": 2
+          "ageDays": 3
         },
         {
           "jobNum": "4215-26",
           "company": "Golini Brothers",
           "amount": 0,
-          "ageDays": 2
+          "ageDays": 3
+        },
+        {
+          "jobNum": "4227-26",
+          "company": "Keypoint Partners",
+          "amount": 0,
+          "ageDays": 3
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 9,
+      "count": 8,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "2765-25",
-          "company": "Gemini",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4017-26",
-          "company": "Wilder co",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0513-26",
-          "company": "city of billerica",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3619-26",
           "company": "Heritage House",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "4017-26",
           "company": "Wilder co",
+          "amount": 0,
+          "ageDays": 11
+        },
+        {
+          "jobNum": "4152-26",
+          "company": "JLL",
+          "amount": 0,
+          "ageDays": 11
+        },
+        {
+          "jobNum": "4174-26",
+          "company": "New England Development",
+          "amount": 0,
+          "ageDays": 10
+        },
+        {
+          "jobNum": "4003-26",
+          "company": "",
           "amount": 0,
           "ageDays": 10
         }
@@ -469,32 +463,32 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4079-26",
-          "company": "K&r Construction",
+          "jobNum": "FJ-0489-26",
+          "company": "Salem bentley school",
           "amount": 0,
           "ageDays": 30
+        },
+        {
+          "jobNum": "FJ-0482-26",
+          "company": "Groveland school",
+          "amount": 0,
+          "ageDays": 29
         },
         {
           "jobNum": "3779-26",
           "company": "Russo Brothers",
           "amount": 0,
-          "ageDays": 30
+          "ageDays": 28
         },
         {
-          "jobNum": "4186-26",
-          "company": "Quirk Construction Corp",
+          "jobNum": "FJ-0488-26",
+          "company": "Town of lexington",
           "amount": 0,
-          "ageDays": 30
+          "ageDays": 28
         },
         {
-          "jobNum": "FJ-0489-26",
-          "company": "Salem bentley school",
-          "amount": 0,
-          "ageDays": 29
-        },
-        {
-          "jobNum": "FJ-0482-26",
-          "company": "Groveland school",
+          "jobNum": "4130-26",
+          "company": "JLL",
           "amount": 0,
           "ageDays": 28
         }
@@ -502,38 +496,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 269,
+      "count": 272,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 252
+          "ageDays": 253
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 252
+          "ageDays": 253
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 252
+          "ageDays": 253
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 252
+          "ageDays": 253
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 252
+          "ageDays": 253
         }
       ]
     }
