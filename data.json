@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:27:14+00:00",
+  "generatedAt": "2026-09-13T14:34:15+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-13",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 26,
+      "scheduledDays": 27,
       "availableDays": 30,
-      "pct": 86.7
+      "pct": 90.0
     },
     "tonsMTD": {
-      "value": 9697.0,
+      "value": 13836.0,
       "priorMonth": 91025.0
     },
     "syMTD": {
-      "value": 73985.0,
+      "value": 107054.0,
       "priorMonth": 662813.0
     },
     "slip7d": {
-      "scheduled": 10,
-      "completed": 3
+      "scheduled": 5,
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 18972308
+      "amount": 18853567
     }
   },
   "crewUtilGrid": [
@@ -119,7 +119,7 @@
       "weeks": [
         {
           "weekStart": "2026-09-07",
-          "scheduled": 4,
+          "scheduled": 5,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "2848-25",
-      "company": "Berkeley Partners",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Billericca",
-      "endDate": "2026-09-09",
-      "varianceDays": 4,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4224-26",
       "company": "Western Earthworks LLC",
       "phase": "Reclaim/Grading",
@@ -311,13 +301,23 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3710-26",
-      "company": "Grasso construction",
+      "jobNum": "4083-26",
+      "company": "South Shore Plaza",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Braintree",
+      "endDate": "2026-10-16",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
       "phase": "Paving",
       "pm": "",
-      "city": "Burlington",
-      "endDate": "2026-09-10",
-      "varianceDays": 3,
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-09-07",
-      "tons": 667.0,
+      "tons": 4806.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 10,
       "amount": 0,
       "jobs": [
         {
@@ -411,6 +411,18 @@
           "company": "Keypoint Partners",
           "amount": 0,
           "ageDays": 5
+        },
+        {
+          "jobNum": "2848-25",
+          "company": "Berkeley Partners",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "3710-26",
+          "company": "Grasso construction",
+          "amount": 0,
+          "ageDays": 3
         }
       ]
     },
@@ -453,7 +465,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 28,
+      "count": 30,
       "amount": 0,
       "jobs": [
         {
@@ -533,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 276,
+    "Complete": 283,
     "Unscheduled": 28,
     "Cancelled": 4,
-    "": 155,
-    "Scheduled": 150,
+    "": 154,
+    "Scheduled": 144,
     "hub": 1
   }
 }
