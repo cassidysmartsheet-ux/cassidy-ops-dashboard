@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:17:46+00:00",
+  "generatedAt": "2026-09-14T16:26:10+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-14",
@@ -548,7 +548,7 @@
     "Complete": 283,
     "Unscheduled": 28,
     "Cancelled": 4,
-    "": 154,
+    "": 155,
     "Scheduled": 144,
     "hub": 1
   }
