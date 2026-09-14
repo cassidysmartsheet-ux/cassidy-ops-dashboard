@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T20:23:25+00:00",
+  "generatedAt": "2026-09-14T23:16:40+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-14",
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 18853567
+      "amount": 18960395
     }
   },
   "crewUtilGrid": [
@@ -241,16 +241,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3842-26",
-      "company": "JLL - Marlborough",
-      "phase": "Paving",
-      "pm": "",
-      "city": "marlborouggh",
-      "endDate": "2026-08-06",
-      "varianceDays": 39,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0501-26",
       "company": "Norblom",
       "phase": "Hand",
@@ -318,6 +308,16 @@
       "city": "Braintree",
       "endDate": "2026-10-16",
       "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -546,10 +546,10 @@
   },
   "statusCounts": {
     "Complete": 283,
-    "Unscheduled": 28,
+    "Unscheduled": 27,
     "Cancelled": 4,
     "": 155,
-    "Scheduled": 144,
+    "Scheduled": 145,
     "hub": 1
   }
 }
