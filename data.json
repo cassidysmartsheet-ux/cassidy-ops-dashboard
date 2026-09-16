@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T19:00:45+00:00",
+  "generatedAt": "2026-09-16T22:09:16+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-16",
@@ -15,16 +15,16 @@
       "pct": 83.3
     },
     "tonsMTD": {
-      "value": 13836.0,
+      "value": 18804.0,
       "priorMonth": 91025.0
     },
     "syMTD": {
-      "value": 107054.0,
+      "value": 153648.0,
       "priorMonth": 662813.0
     },
     "slip7d": {
-      "scheduled": 13,
-      "completed": 7
+      "scheduled": 9,
+      "completed": 11
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 18960395
+      "amount": 17935357
     }
   },
   "crewUtilGrid": [
@@ -251,16 +251,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3260-25",
-      "company": "JLL- north Billerica",
-      "phase": "Milling",
-      "pm": "",
-      "city": "North Billerica",
-      "endDate": "2026-09-03",
-      "varianceDays": 13,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3592-26",
       "company": "Rl Construction",
       "phase": "Hand",
@@ -319,6 +309,16 @@
       "endDate": "2026-11-28",
       "varianceDays": 2,
       "status": "Scheduled"
+    },
+    {
+      "jobNum": "3840-26",
+      "company": "JLL - FRANKLIN",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "Franklin",
+      "endDate": "2026-10-23",
+      "varianceDays": 2,
+      "status": "Scheduled"
     }
   ],
   "tonsWeekly": [
@@ -374,7 +374,7 @@
     },
     {
       "weekStart": "2026-08-31",
-      "tons": 13832.0,
+      "tons": 15728.0,
       "tonsLY": 0
     },
     {
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-09-14",
-      "tons": 0,
+      "tons": 3072.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 7,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -428,7 +428,7 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 7,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -450,16 +450,16 @@
           "ageDays": 13
         },
         {
+          "jobNum": "3260-25",
+          "company": "JLL- north Billerica",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
           "jobNum": "3445-25",
           "company": "JLL",
           "amount": 0,
           "ageDays": 12
-        },
-        {
-          "jobNum": "4152-26",
-          "company": "JLL",
-          "amount": 0,
-          "ageDays": 8
         }
       ]
     },
@@ -545,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 283,
+    "Complete": 289,
     "Unscheduled": 27,
     "Cancelled": 4,
-    "": 159,
-    "Scheduled": 145,
+    "": 162,
+    "Scheduled": 139,
     "hub": 1
   }
 }
