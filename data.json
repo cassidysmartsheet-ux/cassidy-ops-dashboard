@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-18T22:13:39+00:00",
+  "generatedAt": "2026-09-19T00:22:39+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-09-18",
+    "today": "2026-09-19",
     "mtdStart": "2026-09-01",
     "priorMtdStart": "2026-08-01",
     "priorMtdEnd": "2026-08-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 12,
-      "completed": 8
+      "completed": 5
     },
     "holdsMTD": {
       "weather": 0,
@@ -133,7 +133,7 @@
         },
         {
           "weekStart": "2026-09-28",
-          "scheduled": 9,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 116,
+      "varianceDays": 117,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 87,
+      "varianceDays": 88,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 28,
+      "varianceDays": 29,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Waltham",
       "endDate": "2026-09-04",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Somersworth",
       "endDate": "2026-09-09",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Fitchburg",
       "endDate": "2026-09-09",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-09-11",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -301,22 +301,22 @@
       "status": "Scheduled"
     },
     {
+      "jobNum": "FJ-0530-26",
+      "company": "Cassidy landscape",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "billerica",
+      "endDate": "2026-09-16",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
       "jobNum": "FJ-0303-26",
       "company": "Cassidy Corp",
       "phase": "Paving",
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-11-28",
-      "varianceDays": 2,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3840-26",
-      "company": "JLL - FRANKLIN",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "Franklin",
-      "endDate": "2026-10-23",
       "varianceDays": 2,
       "status": "Scheduled"
     }
@@ -391,110 +391,110 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 5,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3710-26",
-          "company": "Grasso construction",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4207-26",
-          "company": "",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4206-26",
-          "company": "RVK Realty",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "4332-26",
           "company": "Nashoba Paving Company",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
+        },
+        {
+          "jobNum": "3260-25",
+          "company": "JLL- north Billerica",
+          "amount": 0,
+          "ageDays": 5
         },
         {
           "jobNum": "3260-25",
           "company": "JLL- north Billerica",
           "amount": 0,
           "ageDays": 4
+        },
+        {
+          "jobNum": "2845-25",
+          "company": "Neville - hannaford mkt",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "2845-25",
+          "company": "Neville - hannaford mkt",
+          "amount": 0,
+          "ageDays": 3
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 8,
+      "count": 9,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3445-25",
-          "company": "JLL",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "3260-25",
-          "company": "JLL- north Billerica",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "4152-26",
           "company": "JLL",
           "amount": 0,
-          "ageDays": 10
+          "ageDays": 11
         },
         {
           "jobNum": "4215-26",
           "company": "Golini Brothers",
           "amount": 0,
-          "ageDays": 10
+          "ageDays": 11
         },
         {
           "jobNum": "4227-26",
           "company": "Keypoint Partners",
           "amount": 0,
+          "ageDays": 11
+        },
+        {
+          "jobNum": "2848-25",
+          "company": "Berkeley Partners",
+          "amount": 0,
           "ageDays": 10
+        },
+        {
+          "jobNum": "3710-26",
+          "company": "Grasso construction",
+          "amount": 0,
+          "ageDays": 9
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 32,
+      "count": 31,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3779-26",
-          "company": "Russo Brothers",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3264-25",
-          "company": "JLL-Wilmington",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3445-25",
-          "company": "JLL",
-          "amount": 0,
-          "ageDays": 30
-        },
         {
           "jobNum": "FJ-0502-26",
           "company": "Wenham, Town of",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3445-25",
           "company": "JLL",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "FJ-0512-26",
+          "company": "city of billerica",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "3262-25",
+          "company": "JLL- Wilmington",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
           "ageDays": 29
         }
@@ -502,38 +502,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 280,
+      "count": 283,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 260
+          "ageDays": 261
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 260
+          "ageDays": 261
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 260
+          "ageDays": 261
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 260
+          "ageDays": 261
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 260
+          "ageDays": 261
         }
       ]
     }
@@ -549,7 +549,7 @@
     "Unscheduled": 27,
     "Cancelled": 4,
     "": 162,
-    "Scheduled": 139,
+    "Scheduled": 140,
     "hub": 1
   }
 }
