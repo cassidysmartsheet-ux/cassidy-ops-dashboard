@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-22T23:27:06+00:00",
+  "generatedAt": "2026-09-23T01:39:44+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-09-22",
+    "today": "2026-09-23",
     "mtdStart": "2026-09-01",
     "priorMtdStart": "2026-08-01",
     "priorMtdEnd": "2026-08-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 16,
-      "completed": 4
+      "completed": 2
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 120,
+      "varianceDays": 121,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 91,
+      "varianceDays": 92,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 32,
+      "varianceDays": 33,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Waltham",
       "endDate": "2026-09-04",
-      "varianceDays": 18,
+      "varianceDays": 19,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Somersworth",
       "endDate": "2026-09-09",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Fitchburg",
       "endDate": "2026-09-09",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-09-11",
-      "varianceDays": 11,
+      "varianceDays": 12,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "billerica",
       "endDate": "2026-09-16",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-09-17",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     }
   ],
@@ -391,55 +391,37 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 1,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3260-25",
-          "company": "JLL- north Billerica",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
           "jobNum": "2845-25",
           "company": "Neville - hannaford mkt",
           "amount": 0,
           "ageDays": 7
-        },
-        {
-          "jobNum": "2845-25",
-          "company": "Neville - hannaford mkt",
-          "amount": 0,
-          "ageDays": 6
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 11,
+      "count": 10,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4152-26",
-          "company": "JLL",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4215-26",
-          "company": "Golini Brothers",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4227-26",
-          "company": "Keypoint Partners",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
           "jobNum": "2848-25",
           "company": "Berkeley Partners",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3710-26",
+          "company": "Grasso construction",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "FJ-0547-26",
+          "company": "Nordblom",
           "amount": 0,
           "ageDays": 13
         },
@@ -448,43 +430,49 @@
           "company": "Grasso construction",
           "amount": 0,
           "ageDays": 12
+        },
+        {
+          "jobNum": "4207-26",
+          "company": "",
+          "amount": 0,
+          "ageDays": 12
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 24,
+      "count": 27,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "3262-25",
           "company": "JLL- Wilmington",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4080-26",
           "company": "Great Island - the Pinehills",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4035-26",
           "company": "Alfred Taney PE",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3729-26",
           "company": "Russo Bros",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4094-26",
           "company": "Prime Group - Shetland Park",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         }
       ]
     },
@@ -497,31 +485,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 264
+          "ageDays": 265
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 264
+          "ageDays": 265
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 264
+          "ageDays": 265
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 264
+          "ageDays": 265
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 264
+          "ageDays": 265
         }
       ]
     }
