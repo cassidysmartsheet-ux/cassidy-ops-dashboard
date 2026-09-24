@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T15:55:30+00:00",
+  "generatedAt": "2026-09-24T19:46:35+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-09-24",
@@ -15,16 +15,16 @@
       "pct": 76.7
     },
     "tonsMTD": {
-      "value": 21370.0,
+      "value": 30097.0,
       "priorMonth": 91025.0
     },
     "syMTD": {
-      "value": 165524.0,
+      "value": 204495.0,
       "priorMonth": 662813.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 3
+      "scheduled": 9,
+      "completed": 6
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 19121817
+      "amount": 17181506
     }
   },
   "crewUtilGrid": [
@@ -251,16 +251,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3814-26",
-      "company": "OESL Automotive USA LLC",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Somersworth",
-      "endDate": "2026-09-09",
-      "varianceDays": 15,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4224-26",
       "company": "Western Earthworks LLC",
       "phase": "Reclaim/Grading",
@@ -319,6 +309,16 @@
       "endDate": "2026-09-18",
       "varianceDays": 6,
       "status": "Scheduled"
+    },
+    {
+      "jobNum": "3712-26",
+      "company": "Intergrated Site & Development",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Sunapee",
+      "endDate": "2026-09-18",
+      "varianceDays": 6,
+      "status": "Scheduled"
     }
   ],
   "tonsWeekly": [
@@ -374,29 +374,47 @@
     },
     {
       "weekStart": "2026-09-07",
-      "tons": 4806.0,
+      "tons": 9162.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-09-14",
-      "tons": 3072.0,
+      "tons": 5265.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-09-21",
-      "tons": 2473.0,
+      "tons": 4651.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 2,
+      "count": 5,
       "amount": 0,
       "jobs": [
         {
+          "jobNum": "3814-26",
+          "company": "OESL Automotive USA LLC",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4173-26",
+          "company": "Keypointt",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
           "jobNum": "3884-26",
           "company": "PMA (village Green 2026 Walks)",
+          "amount": 0,
+          "ageDays": 2
+        },
+        {
+          "jobNum": "3814-26",
+          "company": "OESL Automotive USA LLC",
           "amount": 0,
           "ageDays": 2
         },
@@ -527,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 292,
+    "Complete": 297,
     "Unscheduled": 30,
     "Cancelled": 4,
     "": 159,
-    "Scheduled": 151,
+    "Scheduled": 146,
     "hub": 1
   }
 }
