@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-23T22:56:18+00:00",
+  "generatedAt": "2026-09-24T01:06:53+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-09-23",
+    "today": "2026-09-24",
     "mtdStart": "2026-09-01",
     "priorMtdStart": "2026-08-01",
     "priorMtdEnd": "2026-08-31",
@@ -15,16 +15,16 @@
       "pct": 80.0
     },
     "tonsMTD": {
-      "value": 20982.0,
+      "value": 21370.0,
       "priorMonth": 91025.0
     },
     "syMTD": {
-      "value": 163372.0,
+      "value": 165524.0,
       "priorMonth": 662813.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 2
+      "scheduled": 12,
+      "completed": 3
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 18571928
+      "amount": 18422606
     }
   },
   "crewUtilGrid": [
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 121,
+      "varianceDays": 122,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 92,
+      "varianceDays": 93,
       "status": "Scheduled"
     },
     {
@@ -247,17 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 33,
-      "status": "Scheduled"
-    },
-    {
-      "jobNum": "3592-26",
-      "company": "Rl Construction",
-      "phase": "Hand",
-      "pm": "",
-      "city": "Waltham",
-      "endDate": "2026-09-04",
-      "varianceDays": 19,
+      "varianceDays": 34,
       "status": "Scheduled"
     },
     {
@@ -267,7 +257,7 @@
       "pm": "",
       "city": "Somersworth",
       "endDate": "2026-09-09",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -277,7 +267,7 @@
       "pm": "",
       "city": "Fitchburg",
       "endDate": "2026-09-09",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -287,7 +277,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-09-11",
-      "varianceDays": 12,
+      "varianceDays": 13,
       "status": "Scheduled"
     },
     {
@@ -297,7 +287,7 @@
       "pm": "",
       "city": "billerica",
       "endDate": "2026-09-16",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -307,7 +297,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
@@ -317,6 +307,16 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-09-17",
+      "varianceDays": 7,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3258-25",
+      "company": "JLL- north Billerica",
+      "phase": "Paving",
+      "pm": "",
+      "city": "North Billerica",
+      "endDate": "2026-09-18",
       "varianceDays": 6,
       "status": "Scheduled"
     }
@@ -369,7 +369,7 @@
     },
     {
       "weekStart": "2026-08-31",
-      "tons": 15728.0,
+      "tons": 15821.0,
       "tonsLY": 0
     },
     {
@@ -384,21 +384,27 @@
     },
     {
       "weekStart": "2026-09-21",
-      "tons": 2178.0,
+      "tons": 2473.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 1,
+      "count": 2,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "2845-25",
-          "company": "Neville - hannaford mkt",
+          "jobNum": "3884-26",
+          "company": "PMA (village Green 2026 Walks)",
           "amount": 0,
-          "ageDays": 7
+          "ageDays": 2
+        },
+        {
+          "jobNum": "3592-26",
+          "company": "Rl Construction",
+          "amount": 0,
+          "ageDays": 1
         }
       ]
     },
@@ -408,8 +414,14 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "2848-25",
-          "company": "Berkeley Partners",
+          "jobNum": "3710-26",
+          "company": "Grasso construction",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "FJ-0547-26",
+          "company": "Nordblom",
           "amount": 0,
           "ageDays": 14
         },
@@ -420,45 +432,33 @@
           "ageDays": 13
         },
         {
-          "jobNum": "FJ-0547-26",
-          "company": "Nordblom",
+          "jobNum": "4207-26",
+          "company": "",
           "amount": 0,
           "ageDays": 13
         },
         {
-          "jobNum": "3710-26",
-          "company": "Grasso construction",
+          "jobNum": "4206-26",
+          "company": "RVK Realty",
           "amount": 0,
-          "ageDays": 12
-        },
-        {
-          "jobNum": "4207-26",
-          "company": "",
-          "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 27,
+      "count": 25,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3262-25",
-          "company": "JLL- Wilmington",
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
           "ageDays": 30
         },
         {
-          "jobNum": "4080-26",
-          "company": "Great Island - the Pinehills",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "4035-26",
-          "company": "Alfred Taney PE",
+          "jobNum": "2765-25",
+          "company": "Gemini",
           "amount": 0,
           "ageDays": 30
         },
@@ -469,47 +469,53 @@
           "ageDays": 30
         },
         {
-          "jobNum": "4094-26",
-          "company": "Prime Group - Shetland Park",
+          "jobNum": "4035-26",
+          "company": "Alfred Taney PE",
           "amount": 0,
           "ageDays": 29
+        },
+        {
+          "jobNum": "2765-25",
+          "company": "Gemini",
+          "amount": 0,
+          "ageDays": 28
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 290,
+      "count": 294,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 265
+          "ageDays": 266
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 265
+          "ageDays": 266
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 265
+          "ageDays": 266
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 265
+          "ageDays": 266
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 265
+          "ageDays": 266
         }
       ]
     }
@@ -521,11 +527,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 289,
+    "Complete": 292,
     "Unscheduled": 29,
     "Cancelled": 4,
     "": 163,
-    "Scheduled": 149,
+    "Scheduled": 146,
     "hub": 1
   }
 }
