@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T15:58:12+00:00",
+  "generatedAt": "2026-10-01T20:53:37+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-01",
@@ -15,16 +15,16 @@
       "pct": 76.7
     },
     "tonsMTD": {
-      "value": 0,
-      "priorMonth": 38788.0
+      "value": 5.0,
+      "priorMonth": 38810.0
     },
     "syMTD": {
-      "value": 0,
-      "priorMonth": 293570.0
+      "value": 27.0,
+      "priorMonth": 293678.0
     },
     "slip7d": {
-      "scheduled": 14,
-      "completed": 3
+      "scheduled": 10,
+      "completed": 7
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 15881061
+      "amount": 15832286
     }
   },
   "crewUtilGrid": [
@@ -384,14 +384,14 @@
     },
     {
       "weekStart": "2026-09-28",
-      "tons": 0,
+      "tons": 27.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 6,
       "amount": 0,
       "jobs": [
         {
@@ -411,6 +411,18 @@
           "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
           "ageDays": 6
+        },
+        {
+          "jobNum": "4182-26",
+          "company": "Certified Safe Electric Inc",
+          "amount": 0,
+          "ageDays": 2
+        },
+        {
+          "jobNum": "4371-26",
+          "company": "EQT",
+          "amount": 0,
+          "ageDays": 2
         }
       ]
     },
@@ -490,7 +502,7 @@
     },
     {
       "bucket": "30+ days",
-      "count": 306,
+      "count": 305,
       "amount": 3761736,
       "jobs": [
         {
@@ -533,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 303,
+    "Complete": 307,
     "Unscheduled": 30,
     "Cancelled": 4,
-    "": 157,
-    "Scheduled": 146,
+    "": 160,
+    "Scheduled": 142,
     "hub": 1
   }
 }
