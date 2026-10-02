@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T20:53:37+00:00",
+  "generatedAt": "2026-10-02T00:29:34+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-10-01",
+    "today": "2026-10-02",
     "mtdStart": "2026-10-01",
     "priorMtdStart": "2026-09-01",
     "priorMtdEnd": "2026-09-30",
@@ -23,7 +23,7 @@
       "priorMonth": 293678.0
     },
     "slip7d": {
-      "scheduled": 10,
+      "scheduled": 13,
       "completed": 7
     },
     "holdsMTD": {
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 129,
+      "varianceDays": 130,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 100,
+      "varianceDays": 101,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 41,
+      "varianceDays": 42,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Fitchburg",
       "endDate": "2026-09-09",
-      "varianceDays": 22,
+      "varianceDays": 23,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-09-11",
-      "varianceDays": 20,
+      "varianceDays": 21,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "billerica",
       "endDate": "2026-09-16",
-      "varianceDays": 15,
+      "varianceDays": 16,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Dorchester",
       "endDate": "2026-09-21",
-      "varianceDays": 10,
+      "varianceDays": 11,
       "status": "Scheduled"
     }
   ],
@@ -391,73 +391,73 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 7,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "3824-26",
           "company": "UG2 = Alexandria Real estate",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3258-25",
           "company": "JLL- north Billerica",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4196-26",
           "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4182-26",
           "company": "Certified Safe Electric Inc",
           "amount": 0,
-          "ageDays": 2
+          "ageDays": 3
         },
         {
           "jobNum": "4371-26",
           "company": "EQT",
           "amount": 0,
-          "ageDays": 2
+          "ageDays": 3
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 7,
+      "count": 5,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3814-26",
-          "company": "OESL Automotive USA LLC",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4196-26",
-          "company": "Nordblom - Blue Sky Drive",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "4173-26",
           "company": "Keypointt",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3258-25",
           "company": "JLL- north Billerica",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3884-26",
           "company": "PMA (village Green 2026 Walks)",
+          "amount": 0,
+          "ageDays": 10
+        },
+        {
+          "jobNum": "3814-26",
+          "company": "OESL Automotive USA LLC",
+          "amount": 0,
+          "ageDays": 10
+        },
+        {
+          "jobNum": "3592-26",
+          "company": "Rl Construction",
           "amount": 0,
           "ageDays": 9
         }
@@ -469,32 +469,32 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4174-26",
-          "company": "New England Development",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "4003-26",
-          "company": "",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
           "jobNum": "3445-25",
           "company": "JLL",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4174-26",
+          "company": "New England Development",
           "amount": 0,
           "ageDays": 29
         },
         {
-          "jobNum": "4174-26",
-          "company": "New England Development",
-          "amount": 0,
-          "ageDays": 28
-        },
-        {
           "jobNum": "4218-26",
           "company": "BXP",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "3260-25",
+          "company": "JLL- north Billerica",
+          "amount": 0,
+          "ageDays": 29
+        },
+        {
+          "jobNum": "3445-25",
+          "company": "JLL",
           "amount": 0,
           "ageDays": 28
         }
@@ -502,38 +502,38 @@
     },
     {
       "bucket": "30+ days",
-      "count": 305,
+      "count": 307,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 273
+          "ageDays": 274
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 273
+          "ageDays": 274
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 273
+          "ageDays": 274
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 273
+          "ageDays": 274
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 273
+          "ageDays": 274
         }
       ]
     }
