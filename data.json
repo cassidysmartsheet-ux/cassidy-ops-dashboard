@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:02:07+00:00",
+  "generatedAt": "2026-10-03T16:16:03+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-03",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 23,
+      "scheduledDays": 25,
       "availableDays": 30,
-      "pct": 76.7
+      "pct": 83.3
     },
     "tonsMTD": {
       "value": 5.0,
       "priorMonth": 38810.0
     },
     "syMTD": {
-      "value": 27.0,
+      "value": 627.0,
       "priorMonth": 293678.0
     },
     "slip7d": {
       "scheduled": 14,
-      "completed": 4
+      "completed": 6
     },
     "holdsMTD": {
       "weather": 0,
@@ -41,7 +41,7 @@
       "weeks": [
         {
           "weekStart": "2026-09-28",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -171,7 +171,7 @@
       "weeks": [
         {
           "weekStart": "2026-09-28",
-          "scheduled": 0,
+          "scheduled": 1,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -391,7 +391,7 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 6,
       "amount": 0,
       "jobs": [
         {
@@ -417,6 +417,12 @@
           "company": "C White Marine",
           "amount": 0,
           "ageDays": 2
+        },
+        {
+          "jobNum": "4427-26",
+          "company": "Aldo Paving",
+          "amount": 0,
+          "ageDays": 1
         }
       ]
     },
@@ -539,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 307,
+    "Complete": 309,
     "Unscheduled": 30,
     "Cancelled": 4,
-    "": 160,
+    "": 158,
     "Scheduled": 142,
     "hub": 1
   }
