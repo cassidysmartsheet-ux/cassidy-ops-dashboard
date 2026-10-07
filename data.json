@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T16:45:12+00:00",
+  "generatedAt": "2026-10-07T21:44:47+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-07",
@@ -15,16 +15,16 @@
       "pct": 70.0
     },
     "tonsMTD": {
-      "value": 5.0,
+      "value": 1010.0,
       "priorMonth": 38810.0
     },
     "syMTD": {
-      "value": 627.0,
+      "value": 11560.0,
       "priorMonth": 293678.0
     },
     "slip7d": {
-      "scheduled": 17,
-      "completed": 4
+      "scheduled": 12,
+      "completed": 9
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 15814536
+      "amount": 15639618
     }
   },
   "crewUtilGrid": [
@@ -271,16 +271,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0530-26",
-      "company": "Cassidy landscape",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "billerica",
-      "endDate": "2026-09-16",
-      "varianceDays": 21,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3809-26",
       "company": "PMA - Village Green West",
       "phase": "Hand",
@@ -318,6 +308,16 @@
       "city": "Dorchester",
       "endDate": "2026-09-21",
       "varianceDays": 16,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3828-26",
+      "company": "JLL - National DCP",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Belingham",
+      "endDate": "2026-09-24",
+      "varianceDays": 13,
       "status": "Scheduled"
     }
   ],
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-09-28",
-      "tons": 27.0,
+      "tons": 532.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-05",
-      "tons": 0,
+      "tons": 500.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -417,12 +417,18 @@
           "company": "JT Lynch Construction",
           "amount": 0,
           "ageDays": 5
+        },
+        {
+          "jobNum": "4278-26",
+          "company": "",
+          "amount": 0,
+          "ageDays": 5
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 6,
+      "count": 7,
       "amount": 0,
       "jobs": [
         {
@@ -430,6 +436,12 @@
           "company": "Rl Construction",
           "amount": 0,
           "ageDays": 14
+        },
+        {
+          "jobNum": "FJ-0530-26",
+          "company": "Cassidy landscape",
+          "amount": 0,
+          "ageDays": 13
         },
         {
           "jobNum": "3824-26",
@@ -448,18 +460,12 @@
           "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
           "ageDays": 12
-        },
-        {
-          "jobNum": "4182-26",
-          "company": "Certified Safe Electric Inc",
-          "amount": 0,
-          "ageDays": 8
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 21,
+      "count": 22,
       "amount": 0,
       "jobs": [
         {
@@ -539,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 309,
+    "Complete": 316,
     "Unscheduled": 31,
     "Cancelled": 4,
-    "": 162,
-    "Scheduled": 141,
+    "": 163,
+    "Scheduled": 134,
     "hub": 1
   }
 }
