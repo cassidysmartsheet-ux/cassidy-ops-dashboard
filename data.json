@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T19:10:15+00:00",
+  "generatedAt": "2026-10-11T22:53:29+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-11",
@@ -10,20 +10,20 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 18,
+      "scheduledDays": 17,
       "availableDays": 30,
-      "pct": 60.0
+      "pct": 56.7
     },
     "tonsMTD": {
-      "value": 4749.0,
-      "priorMonth": 41305.0
+      "value": 5444.0,
+      "priorMonth": 42000.0
     },
     "syMTD": {
-      "value": 38328.0,
-      "priorMonth": 313820.0
+      "value": 42048.0,
+      "priorMonth": 317540.0
     },
     "slip7d": {
-      "scheduled": 5,
+      "scheduled": 4,
       "completed": 8
     },
     "holdsMTD": {
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 15137962
+      "amount": 14757810
     }
   },
   "crewUtilGrid": [
@@ -119,14 +119,14 @@
       "weeks": [
         {
           "weekStart": "2026-10-05",
-          "scheduled": 3,
+          "scheduled": 2,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-10-12",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3944-26",
-      "company": "JJ Phelan",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Dorchester",
-      "endDate": "2026-09-21",
-      "varianceDays": 20,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0500-26",
       "company": "City of winchester",
       "phase": "Milling",
@@ -318,6 +308,16 @@
       "city": "Salem",
       "endDate": "2026-10-07",
       "varianceDays": 4,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "4083-26",
+      "company": "South Shore Plaza",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Braintree",
+      "endDate": "2026-10-16",
+      "varianceDays": 3,
       "status": "Scheduled"
     }
   ],
@@ -374,12 +374,12 @@
     },
     {
       "weekStart": "2026-09-21",
-      "tons": 9776.0,
+      "tons": 10471.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-09-28",
-      "tons": 2567.0,
+      "tons": 3262.0,
       "tonsLY": 0
     },
     {
@@ -545,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 327,
+    "Complete": 329,
     "Unscheduled": 33,
     "Cancelled": 4,
     "": 163,
-    "Scheduled": 123,
+    "Scheduled": 121,
     "hub": 1
   }
 }
