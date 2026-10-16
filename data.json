@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:07:28+00:00",
+  "generatedAt": "2026-10-16T18:01:54+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-16",
@@ -15,16 +15,16 @@
       "pct": 73.3
     },
     "tonsMTD": {
-      "value": 16558.0,
+      "value": 20105.0,
       "priorMonth": 42000.0
     },
     "syMTD": {
-      "value": 131041.0,
+      "value": 149311.0,
       "priorMonth": 317540.0
     },
     "slip7d": {
-      "scheduled": 10,
-      "completed": 7
+      "scheduled": 8,
+      "completed": 9
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 14675448
+      "amount": 13973436
     }
   },
   "crewUtilGrid": [
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-10-05",
-      "tons": 7828.0,
+      "tons": 9254.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-12",
-      "tons": 5490.0,
+      "tons": 7611.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -403,6 +403,12 @@
         {
           "jobNum": "4159-26",
           "company": "Nevex",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
           "ageDays": 7
         },
@@ -422,7 +428,7 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 10,
+      "count": 13,
       "amount": 0,
       "jobs": [
         {
@@ -459,7 +465,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 19,
+      "count": 20,
       "amount": 0,
       "jobs": [
         {
@@ -496,7 +502,7 @@
     },
     {
       "bucket": "30+ days",
-      "count": 332,
+      "count": 335,
       "amount": 3761736,
       "jobs": [
         {
@@ -539,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 333,
+    "Complete": 336,
     "Unscheduled": 34,
     "Cancelled": 4,
     "": 164,
-    "Scheduled": 122,
+    "Scheduled": 120,
     "hub": 1
   }
 }
