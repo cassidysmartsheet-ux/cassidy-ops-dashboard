@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:27:41+00:00",
+  "generatedAt": "2026-10-16T14:07:28+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-16",
@@ -15,16 +15,16 @@
       "pct": 73.3
     },
     "tonsMTD": {
-      "value": 5444.0,
+      "value": 16558.0,
       "priorMonth": 42000.0
     },
     "syMTD": {
-      "value": 42048.0,
+      "value": 131041.0,
       "priorMonth": 317540.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 4
+      "scheduled": 10,
+      "completed": 7
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 15156034
+      "amount": 14675448
     }
   },
   "crewUtilGrid": [
@@ -301,21 +301,21 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4094-26",
-      "company": "Prime Group - Shetland Park",
+      "jobNum": "3781-26",
+      "company": "Key point",
       "phase": "Milling",
       "pm": "",
-      "city": "Salem",
-      "endDate": "2026-10-07",
-      "varianceDays": 9,
+      "city": "Billerica",
+      "endDate": "2026-10-12",
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
-      "jobNum": "3747-26",
-      "company": "Jewish Community Center",
+      "jobNum": "4189-26",
+      "company": "RJKELLY",
       "phase": "Hand",
       "pm": "",
-      "city": "Marblehead",
+      "city": "Methuen",
       "endDate": "2026-10-12",
       "varianceDays": 4,
       "status": "Scheduled"
@@ -379,12 +379,12 @@
     },
     {
       "weekStart": "2026-10-05",
-      "tons": 2204.0,
+      "tons": 7828.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-12",
-      "tons": 0,
+      "tons": 5490.0,
       "tonsLY": 0
     }
   ],
@@ -539,11 +539,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 329,
+    "Complete": 333,
     "Unscheduled": 34,
     "Cancelled": 4,
     "": 164,
-    "Scheduled": 126,
+    "Scheduled": 122,
     "hub": 1
   }
 }
