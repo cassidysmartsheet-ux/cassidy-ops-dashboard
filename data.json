@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T17:28:39+00:00",
+  "generatedAt": "2026-10-22T20:43:24+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-22",
@@ -15,16 +15,16 @@
       "pct": 66.7
     },
     "tonsMTD": {
-      "value": 24430.0,
-      "priorMonth": 42000.0
+      "value": 35756.0,
+      "priorMonth": 45000.0
     },
     "syMTD": {
-      "value": 183893.0,
+      "value": 207151.0,
       "priorMonth": 317540.0
     },
     "slip7d": {
-      "scheduled": 10,
-      "completed": 3
+      "scheduled": 5,
+      "completed": 9
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 13199330
+      "amount": 9986272
     }
   },
   "crewUtilGrid": [
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0500-26",
-      "company": "City of winchester",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Winchester",
-      "endDate": "2026-09-25",
-      "varianceDays": 27,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3781-26",
       "company": "Key point",
       "phase": "Milling",
@@ -311,13 +301,23 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4125-26",
-      "company": "UDR, Inc.",
-      "phase": "Milling",
+      "jobNum": "4083-26",
+      "company": "South Shore Plaza",
+      "phase": "Reclaim/Grading",
       "pm": "",
-      "city": "Woburn",
+      "city": "Braintree",
       "endDate": "2026-10-16",
-      "varianceDays": 6,
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -364,12 +364,12 @@
     },
     {
       "weekStart": "2026-09-21",
-      "tons": 10471.0,
+      "tons": 13471.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-09-28",
-      "tons": 3262.0,
+      "tons": 6262.0,
       "tonsLY": 0
     },
     {
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-10-12",
-      "tons": 11006.0,
+      "tons": 14739.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-19",
-      "tons": 930.0,
+      "tons": 5523.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 3,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
@@ -407,6 +407,18 @@
           "ageDays": 6
         },
         {
+          "jobNum": "FJ-0500-26",
+          "company": "City of winchester",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4125-26",
+          "company": "UDR, Inc.",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
           "jobNum": "4189-26",
           "company": "RJKELLY",
           "amount": 0,
@@ -416,7 +428,7 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 11,
+      "count": 12,
       "amount": 0,
       "jobs": [
         {
@@ -453,7 +465,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 25,
+      "count": 27,
       "amount": 0,
       "jobs": [
         {
@@ -533,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 340,
+    "Complete": 348,
     "Unscheduled": 35,
     "Cancelled": 4,
     "": 167,
-    "Scheduled": 119,
+    "Scheduled": 111,
     "hub": 1
   }
 }
