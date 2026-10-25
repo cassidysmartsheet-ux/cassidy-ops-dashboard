@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:19:56+00:00",
+  "generatedAt": "2026-10-25T21:02:29+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-25",
@@ -15,16 +15,16 @@
       "pct": 66.7
     },
     "tonsMTD": {
-      "value": 35756.0,
+      "value": 37432.0,
       "priorMonth": 45000.0
     },
     "syMTD": {
-      "value": 207151.0,
+      "value": 221519.0,
       "priorMonth": 317540.0
     },
     "slip7d": {
-      "scheduled": 8,
-      "completed": 5
+      "scheduled": 6,
+      "completed": 7
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 9986272
+      "amount": 9981255
     }
   },
   "crewUtilGrid": [
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3781-26",
-      "company": "Key point",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Billerica",
-      "endDate": "2026-10-12",
-      "varianceDays": 13,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4083-26",
       "company": "South Shore Plaza",
       "phase": "Reclaim/Grading",
@@ -317,6 +307,16 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-11-28",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3840-26",
+      "company": "JLL - FRANKLIN",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Franklin",
+      "endDate": "2026-10-23",
       "varianceDays": 2,
       "status": "Scheduled"
     }
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-10-12",
-      "tons": 14739.0,
+      "tons": 15570.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-19",
-      "tons": 5523.0,
+      "tons": 6368.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 7,
       "amount": 0,
       "jobs": [
         {
@@ -545,11 +545,11 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 348,
+    "Complete": 351,
     "Unscheduled": 35,
     "Cancelled": 4,
     "": 167,
-    "Scheduled": 111,
+    "Scheduled": 108,
     "hub": 1
   }
 }
