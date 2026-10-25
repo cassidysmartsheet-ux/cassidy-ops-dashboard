@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-24T23:12:02+00:00",
+  "generatedAt": "2026-10-25T01:10:37+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-10-24",
+    "today": "2026-10-25",
     "mtdStart": "2026-10-01",
     "priorMtdStart": "2026-09-01",
     "priorMtdEnd": "2026-09-30",
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 152,
+      "varianceDays": 153,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 123,
+      "varianceDays": 124,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 64,
+      "varianceDays": 65,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-09-11",
-      "varianceDays": 43,
+      "varianceDays": 44,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 37,
+      "varianceDays": 38,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 36,
+      "varianceDays": 37,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 36,
+      "varianceDays": 37,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Billerica",
       "endDate": "2026-10-12",
-      "varianceDays": 12,
+      "varianceDays": 13,
       "status": "Scheduled"
     },
     {
@@ -398,68 +398,68 @@
           "jobNum": "4189-26",
           "company": "RJKELLY",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
           "jobNum": "FJ-0500-26",
           "company": "City of winchester",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
           "jobNum": "4125-26",
           "company": "UDR, Inc.",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 4
         },
         {
           "jobNum": "3801-26",
           "company": "Superior Sealcoating",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 4
         },
         {
           "jobNum": "3781-26",
           "company": "Key point",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 4
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 12,
+      "count": 10,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "4110-26",
-          "company": "Farley White Management Company",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0547-26",
-          "company": "Nordblom",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3747-26",
           "company": "Jewish Community Center",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "4189-26",
           "company": "RJKELLY",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "3781-26",
           "company": "Key point",
           "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
+          "amount": 0,
           "ageDays": 12
+        },
+        {
+          "jobNum": "3944-26",
+          "company": "JJ Phelan",
+          "amount": 0,
+          "ageDays": 11
         }
       ]
     },
@@ -469,71 +469,71 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "FJ-0530-26",
-          "company": "Cassidy landscape",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
-          "jobNum": "3828-26",
-          "company": "JLL - National DCP",
-          "amount": 0,
-          "ageDays": 30
-        },
-        {
           "jobNum": "3824-26",
           "company": "UG2 = Alexandria Real estate",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3258-25",
           "company": "JLL- north Billerica",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4196-26",
           "company": "Nordblom - Blue Sky Drive",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
+        },
+        {
+          "jobNum": "FJ-0500-26",
+          "company": "City of winchester",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4182-26",
+          "company": "Certified Safe Electric Inc",
+          "amount": 0,
+          "ageDays": 26
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 345,
+      "count": 347,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 296
+          "ageDays": 297
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 296
+          "ageDays": 297
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 296
+          "ageDays": 297
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 296
+          "ageDays": 297
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 296
+          "ageDays": 297
         }
       ]
     }
