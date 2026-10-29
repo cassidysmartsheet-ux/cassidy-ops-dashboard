@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-28T20:34:00+00:00",
+  "generatedAt": "2026-10-29T00:24:47+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-10-28",
+    "today": "2026-10-29",
     "mtdStart": "2026-10-01",
     "priorMtdStart": "2026-09-01",
     "priorMtdEnd": "2026-09-30",
@@ -23,8 +23,8 @@
       "priorMonth": 317540.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 5
+      "scheduled": 13,
+      "completed": 2
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 156,
+      "varianceDays": 157,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 127,
+      "varianceDays": 128,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 68,
+      "varianceDays": 69,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-09-11",
-      "varianceDays": 47,
+      "varianceDays": 48,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 41,
+      "varianceDays": 42,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 40,
+      "varianceDays": 41,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 40,
+      "varianceDays": 41,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Franklin",
       "endDate": "2026-10-23",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-10-23",
-      "varianceDays": 5,
+      "varianceDays": 6,
       "status": "Scheduled"
     },
     {
@@ -391,112 +391,94 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 5,
+      "count": 2,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4125-26",
-          "company": "UDR, Inc.",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
           "jobNum": "3801-26",
           "company": "Superior Sealcoating",
           "amount": 0,
           "ageDays": 7
-        },
-        {
-          "jobNum": "3781-26",
-          "company": "Key point",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3801-26",
-          "company": "Superior Sealcoating",
-          "amount": 0,
-          "ageDays": 6
         },
         {
           "jobNum": "4407-26",
           "company": "Keypoint Partners",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 8,
+      "count": 9,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3944-26",
-          "company": "JJ Phelan",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4189-26",
-          "company": "RJKELLY",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "3279-25",
           "company": "Growth companies",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3481-25",
           "company": "Nellys Construction",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "FJ-0500-26",
           "company": "City of winchester",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
+        },
+        {
+          "jobNum": "4125-26",
+          "company": "UDR, Inc.",
+          "amount": 0,
+          "ageDays": 13
+        },
+        {
+          "jobNum": "4189-26",
+          "company": "RJKELLY",
+          "amount": 0,
+          "ageDays": 9
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 28,
+      "count": 30,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "4182-26",
           "company": "Certified Safe Electric Inc",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4371-26",
           "company": "EQT",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4281-26",
           "company": "EQT",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "3850-26",
           "company": "C White Marine",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "4224-26",
           "company": "Western Earthworks LLC",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         }
       ]
     },
@@ -509,31 +491,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 300
+          "ageDays": 301
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 300
+          "ageDays": 301
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 300
+          "ageDays": 301
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 300
+          "ageDays": 301
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 300
+          "ageDays": 301
         }
       ]
     }
