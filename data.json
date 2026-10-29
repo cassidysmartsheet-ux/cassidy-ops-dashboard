@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T12:57:48+00:00",
+  "generatedAt": "2026-10-29T18:50:02+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-10-29",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 21,
+      "scheduledDays": 23,
       "availableDays": 30,
-      "pct": 70.0
+      "pct": 76.7
     },
     "tonsMTD": {
-      "value": 37432.0,
+      "value": 42110.0,
       "priorMonth": 45000.0
     },
     "syMTD": {
-      "value": 221519.0,
+      "value": 245509.0,
       "priorMonth": 317540.0
     },
     "slip7d": {
-      "scheduled": 13,
-      "completed": 2
+      "scheduled": 5,
+      "completed": 12
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 11477955
+      "amount": 10992281
     }
   },
   "crewUtilGrid": [
@@ -119,21 +119,21 @@
       "weeks": [
         {
           "weekStart": "2026-10-26",
-          "scheduled": 7,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-11-02",
-          "scheduled": 7,
+          "scheduled": 9,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-11-09",
-          "scheduled": 5,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -152,14 +152,14 @@
         },
         {
           "weekStart": "2026-11-02",
-          "scheduled": 4,
+          "scheduled": 6,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-11-09",
-          "scheduled": 5,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3840-26",
-      "company": "JLL - FRANKLIN",
-      "phase": "Paving",
-      "pm": "",
-      "city": "Franklin",
-      "endDate": "2026-10-23",
-      "varianceDays": 6,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4234-26",
       "company": "Ocean State Job Lot",
       "phase": "Milling",
@@ -318,6 +308,16 @@
       "city": "Braintree",
       "endDate": "2026-10-16",
       "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-10-19",
-      "tons": 6368.0,
+      "tons": 8892.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-26",
-      "tons": 0,
+      "tons": 2154.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 2,
+      "count": 10,
       "amount": 0,
       "jobs": [
         {
@@ -405,6 +405,24 @@
           "company": "Keypoint Partners",
           "amount": 0,
           "ageDays": 6
+        },
+        {
+          "jobNum": "3840-26",
+          "company": "JLL - FRANKLIN",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "3840-26",
+          "company": "JLL - FRANKLIN",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "FJ-0529-26",
+          "company": "Lexington, Town Police Shooting Range",
+          "amount": 0,
+          "ageDays": 3
         }
       ]
     },
@@ -527,11 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 112,
-    "Complete": 351,
-    "Unscheduled": 35,
+    "Scheduled": 113,
+    "Complete": 361,
+    "Unscheduled": 37,
     "Cancelled": 4,
-    "": 175,
-    "hub": 1
+    "": 168
   }
 }
