@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-03T22:26:17+00:00",
+  "generatedAt": "2026-11-04T02:33:07+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-11-03",
+    "today": "2026-11-04",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31",
@@ -23,8 +23,8 @@
       "priorMonth": 294607.0
     },
     "slip7d": {
-      "scheduled": 12,
-      "completed": 12
+      "scheduled": 17,
+      "completed": 10
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 162,
+      "varianceDays": 163,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 133,
+      "varianceDays": 134,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 74,
+      "varianceDays": 75,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "Leominster",
       "endDate": "2026-09-11",
-      "varianceDays": 53,
+      "varianceDays": 54,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 47,
+      "varianceDays": 48,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 46,
+      "varianceDays": 47,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 46,
+      "varianceDays": 47,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "",
       "endDate": "2026-10-23",
-      "varianceDays": 11,
+      "varianceDays": 12,
       "status": "Scheduled"
     },
     {
@@ -307,17 +307,17 @@
       "pm": "",
       "city": "Wellesley",
       "endDate": "2026-10-30",
-      "varianceDays": 4,
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0303-26",
-      "company": "Cassidy Corp",
-      "phase": "Paving",
+      "jobNum": "4187-26",
+      "company": "Katz Properties Retail",
+      "phase": "Milling",
       "pm": "",
-      "city": "Haverhill",
-      "endDate": "2026-11-28",
-      "varianceDays": 2,
+      "city": "Franklin",
+      "endDate": "2026-11-01",
+      "varianceDays": 3,
       "status": "Scheduled"
     }
   ],
@@ -391,36 +391,36 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 12,
+      "count": 10,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "FJ-0529-26",
-          "company": "Lexington, Town Police Shooting Range",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4083-26",
-          "company": "South Shore Plaza",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "3840-26",
           "company": "JLL - FRANKLIN",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4073-26",
           "company": "Opportunity works",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4089-26",
           "company": "Pma",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4089-26",
+          "company": "Pma",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4443-26",
+          "company": "Golini Brothers",
           "amount": 0,
           "ageDays": 6
         }
@@ -428,75 +428,75 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 11,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "4189-26",
-          "company": "RJKELLY",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "FJ-0500-26",
-          "company": "City of winchester",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4083-26",
-          "company": "South Shore Plaza",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4083-26",
-          "company": "South Shore Plaza",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "4125-26",
           "company": "UDR, Inc.",
           "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3801-26",
+          "company": "Superior Sealcoating",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3781-26",
+          "company": "Key point",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3801-26",
+          "company": "Superior Sealcoating",
+          "amount": 0,
           "ageDays": 13
+        },
+        {
+          "jobNum": "4407-26",
+          "company": "Keypoint Partners",
+          "amount": 0,
+          "ageDays": 12
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 22,
+      "count": 26,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "FJ-0530-26",
           "company": "Cassidy landscape",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4395-26",
           "company": "Sam Walkers",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "4224-26",
           "company": "Western Earthworks LLC",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "4094-26",
           "company": "Prime Group - Shetland Park",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "3279-25",
           "company": "Growth companies",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         }
       ]
     },
@@ -509,31 +509,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 306
+          "ageDays": 307
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 306
+          "ageDays": 307
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 306
+          "ageDays": 307
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 306
+          "ageDays": 307
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 306
+          "ageDays": 307
         }
       ]
     }
