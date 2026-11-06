@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:42:05+00:00",
+  "generatedAt": "2026-11-06T23:49:06+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-11-06",
@@ -19,12 +19,12 @@
       "priorMonth": 64953.0
     },
     "syMTD": {
-      "value": 29245.0,
+      "value": 33045.0,
       "priorMonth": 397220.0
     },
     "slip7d": {
-      "scheduled": 11,
-      "completed": 12
+      "scheduled": 10,
+      "completed": 13
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 8690401
+      "amount": 8677763
     }
   },
   "crewUtilGrid": [
@@ -301,22 +301,22 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4434-26",
-      "company": "Milinazzo Contracting Corp",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Wellesley",
-      "endDate": "2026-11-03",
-      "varianceDays": 3,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "FJ-0303-26",
       "company": "Cassidy Corp",
       "phase": "Paving",
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-11-28",
+      "varianceDays": 2,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3842-26",
+      "company": "JLL - Marlborough",
+      "phase": "Pulverizing",
+      "pm": "",
+      "city": "marlborouggh",
+      "endDate": "2026-11-04",
       "varianceDays": 2,
       "status": "Scheduled"
     }
@@ -391,7 +391,7 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 12,
+      "count": 13,
       "amount": 0,
       "jobs": [
         {
@@ -545,8 +545,8 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 390,
-    "Scheduled": 91,
+    "Complete": 391,
+    "Scheduled": 90,
     "Unscheduled": 37,
     "Cancelled": 4,
     "": 175
