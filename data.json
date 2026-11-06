@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:41:16+00:00",
+  "generatedAt": "2026-11-06T19:42:05+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-11-06",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 24,
+      "scheduledDays": 23,
       "availableDays": 30,
-      "pct": 80.0
+      "pct": 76.7
     },
     "tonsMTD": {
-      "value": 0,
-      "priorMonth": 48803.0
+      "value": 3020.0,
+      "priorMonth": 64953.0
     },
     "syMTD": {
-      "value": 0,
-      "priorMonth": 294607.0
+      "value": 29245.0,
+      "priorMonth": 397220.0
     },
     "slip7d": {
-      "scheduled": 20,
-      "completed": 4
+      "scheduled": 11,
+      "completed": 12
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 9862889
+      "amount": 8690401
     }
   },
   "crewUtilGrid": [
@@ -67,14 +67,14 @@
       "weeks": [
         {
           "weekStart": "2026-11-02",
-          "scheduled": 4,
+          "scheduled": 3,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
         },
         {
           "weekStart": "2026-11-09",
-          "scheduled": 7,
+          "scheduled": 8,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -159,7 +159,7 @@
         },
         {
           "weekStart": "2026-11-16",
-          "scheduled": 3,
+          "scheduled": 4,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -251,16 +251,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3981-26",
-      "company": "City Sealcoating",
-      "phase": "Reclaim/Grading",
-      "pm": "",
-      "city": "Leominster",
-      "endDate": "2026-09-11",
-      "varianceDays": 56,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "3809-26",
       "company": "PMA - Village Green West",
       "phase": "Hand",
@@ -291,16 +281,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4234-26",
-      "company": "Ocean State Job Lot",
-      "phase": "Milling",
-      "pm": "",
-      "city": "",
-      "endDate": "2026-10-23",
-      "varianceDays": 14,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4282-26",
       "company": "G and M New England",
       "phase": "Pulverizing",
@@ -311,13 +291,33 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4187-26",
-      "company": "Katz Properties Retail",
-      "phase": "Milling",
+      "jobNum": "4319-26",
+      "company": "Schochet",
+      "phase": "Hand",
       "pm": "",
-      "city": "Franklin",
-      "endDate": "2026-11-01",
-      "varianceDays": 5,
+      "city": "N Attleboro",
+      "endDate": "2026-11-03",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "4434-26",
+      "company": "Milinazzo Contracting Corp",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Wellesley",
+      "endDate": "2026-11-03",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -344,27 +344,27 @@
     },
     {
       "weekStart": "2026-09-07",
-      "tons": 11215.0,
+      "tons": 14735.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-09-14",
-      "tons": 9273.0,
+      "tons": 16313.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-09-21",
-      "tons": 13471.0,
+      "tons": 16991.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-09-28",
-      "tons": 6262.0,
+      "tons": 20342.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-05",
-      "tons": 9254.0,
+      "tons": 12774.0,
       "tonsLY": 0
     },
     {
@@ -374,24 +374,24 @@
     },
     {
       "weekStart": "2026-10-19",
-      "tons": 11492.0,
+      "tons": 12590.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-10-26",
-      "tons": 4947.0,
+      "tons": 6699.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-02",
-      "tons": 0,
+      "tons": 2240.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 4,
+      "count": 12,
       "amount": 0,
       "jobs": [
         {
@@ -417,12 +417,18 @@
           "company": "CWhite marine",
           "amount": 0,
           "ageDays": 7
+        },
+        {
+          "jobNum": "4234-26",
+          "company": "Ocean State Job Lot",
+          "amount": 0,
+          "ageDays": 7
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 13,
+      "count": 15,
       "amount": 0,
       "jobs": [
         {
@@ -444,16 +450,16 @@
           "ageDays": 14
         },
         {
-          "jobNum": "FJ-0529-26",
-          "company": "Lexington, Town Police Shooting Range",
+          "jobNum": "4357-26",
+          "company": "Eastport - Peabody",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 14
         },
         {
-          "jobNum": "4308-26",
-          "company": "Dino Paving",
+          "jobNum": "4234-26",
+          "company": "Ocean State Job Lot",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 14
         }
       ]
     },
@@ -496,7 +502,7 @@
     },
     {
       "bucket": "30+ days",
-      "count": 366,
+      "count": 374,
       "amount": 3761736,
       "jobs": [
         {
@@ -539,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Scheduled": 110,
-    "Complete": 370,
+    "Complete": 390,
+    "Scheduled": 91,
     "Unscheduled": 37,
     "Cancelled": 4,
-    "": 176
+    "": 175
   }
 }
