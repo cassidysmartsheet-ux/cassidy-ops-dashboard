@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-07T23:58:00+00:00",
+  "generatedAt": "2026-11-08T05:16:35+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-11-07",
+    "today": "2026-11-08",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31",
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 166,
+      "varianceDays": 167,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 137,
+      "varianceDays": 138,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 78,
+      "varianceDays": 79,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 51,
+      "varianceDays": 52,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 50,
+      "varianceDays": 51,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 50,
+      "varianceDays": 51,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Wellesley",
       "endDate": "2026-10-30",
-      "varianceDays": 8,
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "N Attleboro",
       "endDate": "2026-11-03",
-      "varianceDays": 4,
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "marlborouggh",
       "endDate": "2026-11-04",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Rumford",
       "endDate": "2026-11-04",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     }
   ],
@@ -398,31 +398,31 @@
           "jobNum": "4187-26",
           "company": "Katz Properties Retail",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4234-26",
           "company": "Ocean State Job Lot",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         },
         {
           "jobNum": "4357-26",
           "company": "Eastport - Peabody",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
           "jobNum": "4373-26",
           "company": "JLL - Franklin",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         },
         {
           "jobNum": "4187-26",
           "company": "Katz Properties Retail",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 5
         }
       ]
     },
@@ -435,42 +435,54 @@
           "jobNum": "FJ-0529-26",
           "company": "Lexington, Town Police Shooting Range",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "4308-26",
           "company": "Dino Paving",
           "amount": 0,
-          "ageDays": 12
+          "ageDays": 13
         },
         {
           "jobNum": "FJ-0529-26",
           "company": "Lexington, Town Police Shooting Range",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 12
         },
         {
           "jobNum": "4083-26",
           "company": "South Shore Plaza",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 12
         },
         {
           "jobNum": "3840-26",
           "company": "JLL - FRANKLIN",
           "amount": 0,
-          "ageDays": 10
+          "ageDays": 11
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 30,
+      "count": 29,
       "amount": 0,
       "jobs": [
         {
+          "jobNum": "4110-26",
+          "company": "Farley White Management Company",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
           "jobNum": "4159-26",
           "company": "Nevex",
+          "amount": 0,
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4094-26",
+          "company": "Prime Group - Shetland Park",
           "amount": 0,
           "ageDays": 30
         },
@@ -481,59 +493,47 @@
           "ageDays": 29
         },
         {
-          "jobNum": "4159-26",
-          "company": "Nevex",
+          "jobNum": "FJ-0547-26",
+          "company": "Nordblom",
           "amount": 0,
           "ageDays": 29
-        },
-        {
-          "jobNum": "4094-26",
-          "company": "Prime Group - Shetland Park",
-          "amount": 0,
-          "ageDays": 29
-        },
-        {
-          "jobNum": "4110-26",
-          "company": "Farley White Management Company",
-          "amount": 0,
-          "ageDays": 28
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 377,
+      "count": 378,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 310
+          "ageDays": 311
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 310
+          "ageDays": 311
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 310
+          "ageDays": 311
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 310
+          "ageDays": 311
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 310
+          "ageDays": 311
         }
       ]
     }
