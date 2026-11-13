@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-12T20:47:33+00:00",
+  "generatedAt": "2026-11-13T01:38:37+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-11-12",
+    "today": "2026-11-13",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31",
@@ -23,7 +23,7 @@
       "priorMonth": 397220.0
     },
     "slip7d": {
-      "scheduled": 16,
+      "scheduled": 15,
       "completed": 1
     },
     "holdsMTD": {
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 171,
+      "varianceDays": 172,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 142,
+      "varianceDays": 143,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 83,
+      "varianceDays": 84,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 56,
+      "varianceDays": 57,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 55,
+      "varianceDays": 56,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 55,
+      "varianceDays": 56,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "Wellesley",
       "endDate": "2026-10-30",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "N Attleboro",
       "endDate": "2026-11-03",
-      "varianceDays": 9,
+      "varianceDays": 10,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "marlborouggh",
       "endDate": "2026-11-04",
-      "varianceDays": 8,
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -317,7 +317,7 @@
       "pm": "",
       "city": "Rumford",
       "endDate": "2026-11-04",
-      "varianceDays": 8,
+      "varianceDays": 9,
       "status": "Scheduled"
     }
   ],
@@ -398,118 +398,118 @@
           "jobNum": "3981-26",
           "company": "City Sealcoating",
           "amount": 0,
-          "ageDays": 1
+          "ageDays": 2
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 16,
+      "count": 13,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "4089-26",
-          "company": "Pma",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4443-26",
-          "company": "Golini Brothers",
-          "amount": 0,
-          "ageDays": 14
-        },
-        {
-          "jobNum": "4083-26",
-          "company": "South Shore Plaza",
-          "amount": 0,
-          "ageDays": 14
-        },
         {
           "jobNum": "4298-26",
           "company": "Greystar Property Mangement",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         },
         {
           "jobNum": "3819-26",
           "company": "Ardent Group",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
+        },
+        {
+          "jobNum": "4297-26",
+          "company": "Greystar Property Mangement",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "3343-25",
+          "company": "CWhite marine",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "4234-26",
+          "company": "Ocean State Job Lot",
+          "amount": 0,
+          "ageDays": 14
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 28,
+      "count": 30,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "4094-26",
-          "company": "Prime Group - Shetland Park",
-          "amount": 0,
-          "ageDays": 30
-        },
         {
           "jobNum": "3944-26",
           "company": "JJ Phelan",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4189-26",
           "company": "RJKELLY",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3279-25",
           "company": "Growth companies",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "3481-25",
           "company": "Nellys Construction",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
+        },
+        {
+          "jobNum": "FJ-0500-26",
+          "company": "City of winchester",
+          "amount": 0,
+          "ageDays": 28
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 386,
+      "count": 387,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 315
+          "ageDays": 316
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 315
+          "ageDays": 316
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 315
+          "ageDays": 316
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 315
+          "ageDays": 316
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 315
+          "ageDays": 316
         }
       ]
     }
