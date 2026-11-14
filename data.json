@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:55:23+00:00",
+  "generatedAt": "2026-11-14T20:22:31+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-11-14",
@@ -15,16 +15,16 @@
       "pct": 80.0
     },
     "tonsMTD": {
-      "value": 7600.0,
-      "priorMonth": 64953.0
+      "value": 19206.0,
+      "priorMonth": 66912.0
     },
     "syMTD": {
-      "value": 57416.0,
-      "priorMonth": 397220.0
+      "value": 131035.0,
+      "priorMonth": 407215.0
     },
     "slip7d": {
-      "scheduled": 17,
-      "completed": 1
+      "scheduled": 10,
+      "completed": 9
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 8693657
+      "amount": 5826148
     }
   },
   "crewUtilGrid": [
@@ -281,16 +281,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4282-26",
-      "company": "G and M New England",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "Wellesley",
-      "endDate": "2026-10-30",
-      "varianceDays": 15,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4319-26",
       "company": "Schochet",
       "phase": "Hand",
@@ -301,23 +291,33 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4317-26",
-      "company": "Equity Industrial Partners Corp",
+      "jobNum": "3581-26",
+      "company": "Langdon Placer",
       "phase": "Milling",
       "pm": "",
-      "city": "Rumford",
-      "endDate": "2026-11-04",
-      "varianceDays": 10,
+      "city": "Exeter",
+      "endDate": "2026-11-09",
+      "varianceDays": 5,
       "status": "Scheduled"
     },
     {
-      "jobNum": "3720-26",
-      "company": "Wilder",
+      "jobNum": "4433-26",
+      "company": "Wr Walton Contracting",
       "phase": "Milling",
       "pm": "",
-      "city": "Hamden",
-      "endDate": "2026-11-06",
-      "varianceDays": 8,
+      "city": "Newton",
+      "endDate": "2026-11-10",
+      "varianceDays": 4,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
+      "pm": "",
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -374,37 +374,61 @@
     },
     {
       "weekStart": "2026-10-26",
-      "tons": 6699.0,
+      "tons": 8658.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-02",
-      "tons": 3300.0,
+      "tons": 9028.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-09",
-      "tons": 3520.0,
+      "tons": 9398.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 1,
+      "count": 9,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "3981-26",
-          "company": "City Sealcoating",
+          "jobNum": "4282-26",
+          "company": "G and M New England",
           "amount": 0,
-          "ageDays": 3
+          "ageDays": 5
+        },
+        {
+          "jobNum": "4282-26",
+          "company": "G and M New England",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "4426-26",
+          "company": "Honda Westborough",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "4438-26",
+          "company": "EQT",
+          "amount": 0,
+          "ageDays": 4
+        },
+        {
+          "jobNum": "3720-26",
+          "company": "Wilder",
+          "amount": 0,
+          "ageDays": 4
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 8,
+      "count": 14,
       "amount": 0,
       "jobs": [
         {
@@ -420,6 +444,12 @@
           "ageDays": 12
         },
         {
+          "jobNum": "4282-26",
+          "company": "G and M New England",
+          "amount": 0,
+          "ageDays": 12
+        },
+        {
           "jobNum": "4357-26",
           "company": "Eastport - Peabody",
           "amount": 0,
@@ -430,18 +460,12 @@
           "company": "JLL - Franklin",
           "amount": 0,
           "ageDays": 11
-        },
-        {
-          "jobNum": "4187-26",
-          "company": "Katz Properties Retail",
-          "amount": 0,
-          "ageDays": 11
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 33,
+      "count": 34,
       "amount": 0,
       "jobs": [
         {
@@ -521,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 394,
-    "Scheduled": 95,
+    "Complete": 407,
     "Unscheduled": 36,
     "Cancelled": 4,
-    "": 173
+    "": 172,
+    "Scheduled": 83
   }
 }
