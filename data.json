@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T09:24:49+00:00",
+  "generatedAt": "2026-11-14T15:55:23+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-11-14",
@@ -15,11 +15,11 @@
       "pct": 80.0
     },
     "tonsMTD": {
-      "value": 6540.0,
+      "value": 7600.0,
       "priorMonth": 64953.0
     },
     "syMTD": {
-      "value": 52750.0,
+      "value": 57416.0,
       "priorMonth": 397220.0
     },
     "slip7d": {
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 8898771
+      "amount": 8693657
     }
   },
   "crewUtilGrid": [
@@ -301,16 +301,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3842-26",
-      "company": "JLL - Marlborough",
-      "phase": "Pulverizing",
-      "pm": "",
-      "city": "marlborouggh",
-      "endDate": "2026-11-04",
-      "varianceDays": 10,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4317-26",
       "company": "Equity Industrial Partners Corp",
       "phase": "Milling",
@@ -318,6 +308,16 @@
       "city": "Rumford",
       "endDate": "2026-11-04",
       "varianceDays": 10,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "3720-26",
+      "company": "Wilder",
+      "phase": "Milling",
+      "pm": "",
+      "city": "Hamden",
+      "endDate": "2026-11-06",
+      "varianceDays": 8,
       "status": "Scheduled"
     }
   ],
@@ -379,7 +379,7 @@
     },
     {
       "weekStart": "2026-11-02",
-      "tons": 2240.0,
+      "tons": 3300.0,
       "tonsLY": 0
     },
     {
@@ -521,8 +521,8 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 392,
-    "Scheduled": 97,
+    "Complete": 394,
+    "Scheduled": 95,
     "Unscheduled": 36,
     "Cancelled": 4,
     "": 173
