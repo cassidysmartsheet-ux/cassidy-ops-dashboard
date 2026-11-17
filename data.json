@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T21:02:37+00:00",
+  "generatedAt": "2026-11-17T03:50:39+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-11-16",
+    "today": "2026-11-17",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31",
@@ -10,21 +10,21 @@
   },
   "kpis": {
     "crewUtilThisWeek": {
-      "scheduledDays": 22,
+      "scheduledDays": 21,
       "availableDays": 30,
-      "pct": 73.3
+      "pct": 70.0
     },
     "tonsMTD": {
-      "value": 19206.0,
+      "value": 27406.0,
       "priorMonth": 66912.0
     },
     "syMTD": {
-      "value": 131035.0,
+      "value": 174929.0,
       "priorMonth": 407215.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 9
+      "scheduled": 9,
+      "completed": 16
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 5826148
+      "amount": 4032822
     }
   },
   "crewUtilGrid": [
@@ -119,7 +119,7 @@
       "weeks": [
         {
           "weekStart": "2026-11-16",
-          "scheduled": 8,
+          "scheduled": 7,
           "weatherLost": 0,
           "materialLost": 0,
           "capacity": 5
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 175,
+      "varianceDays": 176,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 146,
+      "varianceDays": 147,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 87,
+      "varianceDays": 88,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 60,
+      "varianceDays": 61,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 59,
+      "varianceDays": 60,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 59,
+      "varianceDays": 60,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "N Attleboro",
       "endDate": "2026-11-03",
-      "varianceDays": 13,
+      "varianceDays": 14,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Exeter",
       "endDate": "2026-11-09",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -307,17 +307,17 @@
       "pm": "",
       "city": "Newton",
       "endDate": "2026-11-10",
-      "varianceDays": 6,
+      "varianceDays": 7,
       "status": "Scheduled"
     },
     {
-      "jobNum": "4280-26",
-      "company": "V12 Investments",
-      "phase": "Reclaim/Grading",
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
       "pm": "",
-      "city": "Wilmington",
-      "endDate": "2026-11-12",
-      "varianceDays": 4,
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -374,24 +374,24 @@
     },
     {
       "weekStart": "2026-11-02",
-      "tons": 9028.0,
+      "tons": 9628.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-09",
-      "tons": 9398.0,
+      "tons": 14863.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-16",
-      "tons": 381.0,
+      "tons": 2516.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 9,
+      "count": 16,
       "amount": 0,
       "jobs": [
         {
@@ -401,26 +401,26 @@
           "ageDays": 7
         },
         {
-          "jobNum": "4282-26",
-          "company": "G and M New England",
-          "amount": 0,
-          "ageDays": 6
-        },
-        {
           "jobNum": "4426-26",
           "company": "Honda Westborough",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "4438-26",
           "company": "EQT",
           "amount": 0,
-          "ageDays": 6
+          "ageDays": 7
         },
         {
           "jobNum": "3720-26",
           "company": "Wilder",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "3981-26",
+          "company": "City Sealcoating",
           "amount": 0,
           "ageDays": 6
         }
@@ -432,14 +432,26 @@
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4234-26",
-          "company": "Ocean State Job Lot",
+          "jobNum": "4357-26",
+          "company": "Eastport - Peabody",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "4282-26",
-          "company": "G and M New England",
+          "jobNum": "4373-26",
+          "company": "JLL - Franklin",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "4187-26",
+          "company": "Katz Properties Retail",
+          "amount": 0,
+          "ageDays": 14
+        },
+        {
+          "jobNum": "4434-26",
+          "company": "Milinazzo Contracting Corp",
           "amount": 0,
           "ageDays": 14
         },
@@ -448,55 +460,43 @@
           "company": "Eastport - Peabody",
           "amount": 0,
           "ageDays": 13
-        },
-        {
-          "jobNum": "4373-26",
-          "company": "JLL - Franklin",
-          "amount": 0,
-          "ageDays": 13
-        },
-        {
-          "jobNum": "4187-26",
-          "company": "Katz Properties Retail",
-          "amount": 0,
-          "ageDays": 13
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 30,
+      "count": 32,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "4189-26",
           "company": "RJKELLY",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "FJ-0500-26",
           "company": "City of winchester",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "4083-26",
           "company": "South Shore Plaza",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "4083-26",
           "company": "South Shore Plaza",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         },
         {
           "jobNum": "4125-26",
           "company": "UDR, Inc.",
           "amount": 0,
-          "ageDays": 26
+          "ageDays": 27
         }
       ]
     },
@@ -509,31 +509,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 319
+          "ageDays": 320
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 319
+          "ageDays": 320
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 319
+          "ageDays": 320
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 319
+          "ageDays": 320
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 319
+          "ageDays": 320
         }
       ]
     }
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 407,
-    "Unscheduled": 36,
+    "Complete": 416,
+    "Unscheduled": 37,
     "Cancelled": 4,
     "": 172,
-    "Scheduled": 83
+    "Scheduled": 73
   }
 }
