@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-17T21:21:36+00:00",
+  "generatedAt": "2026-11-18T03:00:53+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-11-17",
+    "today": "2026-11-18",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31",
@@ -23,8 +23,8 @@
       "priorMonth": 407215.0
     },
     "slip7d": {
-      "scheduled": 9,
-      "completed": 16
+      "scheduled": 11,
+      "completed": 12
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 176,
+      "varianceDays": 177,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 147,
+      "varianceDays": 148,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 88,
+      "varianceDays": 89,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 61,
+      "varianceDays": 62,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 60,
+      "varianceDays": 61,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 60,
+      "varianceDays": 61,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "N Attleboro",
       "endDate": "2026-11-03",
-      "varianceDays": 14,
+      "varianceDays": 15,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Exeter",
       "endDate": "2026-11-09",
-      "varianceDays": 8,
+      "varianceDays": 9,
       "status": "Scheduled"
     },
     {
@@ -307,7 +307,7 @@
       "pm": "",
       "city": "Newton",
       "endDate": "2026-11-10",
-      "varianceDays": 7,
+      "varianceDays": 8,
       "status": "Scheduled"
     },
     {
@@ -391,36 +391,36 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 16,
+      "count": 12,
       "amount": 0,
       "jobs": [
         {
-          "jobNum": "4282-26",
-          "company": "G and M New England",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4426-26",
-          "company": "Honda Westborough",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4438-26",
-          "company": "EQT",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "3720-26",
-          "company": "Wilder",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
           "jobNum": "3981-26",
           "company": "City Sealcoating",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4139-26",
+          "company": "Pierce Property Services, LLC",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4139-26",
+          "company": "Pierce Property Services, LLC",
+          "amount": 0,
+          "ageDays": 7
+        },
+        {
+          "jobNum": "4317-26",
+          "company": "Equity Industrial Partners Corp",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4280-26",
+          "company": "V12 Investments",
           "amount": 0,
           "ageDays": 6
         }
@@ -444,59 +444,59 @@
           "ageDays": 14
         },
         {
-          "jobNum": "4187-26",
-          "company": "Katz Properties Retail",
+          "jobNum": "4282-26",
+          "company": "G and M New England",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "4434-26",
-          "company": "Milinazzo Contracting Corp",
+          "jobNum": "3842-26",
+          "company": "JLL - Marlborough",
           "amount": 0,
           "ageDays": 14
         },
         {
-          "jobNum": "4357-26",
-          "company": "Eastport - Peabody",
+          "jobNum": "4317-26",
+          "company": "Equity Industrial Partners Corp",
           "amount": 0,
-          "ageDays": 13
+          "ageDays": 14
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 32,
+      "count": 36,
       "amount": 0,
       "jobs": [
         {
           "jobNum": "4189-26",
           "company": "RJKELLY",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "FJ-0500-26",
           "company": "City of winchester",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "4083-26",
           "company": "South Shore Plaza",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "4083-26",
           "company": "South Shore Plaza",
           "amount": 0,
-          "ageDays": 28
+          "ageDays": 29
         },
         {
           "jobNum": "4125-26",
           "company": "UDR, Inc.",
           "amount": 0,
-          "ageDays": 27
+          "ageDays": 28
         }
       ]
     },
@@ -509,31 +509,31 @@
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 320
+          "ageDays": 321
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 320
+          "ageDays": 321
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 320
+          "ageDays": 321
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 320
+          "ageDays": 321
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 320
+          "ageDays": 321
         }
       ]
     }
