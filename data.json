@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:01:34+00:00",
+  "generatedAt": "2026-11-21T19:12:47+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-11-21",
@@ -15,16 +15,16 @@
       "pct": 73.3
     },
     "tonsMTD": {
-      "value": 27787.0,
+      "value": 31354.0,
       "priorMonth": 66912.0
     },
     "syMTD": {
-      "value": 176874.0,
+      "value": 214971.0,
       "priorMonth": 407215.0
     },
     "slip7d": {
-      "scheduled": 16,
-      "completed": 6
+      "scheduled": 7,
+      "completed": 15
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 4374724
+      "amount": 3494237
     }
   },
   "crewUtilGrid": [
@@ -301,23 +301,23 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4433-26",
-      "company": "Wr Walton Contracting",
+      "jobNum": "4414-26",
+      "company": "Equity Industrial Partners Corp",
       "phase": "Milling",
       "pm": "",
-      "city": "Newton",
-      "endDate": "2026-11-10",
-      "varianceDays": 11,
+      "city": "Billerica",
+      "endDate": "2026-11-18",
+      "varianceDays": 3,
       "status": "Scheduled"
     },
     {
-      "jobNum": "4210-26",
-      "company": "Wingate",
-      "phase": "Milling",
+      "jobNum": "FJ-0303-26",
+      "company": "Cassidy Corp",
+      "phase": "Paving",
       "pm": "",
-      "city": "Nashua",
-      "endDate": "2026-11-16",
-      "varianceDays": 5,
+      "city": "Haverhill",
+      "endDate": "2026-11-28",
+      "varianceDays": 2,
       "status": "Scheduled"
     }
   ],
@@ -374,24 +374,24 @@
     },
     {
       "weekStart": "2026-11-02",
-      "tons": 9628.0,
+      "tons": 9853.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-09",
-      "tons": 14863.0,
+      "tons": 15865.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-16",
-      "tons": 2516.0,
+      "tons": 4856.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 15,
       "amount": 0,
       "jobs": [
         {
@@ -428,7 +428,7 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 12,
+      "count": 14,
       "amount": 0,
       "jobs": [
         {
@@ -465,7 +465,7 @@
     },
     {
       "bucket": "15-30 days",
-      "count": 37,
+      "count": 38,
       "amount": 0,
       "jobs": [
         {
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 416,
+    "Complete": 428,
     "Unscheduled": 37,
     "Cancelled": 4,
     "": 176,
-    "Scheduled": 80
+    "Scheduled": 68
   }
 }
