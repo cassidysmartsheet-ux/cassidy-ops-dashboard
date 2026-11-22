@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-21T23:48:27+00:00",
+  "generatedAt": "2026-11-22T04:52:32+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
-    "today": "2026-11-21",
+    "today": "2026-11-22",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31",
@@ -24,7 +24,7 @@
     },
     "slip7d": {
       "scheduled": 7,
-      "completed": 15
+      "completed": 12
     },
     "holdsMTD": {
       "weather": 0,
@@ -227,7 +227,7 @@
       "pm": "",
       "city": "haverhill",
       "endDate": "2026-05-25",
-      "varianceDays": 180,
+      "varianceDays": 181,
       "status": "Scheduled"
     },
     {
@@ -237,7 +237,7 @@
       "pm": "",
       "city": "Haverhill",
       "endDate": "2026-06-23",
-      "varianceDays": 151,
+      "varianceDays": 152,
       "status": "Scheduled"
     },
     {
@@ -247,7 +247,7 @@
       "pm": "",
       "city": "Burlington",
       "endDate": "2026-08-21",
-      "varianceDays": 92,
+      "varianceDays": 93,
       "status": "Scheduled"
     },
     {
@@ -257,7 +257,7 @@
       "pm": "",
       "city": "North Andover",
       "endDate": "2026-09-17",
-      "varianceDays": 65,
+      "varianceDays": 66,
       "status": "Scheduled"
     },
     {
@@ -267,7 +267,7 @@
       "pm": "",
       "city": "Sunapee",
       "endDate": "2026-09-18",
-      "varianceDays": 64,
+      "varianceDays": 65,
       "status": "Scheduled"
     },
     {
@@ -277,7 +277,7 @@
       "pm": "",
       "city": "Bellingham",
       "endDate": "2026-09-18",
-      "varianceDays": 64,
+      "varianceDays": 65,
       "status": "Scheduled"
     },
     {
@@ -287,7 +287,7 @@
       "pm": "",
       "city": "N Attleboro",
       "endDate": "2026-11-03",
-      "varianceDays": 18,
+      "varianceDays": 19,
       "status": "Scheduled"
     },
     {
@@ -297,7 +297,7 @@
       "pm": "",
       "city": "Exeter",
       "endDate": "2026-11-09",
-      "varianceDays": 12,
+      "varianceDays": 13,
       "status": "Scheduled"
     },
     {
@@ -307,17 +307,17 @@
       "pm": "",
       "city": "Billerica",
       "endDate": "2026-11-18",
-      "varianceDays": 3,
+      "varianceDays": 4,
       "status": "Scheduled"
     },
     {
-      "jobNum": "FJ-0303-26",
-      "company": "Cassidy Corp",
-      "phase": "Paving",
+      "jobNum": "4199-26",
+      "company": "Equity Industrial Partners Corp",
+      "phase": "Hand",
       "pm": "",
-      "city": "Haverhill",
-      "endDate": "2026-11-28",
-      "varianceDays": 2,
+      "city": "Billerica",
+      "endDate": "2026-11-19",
+      "varianceDays": 3,
       "status": "Scheduled"
     }
   ],
@@ -391,36 +391,36 @@
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 15,
+      "count": 12,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "4280-26",
-          "company": "V12 Investments",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4491-26",
-          "company": "Grasso Construction",
-          "amount": 0,
-          "ageDays": 7
-        },
-        {
-          "jobNum": "4486-26",
-          "company": "Jc Grounds",
-          "amount": 0,
-          "ageDays": 7
-        },
         {
           "jobNum": "4167-26",
           "company": "Dartmouthcompany",
           "amount": 0,
-          "ageDays": 5
+          "ageDays": 6
         },
         {
           "jobNum": "4280-26",
           "company": "V12 Investments",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4210-26",
+          "company": "Wingate",
+          "amount": 0,
+          "ageDays": 6
+        },
+        {
+          "jobNum": "4301-26",
+          "company": "Ocean State Job Lot",
+          "amount": 0,
+          "ageDays": 5
+        },
+        {
+          "jobNum": "4453-26",
+          "company": "Summit Realty Partners",
           "amount": 0,
           "ageDays": 5
         }
@@ -428,9 +428,15 @@
     },
     {
       "bucket": "8-14 days",
-      "count": 14,
+      "count": 17,
       "amount": 0,
       "jobs": [
+        {
+          "jobNum": "4282-26",
+          "company": "G and M New England",
+          "amount": 0,
+          "ageDays": 13
+        },
         {
           "jobNum": "4282-26",
           "company": "G and M New England",
@@ -438,102 +444,96 @@
           "ageDays": 12
         },
         {
-          "jobNum": "4282-26",
-          "company": "G and M New England",
-          "amount": 0,
-          "ageDays": 11
-        },
-        {
           "jobNum": "4426-26",
           "company": "Honda Westborough",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 12
         },
         {
           "jobNum": "4438-26",
           "company": "EQT",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 12
         },
         {
           "jobNum": "3720-26",
           "company": "Wilder",
           "amount": 0,
-          "ageDays": 11
+          "ageDays": 12
         }
       ]
     },
     {
       "bucket": "15-30 days",
-      "count": 38,
+      "count": 37,
       "amount": 0,
       "jobs": [
-        {
-          "jobNum": "3801-26",
-          "company": "Superior Sealcoating",
-          "amount": 0,
-          "ageDays": 30
-        },
         {
           "jobNum": "4407-26",
           "company": "Keypoint Partners",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3840-26",
           "company": "JLL - FRANKLIN",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "3840-26",
           "company": "JLL - FRANKLIN",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
         },
         {
           "jobNum": "4357-26",
           "company": "Eastport - Peabody",
           "amount": 0,
-          "ageDays": 29
+          "ageDays": 30
+        },
+        {
+          "jobNum": "4234-26",
+          "company": "Ocean State Job Lot",
+          "amount": 0,
+          "ageDays": 30
         }
       ]
     },
     {
       "bucket": "30+ days",
-      "count": 401,
+      "count": 402,
       "amount": 3761736,
       "jobs": [
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 324
+          "ageDays": 325
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 324
+          "ageDays": 325
         },
         {
           "jobNum": "3344-25",
           "company": "Boston Scientific",
           "amount": 0,
-          "ageDays": 324
+          "ageDays": 325
         },
         {
           "jobNum": "3641-26",
           "company": "Evergreen Management Group",
           "amount": 0,
-          "ageDays": 324
+          "ageDays": 325
         },
         {
           "jobNum": "3330-25",
           "company": "PMA - Brickett Hill",
           "amount": 0,
-          "ageDays": 324
+          "ageDays": 325
         }
       ]
     }
