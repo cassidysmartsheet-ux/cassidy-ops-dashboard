@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:42:48+00:00",
+  "generatedAt": "2026-11-27T20:19:22+00:00",
   "source": "Cassidy Smartsheet — Operations Schedule + Silva Billing Queue",
   "asOf": {
     "today": "2026-11-27",
@@ -15,16 +15,16 @@
       "pct": 83.3
     },
     "tonsMTD": {
-      "value": 34820.0,
+      "value": 38048.0,
       "priorMonth": 66912.0
     },
     "syMTD": {
-      "value": 238137.0,
+      "value": 267800.0,
       "priorMonth": 407215.0
     },
     "slip7d": {
-      "scheduled": 15,
-      "completed": 6
+      "scheduled": 8,
+      "completed": 13
     },
     "holdsMTD": {
       "weather": 0,
@@ -32,7 +32,7 @@
       "total": 0
     },
     "revenueInProgress": {
-      "amount": 2806889
+      "amount": 2311319
     }
   },
   "crewUtilGrid": [
@@ -291,16 +291,6 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "4414-26",
-      "company": "Equity Industrial Partners Corp",
-      "phase": "Milling",
-      "pm": "",
-      "city": "Billerica",
-      "endDate": "2026-11-18",
-      "varianceDays": 9,
-      "status": "Scheduled"
-    },
-    {
       "jobNum": "4199-26",
       "company": "Equity Industrial Partners Corp",
       "phase": "Hand",
@@ -311,13 +301,23 @@
       "status": "Scheduled"
     },
     {
-      "jobNum": "3749-26",
-      "company": "JJ Phelan",
-      "phase": "Paving",
+      "jobNum": "4161-26",
+      "company": "Tufts University",
+      "phase": "Reclaim/Grading",
+      "pm": "",
+      "city": "Somerville",
+      "endDate": "2026-11-24",
+      "varianceDays": 3,
+      "status": "Scheduled"
+    },
+    {
+      "jobNum": "FJ-0603-26",
+      "company": "Massport",
+      "phase": "Hand",
       "pm": "",
       "city": "Boston",
-      "endDate": "2026-11-23",
-      "varianceDays": 4,
+      "endDate": "2026-11-24",
+      "varianceDays": 3,
       "status": "Scheduled"
     }
   ],
@@ -379,19 +379,19 @@
     },
     {
       "weekStart": "2026-11-16",
-      "tons": 6437.0,
+      "tons": 7335.0,
       "tonsLY": 0
     },
     {
       "weekStart": "2026-11-23",
-      "tons": 485.0,
+      "tons": 2815.0,
       "tonsLY": 0
     }
   ],
   "completedNotBilled": [
     {
       "bucket": "0-7 days",
-      "count": 6,
+      "count": 13,
       "amount": 0,
       "jobs": [
         {
@@ -419,16 +419,16 @@
           "ageDays": 7
         },
         {
-          "jobNum": "3002-25",
-          "company": "Alexadria Real estate",
+          "jobNum": "4414-26",
+          "company": "Equity Industrial Partners Corp",
           "amount": 0,
-          "ageDays": 4
+          "ageDays": 7
         }
       ]
     },
     {
       "bucket": "8-14 days",
-      "count": 19,
+      "count": 20,
       "amount": 0,
       "jobs": [
         {
@@ -545,10 +545,10 @@
     "overdueBalance": 0
   },
   "statusCounts": {
-    "Complete": 436,
+    "Complete": 445,
     "Unscheduled": 37,
     "Cancelled": 4,
     "": 172,
-    "Scheduled": 67
+    "Scheduled": 58
   }
 }
